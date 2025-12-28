@@ -1,0 +1,20 @@
+User: Mr. Lehrer received an honorary doctorate of humane letters. Other honorary degree recipients were Louise Gluck, the Pulitzer Prize-winning poet and senior lecturer in English at Williams; Henry Louis Gates Jr., the W. E. B. Du Bois Professor of Humanities at Harvard University; Maya Lin, the designer of the Vietnam Veterans' Memorial in Washington; Earl A. Powell 3d, a Williams alumnus who is director of the National Gallery of Art; Martin Scorsese, the film maker; Sir Richard Norman, rector of Exeter College at Oxford University; Harry C. Payne, president of Hamilton College, who will take over next January as Williams's president, and Walter V. Shipley, president of Chemical Bank and a Williams alumnus.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because Henry Louis Gates Jr. is referred to as the W. E. B. Du Bois Professor of Humanities, implying Du Bois's scholarly work and legacy.
+   - Activist: Not directly applicable because there is no explicit mention of Du Bois's activism or leadership in the passage.
+
+2. **General Themes**:
+    - Monumental Memorialization: Applicable because the W. E. B. Du Bois Professor of Humanities is an enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Not applicable because there is no direct mention or quotation of Du Bois's academic works or major theoretical concepts in the passage.
+    - Social/Political Advocacy: Not applicable because the passage does not mention or imply any form of social or political activism, advocacy, critique, or discourse related to Du Bois.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because there is no description of Du Bois as an agent establishing his reputation through organizational and institutional sponsorship in the passage.
+    - Out of the Mouth of Academics: Applicable because Henry Louis Gates Jr., a member of an academic organization, is associated with Du Bois through his professorship.
+    - Out of the Mouth of Activists: Not applicable because there is no mention of an activist or leader referencing or drawing upon Du Bois's work or legacy in the passage.
+    - Collective Synecdoche: Not applicable because Du Bois is not mentioned alongside other famous intellectuals, activists, or public figures to represent a culture, era, or ideology in the passage.
+
+**Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Out of the Mouth of Academics

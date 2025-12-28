@@ -1,0 +1,5 @@
+User: Mr. Meade said Mr. Paynter's study would reveal ''the line of strength leading not just to Du Bois but to many families still in the area who were around just as long and who are just as important in their own ways.''
+Assistant: **Justification:** The passage does not apply the code because Mr. Meade is referencing W.E.B. Du Bois in a historical context, but there is no indication that he is a leader, activist, or politician, or that he is drawing upon Du Bois's work or legacy to connect to his own agenda or organization. The mention of Du Bois seems to be a neutral historical reference rather than an attempt to invoke his legacy for a specific purpose.
+
+**Codes Applied:**
+- None

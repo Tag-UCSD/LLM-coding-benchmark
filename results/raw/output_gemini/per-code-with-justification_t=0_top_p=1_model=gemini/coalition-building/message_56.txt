@@ -1,0 +1,5 @@
+User: But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing
+Assistant: **Justification:** The passage describes Du Bois being appointed to several prestigious positions at Harvard, including chairman of a department and director of an institute. This indicates he is being recognized and sponsored by an institution, which aligns with the definition of Du Bois as an agent establishing his reputation through organizational and institutional sponsorship.
+
+**Codes Applied:**
+- Coalition Building

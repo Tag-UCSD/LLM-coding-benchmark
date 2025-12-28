@@ -1,0 +1,5 @@
+User: The 1917 marchers, organized by W. E. B. Du Bois and the N.A.A.C.P., walked in their Sunday finest behind signs reading “Thou Shalt Not Kill?” and “Your Hands Are Full of Blood.”
+Assistant: **Justification:** The passage describes a march organized by W.E.B. Du Bois and the NAACP. W.E.B. Du Bois is explicitly identified as an organizer of this event, and the NAACP is a prominent activist organization. This directly aligns with the definition of the "Out of the Mouth of Activists" code, which applies when an individual described as a leader or activist, or a member of a specific political or activist organization, references or draws upon Du Bois's work or legacy, or when such organizations connect their agenda to Du Bois.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

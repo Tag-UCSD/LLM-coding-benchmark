@@ -1,0 +1,5 @@
+User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of an institute named after him, but it does not mention him alongside other famous intellectuals, activists, or public figures to represent a culture, era, or ideology. The focus is on Dr. Leonard's career and his involvement with the institute, rather than using Du Bois as a representative figure. Therefore, the code Collective Synecdoche is not applied.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: The Defender, a tabloid, helped nurture the careers of writers like Langston Hughes and W. E. B. Du Bois, a founder of the National Association for the Advancement of Colored People. And long before white politicians began to oppose the South's Jim Crow laws, The Defender published editorials decrying the treatment of black sharecroppers and promising a better life in Chicago's factories.
+Assistant: **Justification:** The passage explicitly states that W.E.B. Du Bois was a "founder of the National Association for the Advancement of Colored People." This directly aligns with the definition of "Activist" as it indicates his involvement in developing activist organizations and his leadership within the civil rights movement.
+
+**Codes Applied:**
+- Activist

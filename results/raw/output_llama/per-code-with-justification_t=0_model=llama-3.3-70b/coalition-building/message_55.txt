@@ -1,0 +1,5 @@
+User: ''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''
+Assistant: **Justification:** The passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it references Du Bois' model for Black studies, focusing on academic excellence and social responsibility, without mentioning his involvement in organizations or institutions that contributed to his reputation. The passage highlights Du Bois' ideas and their relevance to contemporary issues, rather than his methods of building coalitions or establishing his reputation.
+
+**Codes Applied:**
+- None

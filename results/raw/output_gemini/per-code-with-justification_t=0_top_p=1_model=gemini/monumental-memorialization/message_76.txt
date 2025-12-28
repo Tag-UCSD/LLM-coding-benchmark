@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage mentions a book title by W.E.B. Du Bois. The definition of "Monumental Memorialization" explicitly states not to apply the code when Du Bois is mentioned in the title of a book.
+
+**Codes Applied:**
+    - None

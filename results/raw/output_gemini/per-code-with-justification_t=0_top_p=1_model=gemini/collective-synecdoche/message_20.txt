@@ -1,0 +1,5 @@
+User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
+Assistant: **Justification:** W.E.B. Du Bois is mentioned in relation to the creation of an institute named after him. This does not involve him being used as a representative of a broader group or concept alongside other figures.
+
+**Codes Applied:**
+    - None

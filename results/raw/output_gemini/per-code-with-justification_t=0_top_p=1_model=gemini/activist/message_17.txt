@@ -1,0 +1,5 @@
+User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
+Assistant: **Justification:** The passage refers to a "W. E. B. Du Bois period," implying a significant era associated with his influence and contributions. While not explicitly stating he was an "activist" or "leader," the framing of a "period" named after him strongly suggests his role as a prominent figure whose work and ideas shaped a distinct historical phase, which aligns with the spirit of the "Activist" code by implying his significant public and social impact.
+
+**Codes Applied:**
+- Activist

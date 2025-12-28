@@ -1,0 +1,5 @@
+User: Ghana's tribute contrasts with the often ambivalent treatment accorded Du Bois in the United States. In America, the black writer, who began to press for civil rights in the early 1900's, is often mainly remembered for turning toward Communism and for becoming a Ghanaian citizen in his final years. Bernard Drew, president of the Berkshire County (Mass.) Historical Society, said in a telephone interview that Du Bois's birthplace in Great Barrington was a weed-choked lot marked by a ''crude and wooden'' plaque.
+Assistant: **Justification:** The passage does not mention any specific scholarly work or major theoretical concept by W.E.B. Du Bois, but rather discusses his general legacy and treatment in the United States. It also mentions his actions and affiliations, such as turning toward Communism and becoming a Ghanaian citizen, but does not reference any of his academic writings or ideas. Therefore, the code for Mention of Scholarly Work is not applicable.
+
+**Codes Applied:**
+- None

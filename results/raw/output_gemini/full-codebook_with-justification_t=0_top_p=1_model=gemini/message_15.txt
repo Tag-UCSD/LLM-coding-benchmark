@@ -1,0 +1,20 @@
+User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable, as the passage implies Du Bois's work would be of interest to "esteemed scholars."
+   - Activist: Not directly applicable, as the passage does not explicitly mention or imply Du Bois's activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable, as there is no mention of an enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Not applicable, as no specific academic works or major theoretical concepts by Du Bois are mentioned or quoted.
+    - Social/Political Advocacy: Applicable, as the passage discusses the importance of cultural preservation and the existence of a people, which aligns with Du Bois's broader critiques of social and racial injustices.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable, as there is no mention of Du Bois establishing his reputation through organizational or institutional sponsorship.
+    - Out of the Mouth of Academics: Applicable, as the passage mentions Du Bois in the context of being of interest to "esteemed scholars."
+    - Out of the Mouth of Activists: Not applicable, as no individuals described as activists or leaders are referencing Du Bois.
+    - Collective Synecdoche: Not applicable, as Du Bois is not mentioned alongside other figures to represent a broader concept.
+
+**Codes Applied**:
+- Scholar
+- Social/Political Advocacy
+- Out of the Mouth of Academics

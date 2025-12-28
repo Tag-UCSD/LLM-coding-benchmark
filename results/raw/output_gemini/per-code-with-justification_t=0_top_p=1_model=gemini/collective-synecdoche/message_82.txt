@@ -1,0 +1,5 @@
+User: Mr. Morgan, a 27-year-old anthropology student at Harvard, has accused Dr. Jeffries of threatening him during an Oct. 18 interview at City College. He said Dr. Jeffries made derogatory comments about several people, including Henry Louis Gates Jr., the director of the W. E. B. Du Bois Institute for African-American Research at Harvard, and then warned him not to publish his remarks.
+Assistant: **Justification:** W.E.B. Du Bois is mentioned as the namesake of an institute, which is then associated with Henry Louis Gates Jr. This positions Du Bois as a representative figure for African-American research and scholarship, fitting the definition of collective synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

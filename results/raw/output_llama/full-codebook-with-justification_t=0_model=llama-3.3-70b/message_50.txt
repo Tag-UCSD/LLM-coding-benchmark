@@ -1,0 +1,19 @@
+User: If not, try to imagine Father taking the phone, saying, ''Dear child, the categorical imperative was not W. E. B. Du Bois's; it was Immanuel Kant's. Which reminds me, I knew you hadn't been reading your Immanuel Kant, much less anything at all, when I got your postcard from Carmel-by-the-Sea saying you were 'having a wondurfull time reding ''The Criteek of Pure Reeson'' by Emanuel Can't.' ''
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because Du Bois is mentioned in an intellectual context, being compared to Immanuel Kant, implying a level of scholarly stature.
+   - Activist: Not applicable because there is no mention of Du Bois's activism or political activities in the passage.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable because there is no mention of any cultural object being named after Du Bois.
+    - Mention of Scholarly Work: Not applicable because although Du Bois is mentioned, there is no reference to his specific scholarly works or ideas.
+    - Social/Political Advocacy: Not applicable because the passage does not engage with social or political activism, advocacy, or critique related to Du Bois's work or ideas.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because there is no description of Du Bois establishing his reputation through organizational or institutional sponsorship.
+    - Out of the Mouth of Academics: Not applicable because the passage does not feature a specific academic discussing Du Bois's work or legacy.
+    - Out of the Mouth of Activists: Not applicable because there is no mention of an activist or politician referencing Du Bois's work or legacy.
+    - Collective Synecdoche: Applicable because Du Bois is mentioned alongside Immanuel Kant, representing a facet of intellectual culture.
+
+**Codes Applied**:
+- Scholar
+- Collective Synecdoche

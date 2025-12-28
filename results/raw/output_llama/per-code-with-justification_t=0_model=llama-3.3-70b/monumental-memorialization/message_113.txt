@@ -1,0 +1,5 @@
+User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois and references one of his works, "The Souls of Black Folk", but it does not mention any enduring cultural object being named after him. The reference is to a book written by Du Bois, which is excluded from the definition of Monumental Memorialization.
+
+**Codes Applied:**
+- None

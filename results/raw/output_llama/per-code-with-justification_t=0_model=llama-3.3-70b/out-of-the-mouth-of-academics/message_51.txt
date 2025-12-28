@@ -1,0 +1,5 @@
+User: The Defender, a tabloid, helped nurture the careers of writers like Langston Hughes and W. E. B. Du Bois, a founder of the National Association for the Advancement of Colored People. And long before white politicians began to oppose the South's Jim Crow laws, The Defender published editorials decrying the treatment of black sharecroppers and promising a better life in Chicago's factories.
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not mention a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept. Instead, it mentions Du Bois as a founder of the National Association for the Advancement of Colored People, which is a civil rights organization, not an academic organization. The passage is discussing Du Bois's role in a historical context, but it does not meet the criteria for the code.
+
+**Codes Applied:**
+- None

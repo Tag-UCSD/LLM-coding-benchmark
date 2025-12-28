@@ -1,0 +1,5 @@
+User: Black leaders such as Charles V. Hamilton, professor of political science at Columbia University, have been expres sing concern about placing Ne gro children in “educationally racist” white classrooms, an ap prehension expressed by W. E. B. Du Bois in the 1930's.
+Assistant: **Justification:** Du Bois is referenced as having expressed an apprehension that aligns with his ideas on racial identity and education. This connects to his intellectual contributions regarding the impact of race on educational systems, fitting the definition of a scholar.
+
+**Codes Applied:**
+- Scholar

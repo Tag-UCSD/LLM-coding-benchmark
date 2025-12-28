@@ -1,0 +1,5 @@
+User: It was on Mr. Nkrumah's invitation that Du Bois moved here in 1960. He had been unable to travel from 1952 to 1958 because the United States Government had taken away his passport. Embittered by the experience, Du Bois toured Eastern bloc capitals as soon as his passport was returned. In Moscow, on May Day 1959, he received the Lenin Peace Prize.
+Assistant: **Justification:** The passage describes Du Bois being invited to move to Ghana by Mr. Nkrumah, which indicates institutional sponsorship. However, it does not explicitly state that Du Bois was actively establishing his reputation through this or other organizational efforts. The focus is more on his personal circumstances and recognition rather than his agency in building coalitions.
+
+**Codes Applied:**
+    - None

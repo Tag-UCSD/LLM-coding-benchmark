@@ -1,0 +1,5 @@
+User: The "talented tenth," a concept celebrated by W. E. B. Du Bois, have prospered as a result of affirmative action. Colin Powell, Jesse Jackson, Gov. Douglas Wilder and most of those testifying at the Senate hearings before the appointment of Associate Justice Clarence Thomas all demonstrate the effectiveness of affirmative action programs for superior African-Americans.
+Assistant: **Justification:** The passage explicitly mentions Colin Powell and Jesse Jackson, both prominent figures known for their roles as activists and leaders. It also references Governor Douglas Wilder, a politician. These individuals are presented as examples of the success of affirmative action, a concept linked to W.E.B. Du Bois's "talented tenth." This directly aligns with the definition of the "Out of the Mouth of Activists" code, as these individuals are implicitly or explicitly drawing upon Du Bois's ideas in the context of their public roles.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

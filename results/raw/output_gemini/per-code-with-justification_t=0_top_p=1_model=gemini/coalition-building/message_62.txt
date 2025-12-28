@@ -1,0 +1,5 @@
+User: When reading Plato about justice, for example, an automobile mechanic may just awaken to a profound and unexpected sense of the good. A Blue Cross customer representative may find W. E. B. Du Bois no less inspiring than Mr. Levine found John Keats.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as someone who can be found inspiring, but it does not describe him as an agent establishing his reputation through organizational or institutional sponsorship. The focus is on individual inspiration rather than his role in building coalitions or institutions.
+
+**Codes Applied:**
+    - None

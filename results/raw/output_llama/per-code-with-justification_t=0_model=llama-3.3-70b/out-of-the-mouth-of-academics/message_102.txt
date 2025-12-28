@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not mention a specific member of an academic organization engaging with Du Bois's work. The setting appears to be a family dinner, and the discussion of Du Bois is casual and not presented in an academic context. The fact that the child is calling from Stanford, which is a university, is not sufficient to apply the code, as the child is not explicitly identified as a member of an academic organization discussing Du Bois's work.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,19 @@
+User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Not applicable. The passage does not describe Du Bois as a scholar or intellectual.
+   - Activist: Not directly applicable. While the passage mentions growing up in "this movement" and Du Bois being "dinner table conversation," it doesn't explicitly state Du Bois's activism or describe him as an activist.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable. There is no mention of any enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Not applicable. The passage does not mention any of Du Bois's academic works or theoretical concepts.
+    - Social/Political Advocacy: Applicable. The mention of growing up in "this movement" and Du Bois being "dinner table conversation" implies his connection to social or political advocacy that was part of the speaker's upbringing.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable. The passage does not describe Du Bois as an agent establishing his reputation through organizational or institutional sponsorship.
+    - Out of the Mouth of Academics: Not applicable. Mr. Bond is not identified as an academic, and the context does not suggest an academic engagement with Du Bois's work.
+    - Out of the Mouth of Activists: Applicable. Mr. Bond, by referencing his upbringing in "this movement" and Du Bois being "dinner table conversation," implies a connection to activism and the legacy of Du Bois within that context.
+    - Collective Synecdoche: Not applicable. Du Bois is not mentioned alongside other famous figures to represent a broader concept.
+
+**Codes Applied**:
+- Social/Political Advocacy
+- Out of the Mouth of Activists

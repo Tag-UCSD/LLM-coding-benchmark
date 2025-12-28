@@ -1,0 +1,5 @@
+User: What effect, many of us have worried, would this unprecedented rise in prosperity have on the New Millennials? Would they heed Du Bois’s call, as students like John Lewis and Julian Bond, Charlayne Hunter and Diane Nash did under the leadership of the “Negro Gandhi” presciently predicted by Du Bois back in 1948?
+Assistant: **Justification:** The passage explicitly mentions John Lewis and Julian Bond, who are widely recognized as prominent activists and leaders, referencing their actions as students who heeded Du Bois's call. This directly aligns with the definition of the "Out of the Mouth of Activists" code, as it describes individuals acting in leadership roles within activist movements drawing upon Du Bois's work.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

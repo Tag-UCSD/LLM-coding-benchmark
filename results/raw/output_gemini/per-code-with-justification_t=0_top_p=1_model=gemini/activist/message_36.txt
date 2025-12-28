@@ -1,0 +1,5 @@
+User: In that era, many slaves conceived of death as a kind of emancipation — one that might bring the soul home to Africa. W. E. B. Du Bois described this feeling in “The Souls of Black Folk,” writing, “Of death the Negro showed little fear, but talked of it familiarly and even fondly as simply crossing the waters, perhaps — who knows? — back to his ancient forests again.”
+Assistant: **Justification:** The passage quotes W.E.B. Du Bois's description of enslaved people's views on death from "The Souls of Black Folk." While this demonstrates Du Bois's intellectual contributions and his role as a scholar and writer, it does not explicitly or implicitly refer to him as an activist or describe his political or social activism.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: The earlier estimates had been based on supposition, as it turned out. Mr. Curtin’s figure, based on scrutiny of shipping contracts and port data, was substantially less than the widely repeated figure of 20 million, which, he showed, was an extrapolation from now-lost records pertaining to Jamaica, and the figure of 15 million used by W. E. B. Du Bois, who repeated a figure arrived at by Edward Dunbar, a 19th-century abolitionist. 
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois in the context of him using a figure arrived at by another scholar, but it does not describe him as a scholar or intellectual, nor does it invoke his ideas on social theory. Du Bois is merely referenced as someone who repeated a figure, without any emphasis on his scholarly work or intellectual contributions. The passage is more focused on the estimates and figures related to shipping contracts and port data.
+
+**Codes Applied:**
+- None

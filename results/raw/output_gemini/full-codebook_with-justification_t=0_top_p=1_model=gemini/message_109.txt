@@ -1,0 +1,20 @@
+User: A few independent black American scholars have pur sued these lines, but no one can do it alone even in an entire lifetime. No one can hope to discover all the sources or to command so much knowl edge. Scholars such as W. E. B. Du Bois, Benjamin Brawley, Rayford Logan, Franklin Fra zier, John Hope Franklin and Benjamin Quarles have, com mendably and thoroughly, each examined his own length of line.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable, as Du Bois is listed alongside other individuals described as "scholars" and is implicitly recognized for his intellectual contributions to understanding Black American experiences.
+   - Activist: Not directly applicable, as the passage focuses on the scholarly pursuits of these individuals and does not mention any explicit activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable, as there is no mention of any enduring cultural objects named after Du Bois.
+    - Mention of Scholarly Work: Not directly applicable, as while Du Bois is mentioned as a scholar, specific scholarly works or theoretical concepts are not named or quoted.
+    - Social/Political Advocacy: Not directly applicable, as the passage focuses on the academic examination of lines of inquiry rather than explicit social or political advocacy.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable, as the passage does not describe Du Bois as an agent establishing his reputation through organizational or institutional sponsorship.
+    - Out of the Mouth of Academics: Applicable, as Du Bois is mentioned in the context of a list of "independent black American scholars" who have examined specific areas of study.
+    - Out of the Mouth of Activists: Not applicable, as the individuals mentioned are described as scholars, not activists or leaders.
+    - Collective Synecdoche: Applicable, as Du Bois is mentioned alongside other famous Black American intellectuals to represent a facet of race scholarship and historical examination.
+
+**Codes Applied**:
+- Scholar
+- Out of the Mouth of Academics
+- Collective Synecdoche

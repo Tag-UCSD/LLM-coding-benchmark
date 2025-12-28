@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** The passage does not apply the code because it does not describe a leader, activist, or politician referencing or drawing upon W.E.B. Du Bois's work or legacy. Instead, it appears to be a fictional, domestic scene where a family member is discussing Du Bois in a casual conversation, which does not fit the criteria for the "Out of the Mouth of Activists" code.
+
+**Codes Applied:**
+- None

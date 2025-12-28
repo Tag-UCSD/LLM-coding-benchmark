@@ -1,0 +1,5 @@
+User: ''The question of race is critical,'' said Stephen K. Hindy, co-founder of the new Brooklyn Brewery, who lives on Eighth Street and works on Second Street. ''From what I've read, Dinkins is more sensitive to that and more capable of dealing with that than the other candidates. I think it was W. E. B. Du Bois who said that the color line is the critical problem of the 20th century. I agree with that. It's explosive. ''When Koch insults Jesse Jackson or says something flip about a potential racial incident, that's very dangerous. And it alienates a huge number of people.''
+Assistant: **Justification:** The passage directly quotes W.E.B. Du Bois stating "the color line is the critical problem of the 20th century." This is a well-known concept from his scholarly work, specifically related to his analysis of race and its societal impact. The quote is presented as a foundational idea attributed to Du Bois, fitting the definition of mentioning a scholarly work or major theoretical concept.
+
+**Codes Applied:**
+- Mention of Scholarly Work

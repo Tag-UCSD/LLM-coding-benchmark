@@ -1,0 +1,5 @@
+User: Accorded a full state funeral in his adopted Africa, W. E. B. Du Bois, widely regarded as black America's leading intellectual of the 20th century, was reburied here last summer in a tomb constructed near his old bungalow at 22 First Circular Road. His modest colonial-era home, where he died in 1963 at the age of 95, is now a Ghanaian national monument and has been renamed the W. E. B. Du Bois Memorial Center for Pan-African Culture.
+Assistant: **Justification:** The passage does not mention a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept. It also does not mention an activist organization naming itself or a subdivision after Du Bois in an academic context. The passage primarily focuses on Du Bois's funeral, burial, and the renaming of his home as a national monument, which does not meet the criteria for the "Out of the Mouth of Academics" code.
+
+**Codes Applied:**
+- None

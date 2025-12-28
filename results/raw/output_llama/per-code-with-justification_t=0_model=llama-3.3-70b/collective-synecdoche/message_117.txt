@@ -1,0 +1,5 @@
+User: Vernon Jordan, a former adviser to President Clinton, suggested in a telephone interview that Mr. West — perhaps beginning with the classical education imparted by his parents — seemed destined to join the one in 10 black men whom W. E. B. Du Bois predicted at the dawn of the 20th century would become African-American leaders. “He went to school and to law school inspired to serve the best interests of the community because he was one who understood Du Bois’s mandate to the ‘Talented Tenth,’ ” Mr. Jordan said. “Du Bois would be pleased with his legacy.”
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his idea of the "Talented Tenth," but it does not mention him alongside other famous intellectuals or activists to represent a culture, era, or ideology. Instead, Du Bois is referenced specifically for his concept, and the focus is on how Cornel West's legacy aligns with Du Bois's idea. Therefore, the code Collective Synecdoche is not applied because Du Bois is not being used to represent a broader group or concept alongside other notable figures.
+
+**Codes Applied:**
+- None

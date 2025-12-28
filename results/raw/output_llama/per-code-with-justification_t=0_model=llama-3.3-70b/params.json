@@ -1,0 +1,16 @@
+{
+    "model": "llama-3.3-70b-versatile",
+    "temperature": 0,
+    "with_justification": true,
+    "codes": [
+        "Scholar",
+        "Activist",
+        "Monumental Memorialization",
+        "Mention of Scholarly Work",
+        "Social/Political Advocacy",
+        "Coalition Building",
+        "Out of the Mouth of Academics",
+        "Out of the Mouth of Activists",
+        "Collective Synecdoche"
+    ]
+}

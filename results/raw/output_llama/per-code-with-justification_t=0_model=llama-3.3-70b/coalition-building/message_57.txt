@@ -1,0 +1,5 @@
+User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
+Assistant: **Justification:** The passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it mentions Du Bois as a reference point in a dissenting opinion, without discussing his relationships with organizations or institutions. This context does not align with the definition of the Coalition Building code.
+
+**Codes Applied:**
+- None

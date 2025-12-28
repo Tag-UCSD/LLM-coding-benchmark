@@ -1,0 +1,21 @@
+User: The New York Times, The Wall Street Journal, The Chicago Tribune and The Oregonian in Portland each received two awards. The author David Levering Lewis was among the winners in the arts for ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963.'' B8
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because the passage mentions a book about Du Bois's life and work, implying his intellectual contributions and scholarly impact.
+   - Activist: Not directly applicable because the passage does not explicitly mention Du Bois's activism or leadership, although the title of the book suggests it may be discussed within the book itself.
+
+2. **General Themes**:
+    - Monumental Memorialization: Applicable because the passage mentions an award, which can be considered a form of enduring cultural recognition, and the book title directly references Du Bois, implying a form of memorialization.
+    - Mention of Scholarly Work: Applicable because the book title references a specific period in Du Bois's life and implies a scholarly examination of his work and ideas.
+    - Social/Political Advocacy: Not applicable because the passage does not mention or imply any form of social or political activism, critique, or discourse related to Du Bois's work or ideas.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because the passage does not describe Du Bois as an agent establishing his reputation through organizational or institutional sponsorship.
+    - Out of the Mouth of Academics: Applicable because the author, David Levering Lewis, is likely an academic or intellectual figure, and the book about Du Bois represents a discussion of his work by an academic.
+    - Out of the Mouth of Activists: Not applicable because the passage does not mention any activists or leaders referencing or drawing upon Du Bois's work or legacy.
+    - Collective Synecdoche: Not applicable because the passage does not mention Du Bois alongside other famous intellectuals, activists, or public figures to represent a culture, era, or ideology.
+
+**Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Mention of Scholarly Work
+- Out of the Mouth of Academics

@@ -1,0 +1,5 @@
+User: Dr. C. Eric Lincoln, academy board president, said he had written the Department of Jus tice to protest the denial of a visa to Mrs. Shirley Graham DuBois, widow of W. E. B. Du Bois.
+Assistant: **Justification:** The passage mentions Dr. C. Eric Lincoln, who is described as the academy board president, taking action by writing to the Department of Justice to protest the denial of a visa to Mrs. Shirley Graham DuBois, which connects his role as a leader to the legacy of W.E.B. Du Bois through his action of supporting Du Bois' widow. This implies that Lincoln is drawing upon Du Bois' legacy in his actions as a leader. The code applies because Lincoln's role as a leader is explicitly stated and his actions are connected to Du Bois' legacy.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

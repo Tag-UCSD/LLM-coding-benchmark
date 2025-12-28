@@ -1,0 +1,5 @@
+User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
+Assistant: **Justification:** This passage mentions W.E.B. Du Bois alongside other notable figures, James Baldwin and Ta-Nehisi Coates, who are all prominent intellectuals and activists, particularly in the context of race and social justice. By citing them together, the passage uses these individuals to represent a broader perspective on issues of racial justice and civil rights. This grouping implies that Du Bois, along with Baldwin and Coates, symbolizes a particular facet of cultural and ideological thought.
+
+**Codes Applied:**
+- Collective Synecdoche

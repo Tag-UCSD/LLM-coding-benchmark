@@ -1,0 +1,5 @@
+User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
+Assistant: **Justification:** The passage describes Dr. Leonard as being instrumental in the creation of the W.E.B. Du Bois Institute for Afro-American Research at Harvard. This implies Du Bois's reputation was being established and supported through the institutional sponsorship of Harvard University, aligning with the definition of Coalition Building.
+
+**Codes Applied:**
+- Coalition Building

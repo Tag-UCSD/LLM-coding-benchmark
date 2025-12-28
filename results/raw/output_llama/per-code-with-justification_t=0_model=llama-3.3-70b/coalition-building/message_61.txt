@@ -1,0 +1,5 @@
+User: Orlando Patterson (Op-Ed, Nov. 2) asserts that for many African-Americans and some scholars ''Jefferson's contradictions were . . . more reason for a separatist interpretation'' of America's racist legacy. Yet any serious reading of the work of mainstream black intellectuals whose lives were devoted to inclusion rather than separatism, like Frederick Douglass, W. E. B. Du Bois and the Rev. Dr. Martin Luther King Jr., would not support that assertion.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as one of the mainstream black intellectuals whose life was devoted to inclusion, but it does not describe him as an agent establishing his reputation through organizational and institutional sponsorship. The focus is on his intellectual stance and legacy rather than his involvement in coalition building or organizational efforts. Therefore, the code "Coalition Building" is not applicable in this context.
+
+**Codes Applied:**
+- None

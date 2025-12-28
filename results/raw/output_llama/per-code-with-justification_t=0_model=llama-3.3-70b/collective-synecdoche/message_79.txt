@@ -1,0 +1,5 @@
+User: The 68 photographs in the exhibit provide a broad view of black Americans from before the Civil War through the early 1980's. Images of anonymous families, workers and soldiers are shown as well as portraits of public figures like W. E. B. Du Bois, the Rev. Dr. Martin Luther King Jr. and Marian Anderson.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other notable public figures, specifically the Rev. Dr. Martin Luther King Jr. and Marian Anderson, who are all prominent representatives of Black excellence and civil rights activism. This grouping implies that Du Bois is being used to represent a facet of Black culture and intellectual leadership. The context suggests that Du Bois is being mentioned collectively with these other figures to convey a broader representation of Black American experience and achievement.
+
+**Codes Applied:**
+- Collective Synecdoche

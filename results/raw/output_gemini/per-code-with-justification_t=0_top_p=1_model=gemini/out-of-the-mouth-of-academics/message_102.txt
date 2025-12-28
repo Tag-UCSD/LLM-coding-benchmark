@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a hypothetical conversation where a child from Stanford is discussing his "categorical imperative." While Stanford is an academic institution, the passage does not indicate that the child is an academic or that they are engaging with Du Bois's work in an academic capacity. The focus is on a personal conversation, not an academic discussion or representation of Du Bois by an academic.
+
+**Codes Applied:**
+    - None

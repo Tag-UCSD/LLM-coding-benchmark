@@ -1,0 +1,5 @@
+User: It had been a full, though not unusual, day for Cornel West. That morning, he had lectured twice at Princeton: first on W. E. B. Du Bois, Toni Morrison and James Baldwin in a course on Afro-American culture; then on Virginia Woolf, T. S. Eliot, Frantz Fanon and the Zionist philosopher Ahad Ha'am to a class entitled "Religion and Cultural Criticism."
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other notable figures such as Toni Morrison and James Baldwin, which represents a facet of Afro-American culture and intellectualism. This grouping of famous intellectuals and activists is an example of using them to represent a broader cultural or ideological concept. By mentioning Du Bois in this context, the passage is using him as part of a collective representation of Afro-American culture and intellectual thought.
+
+**Codes Applied:**
+- Collective Synecdoche

@@ -1,0 +1,5 @@
+User: Black leaders such as Charles V. Hamilton, professor of political science at Columbia University, have been expres sing concern about placing Ne gro children in “educationally racist” white classrooms, an ap prehension expressed by W. E. B. Du Bois in the 1930's.
+Assistant: **Justification:** This passage applies the Social/Political Advocacy code because it mentions W.E.B. Du Bois in the context of discussing a social problem, specifically the issue of "educationally racist" white classrooms and its impact on Negro children. The passage implies that Du Bois's work or ideas are being invoked to critically engage with the broader systemic circumstances of Black people, particularly in the context of education. By referencing Du Bois's apprehension from the 1930s, the passage frames his ideas as part of a ongoing discourse on social and racial issues.
+
+**Codes Applied:**
+- Social/Political Advocacy

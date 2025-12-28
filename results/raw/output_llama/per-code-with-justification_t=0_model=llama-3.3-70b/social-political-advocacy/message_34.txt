@@ -1,0 +1,5 @@
+User: This — the extent to which democracy in the South threatened to undermine the imperatives of capital — was simply too much for Northern industry to bear. And so it turned against abolition-democracy, already faltering as it was in the face of Southern reaction. “Brute force was allowed to use its unchecked power,” Du Bois writes, “to destroy the possibility of democracy in the South, and thereby make the transition from democracy to plutocracy all the easier and more inevitable.”
+Assistant: **Justification:** This passage applies the Social/Political Advocacy code because it discusses the historical context of democracy and abolition in the South, and how it was undermined by the interests of capital, which is a form of social critique. The quote from Du Bois also explicitly mentions the destruction of democracy and the transition to plutocracy, implying a critical engagement with systemic circumstances. The passage frames Du Bois's work as a commentary on the social and political problems of his time.
+
+**Codes Applied:**
+- Social/Political Advocacy

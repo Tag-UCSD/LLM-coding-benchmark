@@ -1,0 +1,19 @@
+User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable, as the passage directly references a key concept from Du Bois's scholarly work, "The Souls of Black Folk."
+   - Activist: Not applicable, as the passage focuses on a theoretical concept from his writing and does not mention his activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable, as there is no mention of any enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Applicable, as the passage explicitly quotes or references a concept from Du Bois's scholarly work, "The Souls of Black Folk."
+    - Social/Political Advocacy: Not applicable, as the passage focuses on a theoretical concept and does not discuss advocacy or social/political issues.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable, as there is no mention of Du Bois building his reputation through organizational sponsorship.
+    - Out of the Mouth of Academics: Not applicable, as the passage does not indicate that an academic is discussing Du Bois's work.
+    - Out of the Mouth of Activists: Not applicable, as the passage does not indicate that an activist is referencing Du Bois's work or legacy.
+    - Collective Synecdoche: Not applicable, as Du Bois is not mentioned alongside other figures to represent a broader concept.
+
+**Codes Applied**:
+- Scholar
+- Mention of Scholarly Work

@@ -1,0 +1,5 @@
+User: Outside the church, attempts to organize national self-help groups had checkered histories. Booker T. Washington's National Negro Business League, formed to aid small black businesses, met resistance from both whites and black leaders like W. E. B. Du Bois, who objected to Washington's acceptance of racial segregation.
+Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it discusses Du Bois' opposition to Booker T. Washington's views on racial segregation. The mention of Du Bois is in the context of his role as a leader and his opinions, rather than any form of memorialization or naming of an object after him.
+
+**Codes Applied:**
+- None

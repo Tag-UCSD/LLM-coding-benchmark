@@ -1,0 +1,5 @@
+User: The only way to learn spelling is to read so much that you automatically recognize what thousands and thousands of English words look like. And how much Aristotle, Plato, St. Thomas, Du Bois and Carrie Chapman Catt can a college student read before overtaken by stupor?
+Assistant: **Justification:** The passage mentions Du Bois in a list of authors alongside Aristotle, Plato, St. Thomas, and Carrie Chapman Catt. There is no indication that Du Bois is being described as an agent establishing his reputation through organizational or institutional sponsorship. The context is simply about the volume of reading material available to a college student.
+
+**Codes Applied:**
+    - None

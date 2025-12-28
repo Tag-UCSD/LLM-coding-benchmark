@@ -1,0 +1,5 @@
+User: Black leaders such as Charles V. Hamilton, professor of political science at Columbia University, have been expres sing concern about placing Ne gro children in “educationally racist” white classrooms, an ap prehension expressed by W. E. B. Du Bois in the 1930's.
+Assistant: **Justification:** Charles V. Hamilton, identified as a professor of political science at Columbia University, is explicitly engaging with W.E.B. Du Bois's work by expressing a concern that mirrors Du Bois's apprehension from the 1930s. This directly aligns with the definition of the "Out of the Mouth of Academics" code, which is applied when an academic discusses Du Bois's work or Du Bois as a concept.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

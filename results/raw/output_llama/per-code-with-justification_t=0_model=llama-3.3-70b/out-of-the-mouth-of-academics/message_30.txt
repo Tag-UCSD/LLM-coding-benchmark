@@ -1,0 +1,5 @@
+User: I am not siding with the revolution here. Though not required in college to read the works of W. E. B. Du Bois and Carrie Chapman Catt, I am confident I could have found them just as conducive to deep coma as Aristotle was.
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because the author is not a specific member of an academic organization engaging with Du Bois's work, but rather a general individual referencing Du Bois in a casual manner. The author mentions college, but this is not sufficient to imply an academic organization discussing Du Bois. The tone of the passage also suggests a personal opinion rather than an academic discussion.
+
+**Codes Applied:**
+- None

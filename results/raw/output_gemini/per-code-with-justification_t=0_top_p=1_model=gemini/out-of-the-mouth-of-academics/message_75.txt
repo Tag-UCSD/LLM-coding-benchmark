@@ -1,0 +1,5 @@
+User: The only way to learn spelling is to read so much that you automatically recognize what thousands and thousands of English words look like. And how much Aristotle, Plato, St. Thomas, Du Bois and Carrie Chapman Catt can a college student read before overtaken by stupor?
+Assistant: **Justification:** The passage mentions Du Bois in the context of a college student reading his work. This implies an academic engagement with Du Bois's writings, fitting the definition of the "Out of the Mouth of Academics" code.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

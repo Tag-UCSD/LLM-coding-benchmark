@@ -1,0 +1,5 @@
+User: As they gazed up the hill from ''the valley,'' as central Harlem was sometimes called, Harlemites saw a shimmering bluff that would, from 1929 until midcentury, become a hub of elite black society. The names of those who lived there read like a Who's Who of black history: Ralph Ellison, Thurgood Marshall, Joe Louis, W. E. B. Du Bois, James Baldwin, Adam Clayton Powell Sr., Zora Neale Hurston, Duke Ellington and Paul Robeson, to name a few.
+Assistant: **Justification:** This passage does not apply the Social/Political Advocacy code because it simply lists W.E.B. Du Bois alongside other notable figures of black history without mentioning or implying any form of social or political activism, advocacy, or critique. The passage is primarily descriptive, focusing on the geographic and social characteristics of central Harlem, and does not engage with Du Bois's work, persona, or ideas in a manner that critically examines social norms, historical narratives, or racial identities. The inclusion of Du Bois in the list of notable residents is insufficient to warrant the application of the code.
+
+**Codes Applied:**
+- None

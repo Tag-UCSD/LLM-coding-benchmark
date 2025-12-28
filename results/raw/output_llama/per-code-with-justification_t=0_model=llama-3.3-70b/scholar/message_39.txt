@@ -1,0 +1,5 @@
+User: Professor Stuckey once said in an interview that while growing up he was most inspired by two books, Du Bois’s “The Souls of Black Folk" (1903) and “Folk Songs of North America” (1960), by the ethnomusicologist Alan Lomax.
+Assistant: **Justification:** The passage mentions Du Bois's book "The Souls of Black Folk", which is a seminal work in social theory and racial identity, but it does not describe Du Bois as a scholar or intellectual, nor does it invoke his ideas on social theory. The mention of the book is more of a historical and academic reference, and Du Bois's scholarship is only implied by the mention of his work. 
+
+**Codes Applied:**
+- None

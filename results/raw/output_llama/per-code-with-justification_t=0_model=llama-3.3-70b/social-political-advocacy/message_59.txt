@@ -1,0 +1,5 @@
+User: Sowell considers West Indians and educated blacks whose genealogy can be traced to freedmen as a group “atypical of the black population” and that they have dissimilar interest from that of poor blacks. As an example he selects the radical W.E.B. Du Bois as the “free person of color,” but his contemporary, the conservatively‐oriented ex‐slave Booker T. Washington, who wielded far more power than Du Bois, is conveniently ignored since he does not fit the Sowell thesis.
+Assistant: **Justification:** This passage implies social and political discourse by mentioning the differing interests of various groups within the black population and referencing the radical views of W.E.B. Du Bois, which suggests a critical engagement with social norms and racial identities. The comparison between Du Bois and Booker T. Washington also highlights a discussion about historical narratives and the positionality of Black people. The passage critiques Sowell's thesis, which further indicates a form of social and political advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

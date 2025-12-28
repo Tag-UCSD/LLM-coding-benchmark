@@ -1,0 +1,5 @@
+User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as an individual figure, noting that some black teenagers may not have heard of him, rather than grouping him with other intellectuals or activists to represent a broader concept or ideology. The focus is on the collection and Mr. Clayton's mother's efforts, with Du Bois serving as an example of someone whose work might be of interest to the collection's users. There is no mention of Du Bois in the context of a group of famous intellectuals or activists.
+
+**Codes Applied:**
+- None

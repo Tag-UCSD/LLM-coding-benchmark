@@ -1,0 +1,140 @@
+id,Scholar,Activist,Monumental Memorialization,Mention of Scholarly Work,Social/Political Advocacy,Coalition Building,Out of the Mouth of Academics,Out of the Mouth of Activists,Collective Synecdoche,file_contents
+57,1,0,0,0,1,0,1,0,1,"User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
+Assistant: **Codes Applied**:
+- Scholar
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+- Collective Synecdoche
+"
+56,1,0,1,0,0,0,1,0,0,"User: But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing
+Assistant: **Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Out of the Mouth of Academics
+"
+54,0,1,0,0,1,0,1,0,0,"User: Dr. C. Eric Lincoln, academy board president, said he had written the Department of Jus tice to protest the denial of a visa to Mrs. Shirley Graham DuBois, widow of W. E. B. Du Bois.
+Assistant: **Codes Applied**:
+- Activist
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+"
+55,1,0,0,0,1,0,1,0,0,"User: ''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''
+Assistant: **Codes Applied**:
+- Scholar
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+"
+78,1,0,0,1,0,0,1,0,1,"User: The late C. Wright Mills—isolated and harassed because of his radicalism —once remarked that all social science for the past century and a halt is a dialogue with Marx. I think he was right. One will find upon examining the writings of American scholars such as Charles A. Beard, John R. Commons, Albion W. Small, Thorstein Veblen, W. E. B. Du Bois and E. R. A. Seligman that though most did not find Marxism fully persuasive, they all treated Marxism as one of the most illuminating forms of thought in existence
+Assistant: **Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Collective Synecdoche
+- Out of the Mouth of Academics
+"
+53,0,1,0,1,1,0,1,0,0,"User: DAVID LEVERING LEWIS met W. E. B. Du Bois in 1948 on the campus of Wilberforce University in Ohio. Mr. Du Bois was 80 years old; Mr. Lewis was 12. Mr. Du Bois, a founder of the National Association for the Advancement of Colored People whom Dr. Lewis calls ''the premier architect of the civil rights movement in the United States,'' was scheduled to give a talk there that day. Mr. Lewis's father, the dean of the university's theological school, was chatting with him. As Mr. Lewis, now 66 year old, recalls that moment long ago, Mr. Du Bois asked him what he planned to do with his life. ''That would have been a typical Du Boisian question at the time,'' said Dr. Lewis, sitting in his book-filled apartment with his wife, Ruth Ann Stewart, like him a professor at Rutgers University in New Brunswick. ''And I have no idea what I might have said to him.''
+Assistant: **Codes Applied**:
+- Activist
+- Mention of Scholarly Work
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+"
+34,1,0,0,1,1,0,0,0,0,"User: This — the extent to which democracy in the South threatened to undermine the imperatives of capital — was simply too much for Northern industry to bear. And so it turned against abolition-democracy, already faltering as it was in the face of Southern reaction. “Brute force was allowed to use its unchecked power,” Du Bois writes, “to destroy the possibility of democracy in the South, and thereby make the transition from democracy to plutocracy all the easier and more inevitable.”
+Assistant: **Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Social/Political Advocacy
+"
+35,0,0,0,1,0,0,1,0,0,"User: The New York Times, The Wall Street Journal, The Chicago Tribune and The Oregonian in Portland each received two awards. The author David Levering Lewis was among the winners in the arts for ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963.'' B8
+Assistant: **Codes Applied**:
+- Mention of Scholarly Work
+- Out of the Mouth of Academics
+"
+37,1,0,0,1,0,0,1,0,0,"User: The Pulitzer Prizes, administered by Columbia University, also focused on the issue of race in one of the arts awards. David Levering Lewis was awarded his second prize in biography for ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' the second volume in a series published by Henry Holt & Company. Mr. Lewis had won a Pulitzer Prize for biography in 1994 for the first volume, which covered Du Bois's life from 1868 to 1919.
+Assistant: **Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Out of the Mouth of Academics
+"
+36,1,0,0,1,1,0,0,0,0,"User: In that era, many slaves conceived of death as a kind of emancipation — one that might bring the soul home to Africa. W. E. B. Du Bois described this feeling in “The Souls of Black Folk,” writing, “Of death the Negro showed little fear, but talked of it familiarly and even fondly as simply crossing the waters, perhaps — who knows? — back to his ancient forests again.”
+Assistant: **Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Social/Political Advocacy
+"
+18,1,0,1,0,0,0,1,0,0,"User: Mr. Lehrer received an honorary doctorate of humane letters. Other honorary degree recipients were Louise Gluck, the Pulitzer Prize-winning poet and senior lecturer in English at Williams; Henry Louis Gates Jr., the W. E. B. Du Bois Professor of Humanities at Harvard University; Maya Lin, the designer of the Vietnam Veterans' Memorial in Washington; Earl A. Powell 3d, a Williams alumnus who is director of the National Gallery of Art; Martin Scorsese, the film maker; Sir Richard Norman, rector of Exeter College at Oxford University; Harry C. Payne, president of Hamilton College, who will take over next January as Williams's president, and Walter V. Shipley, president of Chemical Bank and a Williams alumnus.
+Assistant: **Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Out of the Mouth of Academics
+"
+15,1,0,0,1,1,0,1,0,0,"User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. ""Culture is the measure of a civilization,"" said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. ""Without evidence of a culture, there is no proof that a people exists.""
+Assistant: **Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+"
+14,1,0,0,1,1,0,0,0,0,"User: Mr. Page notes that the debate among black Americans over the best road to equality and success did not begin just the other day. Booker T. Washington's post-Civil War vision of gradual economic achievement through education was later written off as appeasement by W. E. B. Du Bois, who demanded full equality at once.
+Assistant: **Codes Applied**:
+- Scholar
+- Social/Political Advocacy
+- Mention of Scholarly Work
+"
+16,0,1,0,0,1,0,0,0,1,"User: In Lynchburg, Ota Benga had his teeth capped and became known as Otto Bingo. He spent a lot of time in the woods, hunting with bow and arrow, and gathering plants and herbs. He did odd jobs and worked in a tobacco factory. He became friendly with the poet Anne Spencer, who lived in Lynchburg, and through her met both W. E. B. Du Bois and Booker T. Washington.
+Assistant: **Codes Applied**:
+- Activist
+- Social/Political Advocacy
+- Collective Synecdoche
+"
+17,0,1,0,0,1,0,0,0,1,"User: ""We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period,"" Mrs. Dukes said. ""We've survived 85 years. I'm confident we can survive this.""
+Assistant: **Codes Applied**:
+- Activist
+- Social/Political Advocacy
+- Collective Synecdoche
+"
+13,1,0,0,1,1,0,1,0,0,"User: The luridness of street lit has made it a flashpoint, inciting controversy reminiscent of the hip-hop culture wars of the 1980s and ’90s. But the street-lit debate touches deeper historical roots, reviving decades-old
+                                arguments in black literary circles about the mandate to uplift the race and present wholesome images of African-Americans. In 1928, W. E. B. Du Bois slammed the “licentiousness” of “
+                                Home to Harlem,” Claude McKay’s rollicking novel of Harlem nightlife. McKay’s book, Du Bois wrote, “for the most part nauseates
+                                me, and after the dirtier parts of its filth I feel distinctly like taking a bath.” Similar sentiments have greeted 21st-century street lit. In a 2006 New York Times Op-Ed essay, the journalist and author Nick Chiles
+                                decried “the sexualization and degradation of black fiction.” African-American bookstores, Chiles complained, are “overrun with novels that . . . appeal exclusively to our most prurient
+                                natures — as if these nasty books were pairing off back in the stockrooms like little paperback rabbits and churning out even more graphic offspring that make Ralph Ellison books cringe into a dusty corner.”
+Assistant: **Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+"
+38,0,0,0,1,1,0,1,0,0,"User: The earlier estimates had been based on supposition, as it turned out. Mr. Curtin’s figure, based on scrutiny of shipping contracts and port data, was substantially less than the widely repeated figure of 20 million, which, he showed, was an extrapolation from now-lost records pertaining to Jamaica, and the figure of 15 million used by W. E. B. Du Bois, who repeated a figure arrived at by Edward Dunbar, a 19th-century abolitionist. 
+Assistant: **Codes Applied**:
+- Mention of Scholarly Work
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+"
+76,0,0,0,1,0,0,0,0,0,"User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Codes Applied**:
+- Mention of Scholarly Work
+"
+77,0,1,0,0,1,0,0,1,0,"User: In a similar vein Mrs. Shirley Graham Du Bois, windw of W. E. B. Du Bois, told the participants that “wherever people are strug gling, there are no men ‘ask ing women to walk three steps behind them.” Talking about black Africa, Communist China and North Vietnam Mrs. ‘Du Bois saigl, “Honey, they don't need your sympathy, they are more lib erated than you are.”
+Assistant: **Codes Applied**:
+- Activist
+- Social/Political Advocacy
+- Out of the Mouth of Activists
+"
+75,1,0,0,0,1,0,0,0,1,"User: The only way to learn spelling is to read so much that you automatically recognize what thousands and thousands of English words look like. And how much Aristotle, Plato, St. Thomas, Du Bois and Carrie Chapman Catt can a college student read before overtaken by stupor?
+Assistant: **Codes Applied**:
+- Scholar
+- Social/Political Advocacy
+- Collective Synecdoche
+"
+74,0,1,0,0,1,0,0,1,0,"User: Outside the church, attempts to organize national self-help groups had checkered histories. Booker T. Washington's National Negro Business League, formed to aid small black businesses, met resistance from both whites and black leaders like W. E. B. Du Bois, who objected to Washington's acceptance of racial segregation.
+Assistant: **Codes Applied**:
+- Activist
+- Social/Political Advocacy
+- Out of the Mouth of Activists
+"
+58,1,0,1,0,0,0,1,0,0,"User: ""C.C.N.Y. ought to have one of the best black studies departments in the country, something like Harvard's W. E. B Du Bois Center for example,"" said one faculty member who asked not to be identified. ""That's the shame of it."" Distorted Image
+Assistant: **Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Out of the Mouth of Academics
+"

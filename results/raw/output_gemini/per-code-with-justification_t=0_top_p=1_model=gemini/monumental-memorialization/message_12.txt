@@ -1,0 +1,5 @@
+User: Earlier this year the Justice Department overruled State De partment approval of Mrs. Du Bois's request for a visa. Born in New York 71 years ago, she is now a Ghanaian citizen and lives in Cairo.
+Assistant: **Justification:** The passage mentions Mrs. Du Bois, but it does not describe any enduring cultural objects being named after W.E.B. Du Bois. Therefore, the criteria for "Monumental Memorialization" are not met.
+
+**Codes Applied:**
+    - None

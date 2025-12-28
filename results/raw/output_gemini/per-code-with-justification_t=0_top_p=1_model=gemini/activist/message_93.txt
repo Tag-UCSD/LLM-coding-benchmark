@@ -1,0 +1,5 @@
+User: Liberal orthodoxy notwithstanding, Harvard's experience with black people and black studies has been extremely mixed. In its earliest days, students and professors and at least two university presidents owned slaves. As late as 1922, a university president, Abbott Lawrence Lowell, prohibited black students from living in the freshman dormitories, as was required for all white students. ''I was in Harvard,'' said the writer W. E. B. Du Bois, who in 1895 became the first black recipient of a doctorate from Harvard, ''not of it.''
+Assistant: **Justification:** The passage quotes W.E.B. Du Bois stating, "I was in Harvard... not of it." While this highlights his experience as a Black individual at Harvard, it does not explicitly or implicitly refer to his activism, leadership, or involvement in political or social movements.
+
+**Codes Applied:**
+    - None

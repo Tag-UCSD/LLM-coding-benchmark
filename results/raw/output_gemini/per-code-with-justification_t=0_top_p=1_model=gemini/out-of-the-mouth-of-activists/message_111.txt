@@ -1,0 +1,5 @@
+User: Mr. Chavis may be guilty of poor administration and personal missteps, but he cannot be faulted for trying to change the organization's direction. Its guardians have it only half right when they claim that the N.A.A.C.P. has drifted from its base. They overlook the radical democracy and political progressivism of founding figures like W. E. B. Du Bois. This pioneering historian and cultural critic expressed with eloquence a complex vision of justice and equality.
+Assistant: **Justification:** The passage explicitly mentions the N.A.A.C.P. and connects its founding figures, including W.E.B. Du Bois, to the organization's original vision of "radical democracy and political progressivism." This indicates that the organization, through its historical context and founding principles, is being linked to Du Bois's work and legacy.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

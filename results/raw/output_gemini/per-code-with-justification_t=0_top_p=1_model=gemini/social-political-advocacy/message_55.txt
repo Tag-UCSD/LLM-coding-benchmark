@@ -1,0 +1,5 @@
+User: ''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''
+Assistant: **Justification:** The passage directly links W.E.B. Du Bois's model of Black studies to a commitment to academic excellence that is "socially responsible." It further elaborates that this model "illuminates problems in the daily life of black people and its historical roots," which clearly falls under the definition of engaging with social problems and advocating for their understanding and potential resolution.
+
+**Codes Applied:**
+- Social/Political Advocacy

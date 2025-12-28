@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+krippendorff
+pycm
+google-generativeai
+groq
+huggingface_hub

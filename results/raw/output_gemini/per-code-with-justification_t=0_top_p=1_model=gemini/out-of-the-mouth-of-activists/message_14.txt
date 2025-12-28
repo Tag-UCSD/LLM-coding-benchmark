@@ -1,0 +1,5 @@
+User: Mr. Page notes that the debate among black Americans over the best road to equality and success did not begin just the other day. Booker T. Washington's post-Civil War vision of gradual economic achievement through education was later written off as appeasement by W. E. B. Du Bois, who demanded full equality at once.
+Assistant: **Justification:** The passage discusses a historical debate between Booker T. Washington and W.E.B. Du Bois regarding the best path to equality for Black Americans. While Du Bois is mentioned, the passage does not indicate that he is being referenced by a contemporary activist, leader, politician, or organization to connect their agenda to his work or legacy.
+
+**Codes Applied:**
+    - None

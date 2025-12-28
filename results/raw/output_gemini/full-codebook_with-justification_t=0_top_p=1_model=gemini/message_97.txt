@@ -1,0 +1,21 @@
+User: Mr. Hutchins said his initial donation was always meant as “hello money,” the start of what he called an intellectual partnership as well as a friendship. Mr. Hutchins and Professor Gates have collaborated
+                                        on making the Harvard program “the unmatched juggernaut of African-American studies,” Mr. Hutchins said. Mr. Hutchins helped form an advisory board for the Du Bois Institute and introduced an array
+                                        of potential donors to Professor Gates.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Not directly applicable because the passage focuses on the collaboration between Mr. Hutchins and Professor Gates, not on Du Bois's scholarly attributes.
+   - Activist: Not directly applicable as the passage does not describe Du Bois's activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable as no enduring cultural object is named after Du Bois.
+    - Mention of Scholarly Work: Not directly applicable as no specific scholarly works or theoretical concepts by Du Bois are mentioned or quoted.
+    - Social/Political Advocacy: Not directly applicable as the passage does not mention or imply any social or political activism, advocacy, critique, or discourse related to Du Bois.
+
+3. **Canonization Processes**:
+    - Coalition Building: Applicable because the passage describes Mr. Hutchins helping to form an advisory board for the Du Bois Institute, indicating Du Bois's reputation being built through institutional sponsorship.
+    - Out of the Mouth of Academics: Applicable because Professor Gates, an academic, is collaborating on a Harvard program and an advisory board for the Du Bois Institute, engaging with Du Bois's legacy.
+    - Out of the Mouth of Activists: Not directly applicable as neither Mr. Hutchins nor Professor Gates are described as activists in this context.
+    - Collective Synecdoche: Not directly applicable as Du Bois is not mentioned alongside other figures to represent a broader concept.
+
+**Codes Applied**:
+- Coalition Building
+- Out of the Mouth of Academics

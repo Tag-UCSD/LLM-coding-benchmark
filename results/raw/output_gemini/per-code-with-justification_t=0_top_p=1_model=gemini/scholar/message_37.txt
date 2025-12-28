@@ -1,0 +1,5 @@
+User: The Pulitzer Prizes, administered by Columbia University, also focused on the issue of race in one of the arts awards. David Levering Lewis was awarded his second prize in biography for ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' the second volume in a series published by Henry Holt & Company. Mr. Lewis had won a Pulitzer Prize for biography in 1994 for the first volume, which covered Du Bois's life from 1868 to 1919.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a biography about his life and work. While the biography likely discusses his scholarship, the passage itself does not describe Du Bois as a scholar or intellectual in relation to his ideas on Black politics, racial identity, or social theory. It focuses on the biographical work about him rather than his own intellectual contributions.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: The difference between these accounts and those of the slavery apologists, however, is that Du Bois, Woodson and their contemporaries never implied or suggested that chattel slavery was anything less than a crime. Whereas apologists dismissed or disparaged the efforts, radical and otherwise, to end slavery, Du Bois, Woodson and others gave them pride of place in their histories and narratives about the peculiar institution. And in the same way that slavery apologia served a specific ideological purpose, the emphasis on the skills and agency of the enslaved by Black scholars was meant to challenge, in Woodson’s famous words, “the miseducation of the Negro.”
+Assistant: **Justification:** The passage explicitly mentions W.E.B. Du Bois and references his work in the context of historical accounts of slavery and his role in challenging "the miseducation of the Negro." This directly aligns with the definition of the "Mention of Scholarly Work" code, as it refers to his academic contributions and theoretical concepts.
+
+**Codes Applied:**
+- Mention of Scholarly Work

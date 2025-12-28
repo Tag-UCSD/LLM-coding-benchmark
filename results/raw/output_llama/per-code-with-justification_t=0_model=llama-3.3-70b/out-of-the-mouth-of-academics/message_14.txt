@@ -1,0 +1,5 @@
+User: Mr. Page notes that the debate among black Americans over the best road to equality and success did not begin just the other day. Booker T. Washington's post-Civil War vision of gradual economic achievement through education was later written off as appeasement by W. E. B. Du Bois, who demanded full equality at once.
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not mention a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept. The passage only mentions Du Bois in the context of his historical debate with Booker T. Washington, without any indication of academic involvement or discussion.
+
+**Codes Applied:**
+- None

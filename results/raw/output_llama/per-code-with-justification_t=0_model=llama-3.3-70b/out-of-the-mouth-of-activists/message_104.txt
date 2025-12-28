@@ -1,0 +1,5 @@
+User: But the basic idea that “slaves developed skills” isn’t an illegitimate one. And although it has been deployed in efforts to minimize the fundamental injustice of American slavery, it has also been used in defense of the essential humanity of the enslaved. For example, at the same time that white supremacist authors were writing slavery apologia for student instruction, scholars like W.E.B. Du Bois were taking note of the skills and agency of enslaved Africans for a very different purpose.
+Assistant: **Justification:** The passage does not apply the code because it does not describe an individual who is a leader, activist, or politician referencing or drawing upon W.E.B. Du Bois's work or legacy. Instead, it mentions Du Bois as a scholar in a historical context, highlighting his work as distinct from that of white supremacist authors. The passage does not imply that Du Bois's work is being used by an activist or organization to connect their agenda to his legacy.
+
+**Codes Applied:**
+- None

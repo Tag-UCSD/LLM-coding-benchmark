@@ -1,0 +1,5 @@
+User: ''The awards are coming late,'' Mr. Brown said yesterday, noting that it had been ''30 or 40 years,'' since he wrote his last poem. An 80-year-old retired professor of English at Howard University, Mr. Brown said he had been keeping busy preparing a collection of essays for publication and writing his memoirs, including anecdotes about W. E. B. Du Bois and other notable figures he had known and befriended.
+Assistant: **Justification:** The passage mentions that Mr. Brown, a retired professor, is writing his memoirs and including anecdotes about W.E.B. Du Bois. However, it does not describe him as a leader, activist, or politician, nor does it indicate that he is referencing Du Bois's work or legacy in a way that connects to an activist or political agenda. His role as a professor, while notable, does not automatically qualify him as an activist in the context of this code.
+
+**Codes Applied:**
+    - None

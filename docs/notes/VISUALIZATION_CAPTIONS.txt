@@ -1,0 +1,99 @@
+================================================================================
+VISUALIZATION CAPTIONS
+================================================================================
+Qualitative Coding with LLMs: Performance Analysis
+
+================================================================================
+ORIGINAL GPT ANALYSIS (GPT-4 and GPT-3.5 only)
+================================================================================
+
+--- visualization1_heatmap.png ---
+Cohen's Kappa heatmap displaying agreement between GPT models and human coders across 9 qualitative codes and 6 experimental conditions (GPT-4 and GPT-3.5 with varying prompt strategies). Darker colors indicate lower agreement, with GPT-4 per-code with justification showing the strongest performance (κ = 0.60-1.00 across codes).
+
+--- visualization1_heatmap_R.png ---
+R-generated heatmap of Cohen's Kappa values showing intercoder reliability between GPT models (GPT-4 and GPT-3.5) and gold standard human coding across 9 thematic codes. The visualization reveals that chain-of-thought reasoning (justification conditions) consistently improves performance, with GPT-4 substantially outperforming GPT-3.5.
+
+--- visualization2_average_performance.png ---
+Bar chart comparing mean Cohen's Kappa across six GPT model conditions, revealing that GPT-4 with per-code prompting and chain-of-thought justification achieves the highest average agreement (κ = 0.676), while GPT-3.5 without justification performs worst (κ = 0.291). All GPT-4 conditions demonstrate moderate to substantial agreement with human coders.
+
+--- visualization2_average_performance_R.png ---
+R-generated bar chart displaying average performance across all 9 codes for each GPT model configuration. The clear hierarchy (GPT-4 per-code with justification > other GPT-4 conditions > GPT-3.5 conditions) demonstrates that both model choice and prompting strategy significantly impact qualitative coding quality.
+
+--- visualization3_code_difficulty.png ---
+Horizontal bar chart ranking the 9 qualitative codes by GPT-4's performance (per-code with justification condition) from easiest to hardest. "Monumental Memorialization" achieves perfect agreement (κ = 1.000), while "Out of the Mouth of Activists" proves most challenging (κ = 0.304), revealing substantial variation in code difficulty.
+
+--- visualization3_code_difficulty_R.png ---
+R-generated visualization of code difficulty showing GPT-4 performance on each thematic code, ordered from highest to lowest Cohen's Kappa. The color gradient illustrates that concrete, objective codes like identifying memorials are easier for the model than nuanced attribution codes requiring contextual interpretation.
+
+--- concreteness_vs_performance.png ---
+Dual scatterplot analysis examining the relationship between linguistic concreteness of code labels and GPT-4 performance, measured by both F1 score (left) and accuracy (right). The significant negative correlation (r = -0.667, p = 0.050) between concreteness and F1 score reveals a "concreteness paradox": more abstract codes are paradoxically easier for GPT-4 to identify correctly.
+
+--- concreteness_vs_performance_R.png ---
+R-generated regression analysis showing the counterintuitive finding that higher linguistic concreteness of code labels predicts lower GPT-4 performance (R² = 0.445 for F1 score). This suggests that abstract concepts like "Social/Political Advocacy" may have clearer textual markers than concrete concepts like "Coalition Building," which require deeper contextual reasoning.
+
+================================================================================
+EXTENDED ANALYSIS WITH GEMINI (GPT-4, GPT-3.5, and Gemini 1.5 Flash)
+================================================================================
+
+--- visualization1_heatmap_with_gemini.png ---
+Comprehensive Cohen's Kappa heatmap comparing three LLM families (GPT-4, GPT-3.5, and Gemini 1.5 Flash) across 9 qualitative codes and 8 experimental conditions. Gemini's consistently poor performance (negative κ values shown in dark colors) contrasts sharply with GPT-4's substantial agreement, revealing dramatic capability differences between frontier language models on interpretive coding tasks.
+
+--- visualization2_average_performance_with_gemini.png ---
+Bar chart comparing average Cohen's Kappa across all model conditions, extended to include Gemini 1.5 Flash alongside the GPT models. Gemini's negative average Kappa (κ = -0.075 to -0.092) indicates performance worse than random chance, while GPT-4 maintains substantial agreement (κ = 0.465-0.676), demonstrating that not all modern LLMs are suitable for qualitative research tasks.
+
+--- visualization3_code_difficulty_with_gemini.png ---
+Side-by-side comparison of GPT-4, GPT-3.5, and Gemini performance on each qualitative code (per-code with justification condition), ordered by average difficulty. Gemini shows near-zero or negative Kappa across all codes, including those where GPT-4 achieves excellent performance, suggesting systematic coding errors rather than selective difficulty with certain code types.
+
+--- concreteness_vs_performance_with_gemini.png ---
+Six-panel regression analysis examining the relationship between linguistic concreteness and model performance (F1 score and accuracy) across three LLM families. Only GPT-4's F1 score shows a statistically significant negative relationship with concreteness (β = -0.174, p = 0.050), while Gemini's poor overall performance (mean F1 = 0.200) obscures any meaningful pattern, and no model shows concreteness effects on accuracy.
+
+================================================================================
+SUPPLEMENTARY
+================================================================================
+
+--- results/figures/Rplots.pdf ---
+R graphics device output file containing intermediate or test visualizations generated during analysis development. This file may contain draft versions of the main visualizations or diagnostic plots used to verify data processing and statistical calculations.
+
+================================================================================
+CAPTION USAGE NOTES
+================================================================================
+
+These captions are designed for:
+- Academic papers and presentations
+- Research reports and documentation
+- Figure legends in publications
+- Alt text for accessibility
+
+Citation recommendation:
+When using these visualizations, cite the original study (Dunivin, Z. O., et al.)
+and note whether the figure shows original GPT-only analysis or extended
+analysis including Gemini.
+
+Statistical conventions:
+- κ (kappa): Cohen's Kappa coefficient, where κ < 0 = worse than chance,
+  0-0.20 = slight, 0.21-0.40 = fair, 0.41-0.60 = moderate,
+  0.61-0.80 = substantial, 0.81-1.00 = almost perfect agreement
+- R²: Proportion of variance explained by linear regression
+- p-values: Two-tailed significance tests for regression slopes
+
+================================================================================
+END OF CAPTIONS
+================================================================================
+
+================================================================================
+POOLED ANALYSIS (All Models Combined)
+================================================================================
+
+--- concreteness_pooled_regression.png ---
+Pooled regression analysis combining data from all three models (GPT-4, GPT-3.5, and Gemini) to test whether linguistic concreteness predicts performance across models (n=27: 9 codes × 3 models). The pooled analysis reveals a non-significant negative trend for F1 score (β = -0.116, p = 0.158, R² = 0.078) and no relationship for accuracy (β = 0.029, p = 0.584, R² = 0.012), suggesting that the concreteness effect observed for GPT-4 alone is not consistent across all model types.
+
+
+================================================================================
+CONCRETENESS vs COHEN'S KAPPA ANALYSIS
+================================================================================
+
+--- concreteness_vs_kappa_all_models.png ---
+Four-panel regression analysis examining the relationship between linguistic concreteness and Cohen's Kappa for GPT-4, GPT-3.5, Gemini (individual panels), and pooled across all models (bottom-right panel). GPT-4 shows a marginally significant negative trend (β = -0.162, p = 0.098, R² = 0.342), while GPT-3.5 and Gemini show no significant relationships, and the pooled analysis reveals no overall effect (p = 0.514), indicating that the concreteness-performance relationship is model-specific and not robust across different LLMs.
+
+--- concreteness_vs_kappa_comparison.png ---
+Overlay comparison plot displaying all three models' Cohen's Kappa values against code concreteness on a single graph with individual regression lines (dashed) for each model and a pooled regression line (solid black). The divergent patterns—GPT-4 showing negative trend (r = -0.585), GPT-3.5 showing weak negative correlation (r = -0.416), and Gemini showing essentially no relationship (r = 0.144)—demonstrate that different LLM architectures respond differently to the linguistic concreteness of qualitative codes, with only GPT-4 exhibiting the hypothesized inverse relationship.

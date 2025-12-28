@@ -1,0 +1,5 @@
+User: “The Love Songs of W.E.B. Du Bois” by Honorée Fanonne Jeffers
+Assistant: **Justification:** The title of the work directly references W.E.B. Du Bois, implying a connection to his intellectual contributions. While the passage doesn't explicitly state he is a scholar, the context of a literary work named after him strongly suggests his scholarly influence is being invoked.
+
+**Codes Applied:**
+- Scholar

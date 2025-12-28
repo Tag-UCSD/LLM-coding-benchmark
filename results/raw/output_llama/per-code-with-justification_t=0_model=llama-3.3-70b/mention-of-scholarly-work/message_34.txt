@@ -1,0 +1,5 @@
+User: This — the extent to which democracy in the South threatened to undermine the imperatives of capital — was simply too much for Northern industry to bear. And so it turned against abolition-democracy, already faltering as it was in the face of Southern reaction. “Brute force was allowed to use its unchecked power,” Du Bois writes, “to destroy the possibility of democracy in the South, and thereby make the transition from democracy to plutocracy all the easier and more inevitable.”
+Assistant: **Justification:** The passage includes a direct quotation from W.E.B. Du Bois, which suggests that the quote comes from one of his scholarly works. The context of the quote, discussing the transition from democracy to plutocracy, implies that it is related to his academic ideas on social theory and history. This meets the criteria for the "Mention of Scholarly Work" code, as it is a direct quotation from Du Bois's writings.
+
+**Codes Applied:**
+- Mention of Scholarly Work

@@ -1,0 +1,5 @@
+User: But the basic idea that “slaves developed skills” isn’t an illegitimate one. And although it has been deployed in efforts to minimize the fundamental injustice of American slavery, it has also been used in defense of the essential humanity of the enslaved. For example, at the same time that white supremacist authors were writing slavery apologia for student instruction, scholars like W.E.B. Du Bois were taking note of the skills and agency of enslaved Africans for a very different purpose.
+Assistant: **Justification:** The passage explicitly mentions W.E.B. Du Bois and describes him as a "scholar" who was "taking note of the skills and agency of enslaved Africans." This directly aligns with the definition of the "Out of the Mouth of Academics" code, which is applied when an academic engages with Du Bois's work.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

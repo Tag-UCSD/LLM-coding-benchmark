@@ -1,0 +1,5 @@
+User: Written by Du Bois, who was born three years after the end of the Civil War, the verse reads: I heard the Song of Children, crying ''Free!'' I saw the face of Freedom . . . And I died.
+Assistant: **Justification:** The passage quotes a line of verse attributed to W.E.B. Du Bois. While the quote is presented as a piece of writing by Du Bois, it does not appear to be from a scholarly work or a major theoretical concept. The context suggests it is a poetic or personal reflection rather than an academic treatise.
+
+**Codes Applied:**
+    - None

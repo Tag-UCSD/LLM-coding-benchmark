@@ -1,0 +1,5 @@
+User: But the basic idea that “slaves developed skills” isn’t an illegitimate one. And although it has been deployed in efforts to minimize the fundamental injustice of American slavery, it has also been used in defense of the essential humanity of the enslaved. For example, at the same time that white supremacist authors were writing slavery apologia for student instruction, scholars like W.E.B. Du Bois were taking note of the skills and agency of enslaved Africans for a very different purpose.
+Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or "leader", nor does it clearly imply his political or social activism through context. It mentions him as a scholar taking note of the skills and agency of enslaved Africans, which does not necessarily imply activism. The passage focuses on Du Bois' academic work rather than his activist efforts.
+
+**Codes Applied:**
+- None

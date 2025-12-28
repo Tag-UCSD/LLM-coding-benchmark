@@ -1,0 +1,5 @@
+User: Mr. Morgan, a 27-year-old anthropology student at Harvard, has accused Dr. Jeffries of threatening him during an Oct. 18 interview at City College. He said Dr. Jeffries made derogatory comments about several people, including Henry Louis Gates Jr., the director of the W. E. B. Du Bois Institute for African-American Research at Harvard, and then warned him not to publish his remarks.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of the W. E. B. Du Bois Institute for African-American Research, but it does not describe Du Bois as a scholar or intellectual, nor does it invoke his ideas on social theory. The mention of Du Bois is merely as a namesake for the institute, and therefore, the code "Scholar" is not applicable.
+
+**Codes Applied:**
+- None

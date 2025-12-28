@@ -1,0 +1,5 @@
+User: In 1955 Mrs. Durr and her husband helped a black civil rights leader, E. D. Nixon, bail Mrs. Parks, a black seamstress active in the N.A.A.C.P., out of jail in Montgomery, Ala., said Dr. Patricia Sullivan, a historian and fellow at the W. E. B. Du Bois Institute of Afro-American Research at Harvard University.
+Assistant: **Justification:** Du Bois is mentioned as the namesake of an institute, but the passage does not describe him as a scholar or intellectual in his own right. The focus is on the actions of other individuals and the historical context of the Civil Rights Movement.
+
+**Codes Applied:**
+    - None

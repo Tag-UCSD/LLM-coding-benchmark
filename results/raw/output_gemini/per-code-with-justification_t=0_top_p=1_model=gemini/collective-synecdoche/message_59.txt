@@ -1,0 +1,5 @@
+User: Sowell considers West Indians and educated blacks whose genealogy can be traced to freedmen as a group “atypical of the black population” and that they have dissimilar interest from that of poor blacks. As an example he selects the radical W.E.B. Du Bois as the “free person of color,” but his contemporary, the conservatively‐oriented ex‐slave Booker T. Washington, who wielded far more power than Du Bois, is conveniently ignored since he does not fit the Sowell thesis.
+Assistant: **Justification:** Du Bois is mentioned alongside Booker T. Washington as an example of a historical figure representing a particular facet of Black intellectual history. The passage uses them to illustrate a point about differing perspectives within the Black community and their historical influence, fitting the definition of collective synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

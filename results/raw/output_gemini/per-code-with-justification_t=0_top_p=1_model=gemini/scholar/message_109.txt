@@ -1,0 +1,5 @@
+User: A few independent black American scholars have pur sued these lines, but no one can do it alone even in an entire lifetime. No one can hope to discover all the sources or to command so much knowl edge. Scholars such as W. E. B. Du Bois, Benjamin Brawley, Rayford Logan, Franklin Fra zier, John Hope Franklin and Benjamin Quarles have, com mendably and thoroughly, each examined his own length of line.
+Assistant: **Justification:** The passage explicitly refers to W.E.B. Du Bois as a "scholar" and lists him alongside other individuals recognized for their scholarly contributions. This directly aligns with the definition of the "Scholar" code, which is applied when Du Bois is described as a scholar or intellectual.
+
+**Codes Applied:**
+- Scholar

@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage explicitly names a major scholarly work by W.E.B. Du Bois, "Black Reconstruction in America, 1860-1880." This directly aligns with the definition of the "Mention of Scholarly Work" code, which is applied when academic works by Du Bois are mentioned.
+
+**Codes Applied:**
+- Mention of Scholarly Work

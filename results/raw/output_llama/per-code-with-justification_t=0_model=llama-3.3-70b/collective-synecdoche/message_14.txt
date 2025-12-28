@@ -1,0 +1,5 @@
+User: Mr. Page notes that the debate among black Americans over the best road to equality and success did not begin just the other day. Booker T. Washington's post-Civil War vision of gradual economic achievement through education was later written off as appeasement by W. E. B. Du Bois, who demanded full equality at once.
+Assistant: **Justification:** This passage mentions W.E.B. Du Bois alongside Booker T. Washington, another famous intellectual and activist, in order to represent different approaches to achieving equality and success for black Americans. By pairing these two figures, the passage uses them to symbolize contrasting ideologies within the context of the civil rights movement. This comparison serves to highlight the diverse perspectives within the culture and era of black American scholarship and activism.
+
+**Codes Applied:**
+- Collective Synecdoche

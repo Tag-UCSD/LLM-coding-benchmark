@@ -1,0 +1,22 @@
+User: Now it turns out that for the last eight years, another major book was in the works: "W. E. B. Du Bois: Biography of a Race, 1868-1919" (Henry Holt & Company, New York, $35), a 735-page tome, described by Dr. Lewis in his preface as a project that "often rendered me unaware of the routine of daily life." Du Bois died in 1963 at the age of 95, and the research involved travel over three continents, inquiry into 28 archives and 99 library collections and interviews with more than 150 people. "And alas," Dr. Lewis said recently, "all this for what it turns out is only volume one." But "Du Bois" -- a candidate for the National Book Award in nonfiction -- is a powerfully thorough book that because its subject was such a extraordinary leader, so central to the political controversies around him, it compels a reappraisal of the post-Civil War era. Du Bois is perhaps best known in the civil rights movement for his insistence on full equality for his fellow blacks, as opposed to the accommodative policies of Booker T. Washington. But Dr. Lewis's book reveals much more about Du Bois as political strategist. In 1911, for example, when Woodrow Wilson, then Governor of New Jersey, prepared to enter the Presidential race, he asked Du Bois to influence blacks to depart from their traditional Republican stance and vote Democratic. After Wilson won with a larger-than-expected vote and segregationist politics continued, Du Bois retaliated with searing anti-Wilson editorials in The Crisis, the magazine of the National Association for the Advancement of Colored People.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because the passage describes a lengthy biography of Du Bois, implying his intellectual contributions and scholarly pursuits, and mentions his theoretical stance on equality.
+   - Activist: Applicable because the passage explicitly mentions his role as a "leader," his involvement in political strategy, his influence on voting patterns, and his retaliatory "searing anti-Wilson editorials" in *The Crisis*.
+
+2. **General Themes**:
+   - Monumental Memorialization: Not applicable because the passage does not mention any enduring cultural objects named after Du Bois.
+   - Mention of Scholarly Work: Applicable because the passage refers to a "major book" about Du Bois and his "insistence on full equality," which are key aspects of his scholarly work.
+   - Social/Political Advocacy: Applicable because the passage details Du Bois's involvement in political strategy, his influence on voting, his critique of segregationist politics, and his "searing anti-Wilson editorials," all of which constitute social and political advocacy.
+
+3. **Canonization Processes**:
+   - Coalition Building: Not applicable because the passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship.
+   - Out of the Mouth of Academics: Applicable because Dr. Lewis, who is implied to be an academic through the description of his extensive research and the preface to the biography, is engaging with Du Bois's work and legacy.
+   - Out of the Mouth of Activists: Not applicable because while Du Bois was an activist, the passage does not feature an individual described as a current activist or leader referencing Du Bois's work or legacy.
+   - Collective Synecdoche: Not applicable because Du Bois is not mentioned alongside other famous figures to represent a broader concept.
+
+**Codes Applied**:
+- Scholar
+- Activist
+- Mention of Scholarly Work
+- Social/Political Advocacy
+- Out of the Mouth of Academics

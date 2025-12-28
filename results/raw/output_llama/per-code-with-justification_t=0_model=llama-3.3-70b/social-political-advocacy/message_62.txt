@@ -1,0 +1,5 @@
+User: When reading Plato about justice, for example, an automobile mechanic may just awaken to a profound and unexpected sense of the good. A Blue Cross customer representative may find W. E. B. Du Bois no less inspiring than Mr. Levine found John Keats.
+Assistant: **Justification:** This passage does not apply the Social/Political Advocacy code because it only mentions W.E.B. Du Bois as a potential source of inspiration, without any explicit mention of social or political activism, advocacy, or critique. The passage focuses on the potential for individuals from various professions to find inspiration in different authors, rather than engaging with Du Bois's work or ideas in a way that critically examines social norms or racial identities. The mention of Du Bois is brief and lacks any context that would suggest social or political advocacy.
+
+**Codes Applied:**
+- None

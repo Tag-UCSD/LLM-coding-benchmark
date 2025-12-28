@@ -1,0 +1,5 @@
+User: But the basic idea that “slaves developed skills” isn’t an illegitimate one. And although it has been deployed in efforts to minimize the fundamental injustice of American slavery, it has also been used in defense of the essential humanity of the enslaved. For example, at the same time that white supremacist authors were writing slavery apologia for student instruction, scholars like W.E.B. Du Bois were taking note of the skills and agency of enslaved Africans for a very different purpose.
+Assistant: **Justification:** The passage explicitly describes W.E.B. Du Bois as a "scholar" and connects his work to understanding the "skills and agency of enslaved Africans," which aligns with the definition of the "Scholar" code as it relates to his intellectual contributions on racial identity and social theory.
+
+**Codes Applied:**
+- Scholar

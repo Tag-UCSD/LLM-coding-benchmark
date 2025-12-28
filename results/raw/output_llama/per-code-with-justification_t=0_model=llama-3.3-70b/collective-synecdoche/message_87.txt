@@ -1,0 +1,5 @@
+User: Less popular were his politics. He joined anti-Fascist groups and gave support to fledgling trade unions, which were backed by admitted members of the Communist Party, Mr. Brown said. His friends were intellectuals, theater people and members of the political left. He founded the Council on African Affairs with W. E. B. Du Bois, an organization devoted to the liberation of African countries.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of founding the Council on African Affairs, but it does not use him to represent a broader cultural, era, or ideological concept alongside other famous intellectuals or public figures. Instead, Du Bois is mentioned as a specific individual who co-founded an organization, which does not fit the definition of Collective Synecdoche. The passage focuses on the subject's actions and affiliations rather than using Du Bois as a symbol of a larger idea.
+
+**Codes Applied:**
+- None

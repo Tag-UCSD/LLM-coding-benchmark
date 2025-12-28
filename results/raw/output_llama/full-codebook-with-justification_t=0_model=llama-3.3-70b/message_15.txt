@@ -1,0 +1,19 @@
+User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because W.E.B. Du Bois is mentioned in a context that implies his intellectual significance, as his name is invoked alongside the idea of esteemed scholars.
+   - Activist: Not directly applicable because there is no mention of Du Bois's activism or leadership in the passage.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable because there is no mention of an enduring cultural object being named after Du Bois.
+    - Mention of Scholarly Work: Not applicable because while Du Bois is mentioned, there is no reference to his specific scholarly works or ideas.
+    - Social/Political Advocacy: Applicable because the passage discusses the importance of cultural evidence and the existence of a people, which can be seen as a form of social advocacy, and Du Bois's name is invoked in this context.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because there is no description of Du Bois establishing his reputation through organizational or institutional sponsorship.
+    - Out of the Mouth of Academics: Not applicable because while Mr. Clayton mentions Du Bois, there is no indication that he is a member of an academic organization discussing Du Bois's work.
+    - Out of the Mouth of Activists: Not applicable because Mr. Clayton is not described as a leader, activist, or politician, and his mention of Du Bois does not imply a connection to a specific political or activist organization.
+    - Collective Synecdoche: Not applicable because Du Bois is not mentioned alongside other famous intellectuals or public figures to represent a culture, era, or ideology.
+
+**Codes Applied**:
+- Scholar
+- Social/Political Advocacy

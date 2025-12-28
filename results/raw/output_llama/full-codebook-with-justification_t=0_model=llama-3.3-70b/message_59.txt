@@ -1,0 +1,20 @@
+User: Sowell considers West Indians and educated blacks whose genealogy can be traced to freedmen as a group “atypical of the black population” and that they have dissimilar interest from that of poor blacks. As an example he selects the radical W.E.B. Du Bois as the “free person of color,” but his contemporary, the conservatively‐oriented ex‐slave Booker T. Washington, who wielded far more power than Du Bois, is conveniently ignored since he does not fit the Sowell thesis.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Not directly applicable, because although Du Bois is often considered a scholar, the passage does not explicitly describe him as such or reference his scholarly work.
+   - Activist: Applicable, because Du Bois is described as "radical", implying his involvement in activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable, because there is no mention of an enduring cultural object being named after Du Bois.
+    - Mention of Scholarly Work: Not applicable, because the passage does not mention or quote any of Du Bois's academic works or major theoretical concepts.
+    - Social/Political Advocacy: Applicable, because the passage implies a discussion about social problems and power dynamics within the black population, and Du Bois is mentioned in the context of representing a particular group's interests.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable, because there is no description of Du Bois establishing his reputation through organizational and institutional sponsorship.
+    - Out of the Mouth of Academics: Not applicable, because the passage does not feature a specific member of an academic organization engaging with Du Bois's work.
+    - Out of the Mouth of Activists: Not applicable, because although Du Bois is described as radical, the passage does not feature an activist or leader referencing or drawing upon his work.
+    - Collective Synecdoche: Applicable, because Du Bois is mentioned alongside another historical figure, Booker T. Washington, to represent different facets of the black population.
+
+**Codes Applied**:
+- Activist
+- Social/Political Advocacy
+- Collective Synecdoche

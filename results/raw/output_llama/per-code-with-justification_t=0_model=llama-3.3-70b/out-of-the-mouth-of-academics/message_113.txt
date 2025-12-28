@@ -1,0 +1,5 @@
+User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois and his work, "The Souls of Black Folk", but it does not specify that the author is a member of an academic organization or that an academic organization is engaging with Du Bois's work. The author appears to be referencing Du Bois's concept of "double consciousness" in a general sense, without indicating any affiliation with an academic organization.
+
+**Codes Applied:**
+- None

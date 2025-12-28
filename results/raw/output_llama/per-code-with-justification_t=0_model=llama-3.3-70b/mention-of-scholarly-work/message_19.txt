@@ -1,0 +1,5 @@
+User: Black leaders such as Charles V. Hamilton, professor of political science at Columbia University, have been expres sing concern about placing Ne gro children in “educationally racist” white classrooms, an ap prehension expressed by W. E. B. Du Bois in the 1930's.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in relation to his concern about placing Negro children in "educationally racist" white classrooms, which is an idea that can be linked to his scholarly work, particularly his writings on education and racism. However, the passage does not explicitly name or quote a specific scholarly work by Du Bois, nor does it directly reference a major theoretical concept by him. The mention of Du Bois is more of a general reference to his historical stance on an issue rather than a discussion of his academic ideas or writings.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,330 @@
+[
+    {
+        "role": "user",
+        "content": "\"We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period,\" Mrs. Dukes said. \"We've survived 85 years. I'm confident we can survive this.\""
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions the \"W. E. B. Du Bois period\" as a historical era, not as an enduring cultural object named after Du Bois. Therefore, the criteria for \"Monumental Memorialization\" are not met.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Mr. Lehrer received an honorary doctorate of humane letters. Other honorary degree recipients were Louise Gluck, the Pulitzer Prize-winning poet and senior lecturer in English at Williams; Henry Louis Gates Jr., the W. E. B. Du Bois Professor of Humanities at Harvard University; Maya Lin, the designer of the Vietnam Veterans' Memorial in Washington; Earl A. Powell 3d, a Williams alumnus who is director of the National Gallery of Art; Martin Scorsese, the film maker; Sir Richard Norman, rector of Exeter College at Oxford University; Harry C. Payne, president of Hamilton College, who will take over next January as Williams's president, and Walter V. Shipley, president of Chemical Bank and a Williams alumnus."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly states that Henry Louis Gates Jr. holds the \"W. E. B. Du Bois Professor of Humanities at Harvard University.\" This indicates that a professorship has been named in honor of Du Bois, fitting the definition of \"Monumental Memorialization.\"\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university\u2019s W. E. B. Du Bois Institute for Afro-American Research."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly states that a \"W. E. B. Du Bois Institute for Afro-American Research\" was created at Harvard University. This directly aligns with the definition of the \"Monumental Memorialization\" code, which includes institutes named after Du Bois.\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "Fortunately, many of the es says are free of racism and Communist dogmatism. There are five brief, but excellent es says by Zora Neale Hurston on black speech, religion and mu sic, an analysis of the still neglected black poet Sterling Brown (one of the editors of \u201cThe Negro Caravan\u201d) by Alain Locke, W. E. B. Du Bois on \u201cBlack America\u201d and George Padmore on Africa."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois in the context of an essay he wrote, not as the namesake of a cultural object. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "He was the author or co-author of 10 books, among them ''Children of Bondage,'' ''Deep South,'' ''Father of the Man'' and ''Social-Class Influences Upon Learning.'' His latest work, ''Leadership, Love & Aggression,'' published last September by Harcourt Brace Jovanovich, is a psychological study of four black leaders: Frederick Douglass, W. E. B. Du Bois, Richard Wright and the Rev. Dr. Martin Luther King Jr."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses books authored by W.E.B. Du Bois and mentions him as a subject of a psychological study. It does not describe any enduring cultural objects being named after him, such as awards, buildings, or institutes.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Jack Kerouac\u2019s former Ozone Park home will be part of a historic spring trolley tour through\n                                        Queens that also includes the wedding site of W. E. B. Du Bois, Jackie Robinson\u2019s home and Malcolm X\u2019s home. [Daily News]"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions the wedding site of W.E.B. Du Bois. While a wedding site is a location, it is not an enduring cultural object like a building, geographical feature, or institute that is *named after* Du Bois. Therefore, the \"Monumental Memorialization\" code does not apply.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Later, I tried to discuss his two different positions with my friend, and he just shrugged, and drank his beer. We sat for a long time in silence, and I recalled to my self the words of W. E. B. Du Bois written in \u201cThe Souls of Black Folk\u201d in 1903:"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois and his work \"The Souls of Black Folk,\" but it does not describe any enduring cultural objects being named after him. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "But Guralnick is out to destroy gods and undo celebrity, or, as he puts it, to \"rescue\" Elvis from \"both his detractors and admirers.\" Sometimes, the pages, the research, the interviews and especially the objectivity are necessary to make a subject human again. This can be true because the subject is an icon like Elvis or because the life truly was monumental -- here I'm thinking of David Levering Lewis on W. E. B. Du Bois (two volumes and 1,360 pages)."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions David Levering Lewis's work on W.E.B. Du Bois, but it does not describe any enduring cultural objects being named after Du Bois. The focus is on a biography, not a memorialization in the form of a prize, building, or institution.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Middle-class enclaves, like Jamaica and St. Albans in Queens, are feeding this exodus. Black luminaries \u2014 like James Brown, W. E. B. Du Bois and Ella Fitzgerald \u2014 once lived in St. Albans, a neighborhood that is now being hit by high unemployment and foreclosures. "
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois as a former resident of St. Albans. However, it does not describe an enduring cultural object being named after him, such as a prize, building, or institute. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "\u201cThe Love Songs of W.E.B. Du Bois\u201d by Honor\u00e9e Fanonne Jeffers"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions a book title that includes \"W.E.B. Du Bois.\" The definition of the \"Monumental Memorialization\" code explicitly states not to apply it when Du Bois is mentioned in the title of a book or theater production.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "That\u2019s why Du Bois\u2019s appeal to the world remains so relevant. By impeding Black voters, the United States still violates the democratic principles it has helped enshrine into international law. After observing America\u2019s 2018 midterm elections, a team from the Organization for Security and Cooperation in Europe cataloged a long list of undemocratic practices, from the disenfranchisement of former prisoners to the District of Columbia\u2019s lack of congressional representation to discriminatory voter identification laws, and concluded that, in critical ways, American elections \u201ccontravene O.S.C.E. commitments and international standards with regard to universal and equal suffrage.\u201d"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses W.E.B. Du Bois's enduring relevance and his critique of American democratic principles, particularly in relation to Black voters. However, it does not mention any enduring cultural objects being named after him, such as awards, buildings, or organizations.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Accorded a full state funeral in his adopted Africa, W. E. B. Du Bois, widely regarded as black America's leading intellectual of the 20th century, was reburied here last summer in a tomb constructed near his old bungalow at 22 First Circular Road. His modest colonial-era home, where he died in 1963 at the age of 95, is now a Ghanaian national monument and has been renamed the W. E. B. Du Bois Memorial Center for Pan-African Culture."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes Du Bois's former home being designated a Ghanaian national monument and renamed the W. E. B. Du Bois Memorial Center for Pan-African Culture. This clearly fits the definition of an enduring cultural object being named after Du Bois.\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "It was \u201cLeave It to Beaver,\u201d but black, to hear Mr. Walcott describe his childhood in the Addisleigh Park section of southeast Queens, a destination for ambitious \u00e9migr\u00e9s from Harlem and Brooklyn that was already dotted with celebrities like John Coltrane, Ella Fitzgerald, and W. E. B. Du Bois."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois as a resident of Addisleigh Park. While this indicates his presence in a notable location, it does not describe an enduring cultural object being named *after* him, which is the specific criterion for the \"Monumental Memorialization\" code.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "The series was inspired by the recent restoration of the council\u2019s 1929 \u201cFreedom Mural,\u201d which depicts Kensico Lakes and two female figures representing freedom and liberty. Ms. Dee\u2019s subject, \u201cOvercoming Injustice and Oppression,\u201d reflects her lifelong involvement in civil rights and social justice issues. Speaking by phone from New Rochelle shortly before leaving for the SAG ceremony, she said she would choose among texts by Walt Whitman, Thomas Paine, W. E. B. Du Bois, Paul Robeson, Langston Hughes, the historian Lerone Bennett and Zora Neale Thurston. "
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois as a potential source of inspiration for an artist. However, it does not describe any enduring cultural object being named after him, such as an award, building, or institute. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "In 1955 Mrs. Durr and her husband helped a black civil rights leader, E. D. Nixon, bail Mrs. Parks, a black seamstress active in the N.A.A.C.P., out of jail in Montgomery, Ala., said Dr. Patricia Sullivan, a historian and fellow at the W. E. B. Du Bois Institute of Afro-American Research at Harvard University."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions the \"W. E. B. Du Bois Institute of Afro-American Research at Harvard University.\" This is an institute named after Du Bois, fitting the definition of an enduring cultural object.\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "If not, try to imagine Father taking the phone, saying, ''Dear child, the categorical imperative was not W. E. B. Du Bois's; it was Immanuel Kant's. Which reminds me, I knew you hadn't been reading your Immanuel Kant, much less anything at all, when I got your postcard from Carmel-by-the-Sea saying you were 'having a wondurfull time reding ''The Criteek of Pure Reeson'' by Emanuel Can't.' ''"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois in relation to a philosophical concept, but it does not describe any enduring cultural object being named after him. The focus is on a humorous anecdote about a father correcting his child's philosophical knowledge.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "The Defender, a tabloid, helped nurture the careers of writers like Langston Hughes and W. E. B. Du Bois, a founder of the National Association for the Advancement of Colored People. And long before white politicians began to oppose the South's Jim Crow laws, The Defender published editorials decrying the treatment of black sharecroppers and promising a better life in Chicago's factories."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois as a founder of the National Association for the Advancement of Colored People. While this is a significant organization, it is not an enduring cultural object named *after* Du Bois in the way the code defines (e.g., a prize, building, or institute).\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Why is this still a useful framework for understanding the United States, close to a century after Du Bois conceived and developed this argument? As a concept, abolition-democracy captures something vital and important: Democratic life cannot flourish as long as it is bound by and shaped around hierarchies of status. The fight for political equality cannot be separated from the fight for equality more broadly. In other words, the reason I keep coming back to \u201cBlack Reconstruction\u201d is that Du Bois\u2019s mode of analysis can help us (or, at least, me) look past so much of the ephemera of our politics to focus on what matters most: the roles of power, privilege and, most important, capital in shaping our political order and structuring our conflicts with one another."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses W.E.B. Du Bois's conceptual framework and his work \"Black Reconstruction.\" However, it does not mention any enduring cultural objects being named after him, such as awards, buildings, or institutions.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Dr. C. Eric Lincoln, academy board president, said he had written the Department of Jus tice to protest the denial of a visa to Mrs. Shirley Graham DuBois, widow of W. E. B. Du Bois."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions the widow of W.E.B. Du Bois, Shirley Graham Du Bois, but does not describe any enduring cultural objects being named after Du Bois. Therefore, the criteria for \"Monumental Memorialization\" are not met.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses W.E.B. Du Bois's model for Black studies, emphasizing academic excellence and social responsibility. However, it does not mention any enduring cultural objects being named after him, such as awards, buildings, or institutes.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly states that Du Bois is the namesake of a professorship (\"W. E. B. Du Bois professor of the humanities\") and a research institute (\"W. E. B. Du Bois Institute\"). These are enduring cultural objects that fit the definition of monumental memorialization.\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "The only way to learn spelling is to read so much that you automatically recognize what thousands and thousands of English words look like. And how much Aristotle, Plato, St. Thomas, Du Bois and Carrie Chapman Catt can a college student read before overtaken by stupor?"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions Du Bois in the context of a list of authors a college student might read. There is no mention of any enduring cultural object being named after Du Bois.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "\u201cBlack Reconstruction in America, 1860-1880\u201d by W. E. B. Du Bois"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions a book title by W.E.B. Du Bois. The definition of \"Monumental Memorialization\" explicitly states not to apply the code when Du Bois is mentioned in the title of a book.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "In a similar vein Mrs. Shirley Graham Du Bois, windw of W. E. B. Du Bois, told the participants that \u201cwherever people are strug gling, there are no men \u2018ask ing women to walk three steps behind them.\u201d Talking about black Africa, Communist China and North Vietnam Mrs. \u2018Du Bois saigl, \u201cHoney, they don't need your sympathy, they are more lib erated than you are.\u201d"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses Shirley Graham Du Bois, the widow of W.E.B. Du Bois, and her statements. However, it does not mention any enduring cultural objects being named after W.E.B. Du Bois.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "The late C. Wright Mills\u2014isolated and harassed because of his radicalism \u2014once remarked that all social science for the past century and a halt is a dialogue with Marx. I think he was right. One will find upon examining the writings of American scholars such as Charles A. Beard, John R. Commons, Albion W. Small, Thorstein Veblen, W. E. B. Du Bois and E. R. A. Seligman that though most did not find Marxism fully persuasive, they all treated Marxism as one of the most illuminating forms of thought in existence"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses W.E.B. Du Bois in the context of his scholarly work and its relationship to Marxist thought. It does not mention any enduring cultural objects being named after him, such as awards, buildings, or institutions.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "The 68 photographs in the exhibit provide a broad view of black Americans from before the Civil War through the early 1980's. Images of anonymous families, workers and soldiers are shown as well as portraits of public figures like W. E. B. Du Bois, the Rev. Dr. Martin Luther King Jr. and Marian Anderson."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes an exhibit that includes photographs of W.E.B. Du Bois. However, it does not mention any enduring cultural objects being named after him, such as awards, buildings, or institutes. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "To the Editor: Concerning \"Once a Hub of Strife, Boston Woos Black Tourists\"(Dec. 8), an African-American heritage trail can be found closer to New York. The newly designated Upper Housatonic Valley National Heritage Area recently published a guidebook, \"African American Heritage in the Upper Housatonic Valley,\" which describes the rich heritage in northwestern Connecticut and the Berkshires of Massachusetts. Among the sites are the W. E. B. Du Bois River Garden in Great Barrington, Mass., Du Bois's hometown, and the Col. John Ashley House in Sheffield, Mass., where in the early 1780s Elizabeth Freeman, also known as Mumbet, began the fight that helped end slavery in Massachusetts. For more information, see www.africanamericantrail.org."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly mentions the \"W. E. B. Du Bois River Garden\" in Great Barrington, Mass. This is an example of a geographical feature being named after Du Bois, fitting the definition of \"Monumental Memorialization.\"\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "In February 1926, the N.A.A.C.P. magazine The Crisis published a piece by its editor, W. E. B. Du Bois, under the headline \u201cA Questionnaire.\u201d Du Bois posed seven questions intended for artists \u2014 fiction writers, poets, painters and more \u2014 on how Black people should be portrayed in their work. The questions leave no doubt about where Du Bois himself stands. For instance, question six asks: \u201cIs not the continual portrayal of the sordid, foolish and criminal among Negroes convincing the world that this and this alone is really and essentially Negroid, and preventing white artists from knowing any other types and preventing Black artists from daring to paint them?\u201d Almost a quarter century earlier, Du Bois had popularized the concept of \u201cthe talented tenth,\u201d his belief that \u201c[t]he Negro race, like all races, is going to be saved by its exceptional men.\u201d It was contingent, he argued, upon \u201cthe Best\u201d of the race to \u201cguide the Mass away from the contamination and death of the Worst.\u201d His \u201cQuestionnaire\u201d expanded this gospel of excellence into the imaginative realm, as well. Mediocrity or worse must be rooted out not only in life but in art. Later, in 1993, the historian Evelyn Brooks Higginbotham coined the phrase \u201cpolitics of respectability\u201d to describe a belief that individual moral and behavioral reform among Black Americans could counter pervasive racist images and perhaps even help fix the entire system of race inequality in the United States. In the years since, the concept of a politics of respectability has been adopted and adapted by other minority groups as a strategy for assimilation and advancement."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses W.E.B. Du Bois's writings and concepts, but it does not mention any enduring cultural objects being named after him. The focus is on his intellectual contributions and their influence, not on physical or institutional memorialization.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Mr. Morgan, a 27-year-old anthropology student at Harvard, has accused Dr. Jeffries of threatening him during an Oct. 18 interview at City College. He said Dr. Jeffries made derogatory comments about several people, including Henry Louis Gates Jr., the director of the W. E. B. Du Bois Institute for African-American Research at Harvard, and then warned him not to publish his remarks."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions the \"W. E. B. Du Bois Institute for African-American Research at Harvard.\" This is an institute named after Du Bois, fitting the definition of an enduring cultural object.\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "It had been a full, though not unusual, day for Cornel West. That morning, he had lectured twice at Princeton: first on W. E. B. Du Bois, Toni Morrison and James Baldwin in a course on Afro-American culture; then on Virginia Woolf, T. S. Eliot, Frantz Fanon and the Zionist philosopher Ahad Ha'am to a class entitled \"Religion and Cultural Criticism.\""
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses a lecture given by Cornel West on W.E.B. Du Bois. However, it does not mention any enduring cultural objects being named after Du Bois, such as awards, buildings, or institutes. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Whether you accept his notion of the field in general, it's hard not to be stunned by how much is now going on in the department and the Du Bois Institute. Mr. Gates and Mr. Appiah, as co-editors, are hard at work on a breathtakingly ambitious revival of Du Bois' greatest dream, an Encyclopedia Africana of the entire African experience, both on the continent and around the world. There are already parts of a pilot version on CD-ROM with plans to eventually do the work on line, on disk and in print. In 1994, Harvard became home to the Image of the Black in Western Art photo archive, started in 1960 by Jean and Dominique de Menil of Houston, which documents 5,000 years of the representation of blacks in Western art in various media."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly mentions the \"Du Bois Institute\" at Harvard. This directly aligns with the definition of \"Monumental Memorialization\" as an institute being named after Du Bois.\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois but does not describe any enduring cultural objects being named after him. The context is a hypothetical conversation about a child discussing Du Bois's ideas, not a memorialization.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Ghana's tribute contrasts with the often ambivalent treatment accorded Du Bois in the United States. In America, the black writer, who began to press for civil rights in the early 1900's, is often mainly remembered for turning toward Communism and for becoming a Ghanaian citizen in his final years. Bernard Drew, president of the Berkshire County (Mass.) Historical Society, said in a telephone interview that Du Bois's birthplace in Great Barrington was a weed-choked lot marked by a ''crude and wooden'' plaque."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions Du Bois's birthplace being marked by a \"crude and wooden\" plaque. This does not qualify as an enduring cultural object like a building, institute, or geographical feature that would be named after Du Bois. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "But the basic idea that \u201cslaves developed skills\u201d isn\u2019t an illegitimate one. And although it has been deployed in efforts to minimize the fundamental injustice of American slavery, it has also been used in defense of the essential humanity of the enslaved. For example, at the same time that white supremacist authors were writing slavery apologia for student instruction, scholars like W.E.B. Du Bois were taking note of the skills and agency of enslaved Africans for a very different purpose."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses W.E.B. Du Bois's scholarly work and his purpose in noting the skills and agency of enslaved Africans. It does not mention any enduring cultural objects being named after him, such as prizes, buildings, or institutes.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "In other words, it is the reality of racism \u2014 the ongoing production of race by institutions and structures of racial domination \u2014 that fuels this process of group formation. In his 1940 book, \u201cDusk of Dawn: An Essay Toward an Autobiography of a Race Concept,\u201d W. E. B. Du Bois captured this dynamic in a single sentence, the final point in an imagined dialogue with a white interlocutor. \u201cThe Black man,\u201d he wrote, \u201cis a person who must ride \u2018Jim Crow\u2019 in Georgia.\u201d"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses W.E.B. Du Bois's work and quotes him, but it does not mention any enduring cultural objects being named after him. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Mr. Lehrer received an honorary doctorate of humane letters. Other honorary degree recipients were Louise Gluck, the Pulitzer Prize-winning poet and senior lecturer in English at Williams; Henry Louis Gates Jr., the W. E. B. Du Bois Professor of Humanities at Harvard University; Maya Lin, the designer of the Vietnam Veterans' Memorial in Washington; Earl A. Powell 3d, a Williams alumnus who is director of the National Gallery of Art; Martin Scorsese, the filmmaker; Sir Richard Norman, rector of Exeter College at Oxford University; Harry C. Payne, president of Hamilton College, who will take over next January as Williams's president, and Walter V. Shipley, president of Chemical Bank and another Williams alumnus. St. Francis College"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly states that Henry Louis Gates Jr. holds the \"W. E. B. Du Bois Professor of Humanities at Harvard University.\" This indicates that a professorship has been named in honor of Du Bois, fitting the definition of \"Monumental Memorialization.\"\n\n**Codes Applied:**\n- Monumental Memorialization"
+    },
+    {
+        "role": "user",
+        "content": "This was in 1928. One can imagine a youth writing a letter today identical to the one written to Du Bois, and one can imagine Du Bois, were he alive, writing the same reply. The problems confronting Negroes are formidable, and they will not be solved by altering a name, or by dressing differently, or by wearing one's hair in a new way. We should not be fooled by names or appearances. The real problems lie beneath the surface."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses a hypothetical letter written to W.E.B. Du Bois and his potential reply, focusing on the enduring challenges faced by Black people. It does not mention any enduring cultural objects being named after Du Bois, such as awards, buildings, or institutions.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "A few independent black American scholars have pur sued these lines, but no one can do it alone even in an entire lifetime. No one can hope to discover all the sources or to command so much knowl edge. Scholars such as W. E. B. Du Bois, Benjamin Brawley, Rayford Logan, Franklin Fra zier, John Hope Franklin and Benjamin Quarles have, com mendably and thoroughly, each examined his own length of line."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois as a scholar who has examined his own \"length of line\" in research. However, it does not describe any enduring cultural objects being named after him, such as awards, buildings, or institutes. Therefore, the \"Monumental Memorialization\" code is not applicable.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963'' Mr. Lewis, a history professor at Rutgers University, won his first Pulitzer Prize for biography in 1994, with the first volume in his life of W. E. B. Du Bois, one of the towering figures of the early American civil rights movement. Now the second volume has won Mr. Lewis a second prize, making him the first biographer in Pulitzer history to win for back-to-back volumes. The second volume picks up Du Bois's life after 1919, when the co-founder of the National Association for the Advancement of Colored People began to move away from his early integrationist ideals and shift toward more radical leftist politics. The second half of his life was fraught with contradictions, as he battled other black leaders, as well as white society."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions a book title that includes \"W. E. B. Du Bois,\" but it does not describe an enduring cultural object being named after him. The Pulitzer Prize was awarded to the author of the biography, not to an object or institution named in Du Bois's honor.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Mr. Chavis may be guilty of poor administration and personal missteps, but he cannot be faulted for trying to change the organization's direction. Its guardians have it only half right when they claim that the N.A.A.C.P. has drifted from its base. They overlook the radical democracy and political progressivism of founding figures like W. E. B. Du Bois. This pioneering historian and cultural critic expressed with eloquence a complex vision of justice and equality."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage discusses W.E.B. Du Bois as a founding figure of the N.A.C.C.P. and highlights his intellectual contributions. However, it does not mention any enduring cultural objects being named after him, such as awards, buildings, or institutes.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "This confusion over the direction of the movement has all but immobilized the nation\u2019s premier civil rights group, the N.A.A.C.P. Synonymous with the long journey toward racial equality since its founding by W. E. B. Du Bois and others in 1909, the organization has, in recent years, lost much of its cachet with younger black Americans. In 2005, the N.A.A.C.P.\u2019s unwieldy 64-member board hired Bruce Gordon, a former Verizon executive, to retool the organization. Gordon\u2019s premise was that civil rights was no longer simply about protesting discrimination \u0097 that African-Americans were now stymied not only by institutional barriers but also by conditions in their communities. He proposed that a new N.A.A.C.P step into this breach, organizing services that might include SAT prep classes or training for new parents. He also created a new class of online members who didn\u2019t have to pay any dues, adding more than 100,000 members to a group whose paying membership had declined, in Gordon\u2019s estimate, to under 300,000."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions the founding of the NAACP by W.E.B. Du Bois, but it does not describe any enduring cultural objects being named after him. The focus is on the organization's history and recent challenges, not on memorialization through named entities.\n\n**Codes Applied:**\n    - None"
+    }
+]

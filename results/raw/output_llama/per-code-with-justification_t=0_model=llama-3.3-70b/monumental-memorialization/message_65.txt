@@ -1,0 +1,5 @@
+User: ''The question of race is critical,'' said Stephen K. Hindy, co-founder of the new Brooklyn Brewery, who lives on Eighth Street and works on Second Street. ''From what I've read, Dinkins is more sensitive to that and more capable of dealing with that than the other candidates. I think it was W. E. B. Du Bois who said that the color line is the critical problem of the 20th century. I agree with that. It's explosive. ''When Koch insults Jesse Jackson or says something flip about a potential racial incident, that's very dangerous. And it alienates a huge number of people.''
+Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it quotes Du Bois' statement about the color line being the critical problem of the 20th century, which is a reference to his work but not an example of monumental memorialization. The passage is discussing racial issues and referencing Du Bois' ideas, but it does not meet the criteria for the Monumental Memorialization code.
+
+**Codes Applied:**
+- None

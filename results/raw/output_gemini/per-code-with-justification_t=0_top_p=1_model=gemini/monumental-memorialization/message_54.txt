@@ -1,0 +1,5 @@
+User: Dr. C. Eric Lincoln, academy board president, said he had written the Department of Jus tice to protest the denial of a visa to Mrs. Shirley Graham DuBois, widow of W. E. B. Du Bois.
+Assistant: **Justification:** The passage mentions the widow of W.E.B. Du Bois, Shirley Graham Du Bois, but does not describe any enduring cultural objects being named after Du Bois. Therefore, the criteria for "Monumental Memorialization" are not met.
+
+**Codes Applied:**
+    - None

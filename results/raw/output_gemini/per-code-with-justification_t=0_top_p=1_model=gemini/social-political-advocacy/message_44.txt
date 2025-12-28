@@ -1,0 +1,5 @@
+User: Accorded a full state funeral in his adopted Africa, W. E. B. Du Bois, widely regarded as black America's leading intellectual of the 20th century, was reburied here last summer in a tomb constructed near his old bungalow at 22 First Circular Road. His modest colonial-era home, where he died in 1963 at the age of 95, is now a Ghanaian national monument and has been renamed the W. E. B. Du Bois Memorial Center for Pan-African Culture.
+Assistant: **Justification:** The passage focuses on the reburial and memorialization of W.E.B. Du Bois in Ghana, highlighting his status as a prominent intellectual and the establishment of a memorial center. While Du Bois was a significant figure in social and political advocacy, this specific passage does not mention or imply any form of activism, advocacy, critique, or discourse related to social problems or Black identity.
+
+**Codes Applied:**
+    - None

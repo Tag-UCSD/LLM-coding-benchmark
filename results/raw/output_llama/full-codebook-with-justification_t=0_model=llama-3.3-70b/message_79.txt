@@ -1,0 +1,18 @@
+User: The 68 photographs in the exhibit provide a broad view of black Americans from before the Civil War through the early 1980's. Images of anonymous families, workers and soldiers are shown as well as portraits of public figures like W. E. B. Du Bois, the Rev. Dr. Martin Luther King Jr. and Marian Anderson.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Not directly applicable, because while Du Bois is mentioned, there is no description of him as a scholar or intellectual in the given passage.
+   - Activist: Not directly applicable, because Du Bois is mentioned as a public figure, but there is no explicit mention of his activism or leadership in the passage.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable, because there is no mention of an enduring cultural object being named after Du Bois in the passage.
+    - Mention of Scholarly Work: Not applicable, because there is no mention or quotation of Du Bois's academic works or major theoretical concepts in the passage.
+    - Social/Political Advocacy: Not applicable, because the passage does not mention or imply any form of social or political activism, advocacy, critique, or discourse related to Du Bois or his work.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable, because there is no description of Du Bois establishing his reputation through organizational and institutional sponsorship in the passage.
+    - Out of the Mouth of Academics: Not applicable, because there is no mention of a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept in the passage.
+    - Out of the Mouth of Activists: Not applicable, because there is no mention of an individual described as a leader, activist, or politician referencing or drawing upon Du Bois's work or legacy in the passage.
+    - Collective Synecdoche: Applicable, because Du Bois is mentioned alongside other famous public figures, such as Martin Luther King Jr. and Marian Anderson, which could represent a facet of a culture or era.
+
+**Codes Applied**:
+- Collective Synecdoche

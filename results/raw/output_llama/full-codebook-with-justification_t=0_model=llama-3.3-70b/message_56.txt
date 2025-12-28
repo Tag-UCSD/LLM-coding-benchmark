@@ -1,0 +1,20 @@
+User: But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because the passage mentions the "W. E. B. Du Bois professor of the humanities" and the "W. E. B. Du Bois Institute", which implies a connection to academic and intellectual pursuits.
+   - Activist: Not directly applicable because the passage does not explicitly mention Du Bois's activism or leadership.
+
+2. **General Themes**:
+    - Monumental Memorialization: Applicable because the passage mentions the "W. E. B. Du Bois professor of the humanities" and the "W. E. B. Du Bois Institute", which are enduring cultural objects named after Du Bois.
+    - Mention of Scholarly Work: Not applicable because the passage does not mention or quote any of Du Bois's academic works or theoretical concepts.
+    - Social/Political Advocacy: Not applicable because the passage does not mention or imply any form of social or political activism, advocacy, or critique.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because the passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship.
+    - Out of the Mouth of Academics: Applicable because the passage mentions the "W. E. B. Du Bois professor of the humanities" and the "W. E. B. Du Bois Institute", which suggests that an academic institution is engaging with Du Bois's work or legacy.
+    - Out of the Mouth of Activists: Not applicable because the passage does not mention an individual described as a leader, activist, or politician referencing or drawing upon Du Bois's work or legacy.
+    - Collective Synecdoche: Not applicable because the passage does not mention Du Bois alongside other famous intellectuals, activists, or public figures.
+
+**Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Out of the Mouth of Academics

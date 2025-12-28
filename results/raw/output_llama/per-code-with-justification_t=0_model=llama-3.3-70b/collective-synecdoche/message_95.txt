@@ -1,0 +1,5 @@
+User: Written by Du Bois, who was born three years after the end of the Civil War, the verse reads: I heard the Song of Children, crying ''Free!'' I saw the face of Freedom . . . And I died.
+Assistant: **Justification:** The passage does not mention W.E.B. Du Bois alongside other famous intellectuals, activists, or public figures, which is the key criterion for applying the Collective Synecdoche code. Instead, it focuses solely on Du Bois and his work, providing no comparison or grouping with other notable individuals. The passage is a brief excerpt that highlights Du Bois' writing, without invoking a broader cultural, era, or ideological representation.
+
+**Codes Applied:**
+- None

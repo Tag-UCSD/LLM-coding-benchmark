@@ -1,0 +1,5 @@
+User: ''The awards are coming late,'' Mr. Brown said yesterday, noting that it had been ''30 or 40 years,'' since he wrote his last poem. An 80-year-old retired professor of English at Howard University, Mr. Brown said he had been keeping busy preparing a collection of essays for publication and writing his memoirs, including anecdotes about W. E. B. Du Bois and other notable figures he had known and befriended.
+Assistant: **Justification:** W.E.B. Du Bois is mentioned as one of several "notable figures" the author knew and befriended, alongside other unnamed individuals. This positions Du Bois as a representative of a group of significant people from the author's life and experiences, rather than being discussed for his individual contributions to a specific field or ideology.
+
+**Codes Applied:**
+- Collective Synecdoche

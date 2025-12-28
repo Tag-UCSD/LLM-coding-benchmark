@@ -1,0 +1,5 @@
+User: On the other hand, if Hollywood were making a movie about W. E. B. Du Bois, a light-skinned man who struggled with complexion issues much of his life, to cast a dark-skinned actor in the role would be to repaint history. LISE FUNDERBURG New York, April 7, 1991
+Assistant: **Justification:** The passage does not apply the code because it is an opinion piece written by an individual, LISE FUNDERBURG, but there is no indication that she is a leader, activist, or politician, or a member of a specific political or activist organization referencing or drawing upon W.E.B. Du Bois's work or legacy in her capacity as such. The passage is simply an opinion about casting a movie role. 
+
+**Codes Applied:**
+- None

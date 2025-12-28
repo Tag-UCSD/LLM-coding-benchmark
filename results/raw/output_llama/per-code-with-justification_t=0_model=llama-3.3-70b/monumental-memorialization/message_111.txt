@@ -1,0 +1,5 @@
+User: Mr. Chavis may be guilty of poor administration and personal missteps, but he cannot be faulted for trying to change the organization's direction. Its guardians have it only half right when they claim that the N.A.A.C.P. has drifted from its base. They overlook the radical democracy and political progressivism of founding figures like W. E. B. Du Bois. This pioneering historian and cultural critic expressed with eloquence a complex vision of justice and equality.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as a founding figure and references his vision of justice and equality, but it does not mention any enduring cultural object being named after him, such as a prize, building, or institute. The passage is discussing Du Bois' ideas and legacy, but not any specific memorialization or naming of an object after him. Therefore, the code "Monumental Memorialization" is not applicable in this case.
+
+**Codes Applied:**
+- None

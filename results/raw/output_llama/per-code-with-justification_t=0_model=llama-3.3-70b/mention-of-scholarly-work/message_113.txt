@@ -1,0 +1,5 @@
+User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
+Assistant: **Justification:** This passage applies the code because it explicitly mentions a scholarly work by W.E.B. Du Bois, "The Souls of Black Folk", and references one of his key academic concepts, "double consciousness". The direct quotation and naming of the work clearly attribute the idea to Du Bois, meeting the criteria for the code. The context also indicates that the quote comes from a scholarly work, as "The Souls of Black Folk" is a foundational text in social theory and history.
+
+**Codes Applied:**
+- Mention of Scholarly Work

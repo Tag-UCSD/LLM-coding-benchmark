@@ -1,0 +1,20 @@
+User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because the creation of the W. E. B. Du Bois Institute for Afro-American Research implies Du Bois's scholarly work and intellectual legacy in the field of Afro-American research.
+   - Activist: Not directly applicable because the passage does not explicitly mention Du Bois's activism or political activities.
+
+2. **General Themes**:
+    - Monumental Memorialization: Applicable because the W. E. B. Du Bois Institute for Afro-American Research is an enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Not applicable because while the institute is named after Du Bois, there is no explicit mention of his scholarly works or theoretical concepts.
+    - Social/Political Advocacy: Not applicable because the passage does not mention or imply any form of social or political activism, advocacy, or critique related to Du Bois's work or ideas.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because the passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship.
+    - Out of the Mouth of Academics: Applicable because the passage mentions the creation of the W. E. B. Du Bois Institute for Afro-American Research at Harvard, which implies that academics are engaging with Du Bois's legacy.
+    - Out of the Mouth of Activists: Not applicable because the passage does not mention any activists or political leaders referencing or drawing upon Du Bois's work or legacy.
+    - Collective Synecdoche: Not applicable because Du Bois is not mentioned alongside other famous intellectuals, activists, or public figures to represent a culture, era, or ideology.
+
+**Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Out of the Mouth of Academics

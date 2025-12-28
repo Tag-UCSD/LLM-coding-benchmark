@@ -1,0 +1,5 @@
+User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
+Assistant: **Justification:** The passage does not apply the code because Dr. Leonard is not described as referencing or drawing upon W.E.B. Du Bois's work or legacy as a leader, activist, or politician. Instead, he is mentioned as being involved in the creation of an institute named after Du Bois, but this is more of an administrative or academic role rather than an activist or political one. The passage does not indicate that Dr. Leonard or the university is connecting their agenda to Du Bois' legacy in a way that would qualify for the code.
+
+**Codes Applied:**
+- None

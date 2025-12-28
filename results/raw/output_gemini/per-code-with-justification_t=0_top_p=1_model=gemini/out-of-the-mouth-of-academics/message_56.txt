@@ -1,0 +1,5 @@
+User: But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing
+Assistant: **Justification:** The passage describes W.E.B. Du Bois as holding academic positions, including a professorship and directorship of an institute named after him. This directly aligns with the definition of the "Out of the Mouth of Academics" code, which is applied when an academic organization names itself or a subdivision after Du Bois, or when an academic is engaging with his work.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

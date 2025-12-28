@@ -1,0 +1,5 @@
+User: Dr. C. Eric Lincoln, academy board president, said he had written the Department of Jus tice to protest the denial of a visa to Mrs. Shirley Graham DuBois, widow of W. E. B. Du Bois.
+Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, but rather references his widow, Shirley Graham DuBois, and his own name in the context of a visa denial protest. There is no indication of a prize, award, building, or other monument being named after him. 
+
+**Codes Applied:**
+- None

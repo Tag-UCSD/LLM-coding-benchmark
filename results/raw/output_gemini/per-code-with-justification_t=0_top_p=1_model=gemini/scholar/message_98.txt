@@ -1,0 +1,5 @@
+User: As they gazed up the hill from ''the valley,'' as central Harlem was sometimes called, Harlemites saw a shimmering bluff that would, from 1929 until midcentury, become a hub of elite black society. The names of those who lived there read like a Who's Who of black history: Ralph Ellison, Thurgood Marshall, Joe Louis, W. E. B. Du Bois, James Baldwin, Adam Clayton Powell Sr., Zora Neale Hurston, Duke Ellington and Paul Robeson, to name a few.
+Assistant: **Justification:** While Du Bois is listed among other prominent Black figures, the passage does not describe him as a scholar or intellectual. It simply lists him as a resident of a prestigious area, implying his status through association rather than by explicitly referencing his scholarly contributions or intellectual work.
+
+**Codes Applied:**
+    - None

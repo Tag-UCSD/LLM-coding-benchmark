@@ -1,0 +1,5 @@
+User: In the early 19th century, Thomas Jefferson relied on elaborate mathematical equations to determine when a “mulatto” legally became a white person. Charles W. Chesnutt, a racially ambiguous writer, asked “What Is a White Man?” in an 1889 essay and poked fun at the laws that allowed a person to change his or her racial designation by walking across a state line. How was it possible, Chesnutt wondered, that the same person could be classified as black in North Carolina but white in South Carolina? Even W. E. B. Du Bois had trouble formulating a theoretically accurate account of racial identity, so he put it simply: A black man is “a person who must ride ‘Jim Crow’ in Georgia.” But his statement still leaves us with a puzzle: What would a black man be without Jim Crow to define him?
+Assistant: **Justification:** The passage discusses W.E.B. Du Bois's struggle to formulate a theoretically accurate account of racial identity and his simplified definition of a black man. It does not describe him as an agent establishing his reputation through organizational or institutional sponsorship.
+
+**Codes Applied:**
+    - None

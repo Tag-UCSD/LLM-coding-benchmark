@@ -1,0 +1,5 @@
+User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois and references one of his works, "The Souls of Black Folk", but it does not describe him as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it quotes one of his concepts, "double consciousness", without discussing his role in any organization or institution. Therefore, the code "Coalition Building" is not applicable in this context.
+
+**Codes Applied:**
+- None

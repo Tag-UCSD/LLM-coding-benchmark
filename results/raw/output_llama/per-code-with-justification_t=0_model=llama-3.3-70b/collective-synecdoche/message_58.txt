@@ -1,0 +1,5 @@
+User: "C.C.N.Y. ought to have one of the best black studies departments in the country, something like Harvard's W. E. B Du Bois Center for example," said one faculty member who asked not to be identified. "That's the shame of it." Distorted Image
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a specific institution, the Harvard's W. E. B Du Bois Center, but does not mention him alongside other famous intellectuals, activists, or public figures to represent a culture, era, or ideology. The mention of Du Bois is specific to the naming of the center, rather than using him as a representative figure. Therefore, the code Collective Synecdoche is not applied.
+
+**Codes Applied:**
+- None

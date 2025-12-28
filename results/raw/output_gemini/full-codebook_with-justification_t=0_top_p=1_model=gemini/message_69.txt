@@ -1,0 +1,19 @@
+User: But in the same way that the idea of eliminating references to “English” strikes most as overboard, the idea that for Black people standard English is something wholly apart is simply inaccurate. For most Black Americans, both Black and standard English are part of who we are; our English is, in this sense, larger than many white people’s. In “The Souls of Black Folk,” W.E.B. Du Bois wrote, “I sit with Shakespeare and he winces not … I summon Aristotle and Aurelius and what soul I will, and they come all graciously with no scorn nor condescension.” On a less exalted level, a great many Black people toggle endlessly between standard and Black English, day in and day out — we code-switch. I always liked how Gloria Naylor was able to get this across, as in this scene from her novel “Mama Day”:
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because the passage directly quotes W.E.B. Du Bois from his scholarly work, "The Souls of Black Folk," to illustrate a point about language.
+   - Activist: Not applicable because the passage does not describe Du Bois as an activist or mention his political or social activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable because the passage does not mention any enduring cultural objects named after Du Bois.
+    - Mention of Scholarly Work: Applicable because the passage directly quotes W.E.B. Du Bois from his scholarly work, "The Souls of Black Folk."
+    - Social/Political Advocacy: Not applicable because while the passage discusses language and identity, it does not explicitly mention or imply social or political activism, advocacy, critique, or discourse related to Du Bois's work or persona.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because the passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship.
+    - Out of the Mouth of Academics: Not applicable because the passage does not feature a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept.
+    - Out of the Mouth of Activists: Not applicable because the passage does not feature an individual described as a leader, activist, or politician referencing or drawing upon W.E.B. Du Bois's work or legacy.
+    - Collective Synecdoche: Not applicable because Du Bois is not mentioned with other famous intellectuals, activists, or public figures to represent a facet of a culture, era, or ideology.
+
+**Codes Applied**:
+- Scholar
+- Mention of Scholarly Work

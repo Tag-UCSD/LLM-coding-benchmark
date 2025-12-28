@@ -1,0 +1,5 @@
+User: The 1917 marchers, organized by W. E. B. Du Bois and the N.A.A.C.P., walked in their Sunday finest behind signs reading “Thou Shalt Not Kill?” and “Your Hands Are Full of Blood.”
+Assistant: **Justification:** This passage describes Du Bois as working with the N.A.A.C.P. to organize a march, which suggests that he is establishing his reputation through organizational sponsorship. The fact that the march is a collaborative effort implies that Du Bois is building coalitions with other groups or individuals to achieve a common goal. This aligns with the definition of the Coalition Building code.
+
+**Codes Applied:**
+- Coalition Building

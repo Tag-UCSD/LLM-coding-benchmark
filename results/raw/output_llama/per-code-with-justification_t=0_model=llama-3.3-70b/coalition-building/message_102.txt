@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** The passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it mentions Du Bois in the context of a casual conversation between family members, with no reference to his professional or organizational activities. The tone of the passage is also humorous and lighthearted, suggesting that Du Bois is being mentioned as a topic of discussion rather than as a figure being represented in a specific way.
+
+**Codes Applied:**
+- None

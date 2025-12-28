@@ -1,0 +1,5 @@
+User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as part of a historical timeline, but it does not describe him as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it simply references a period of time associated with him. There is no indication of Du Bois building coalitions or working with organizations to establish his reputation.
+
+**Codes Applied:**
+- None

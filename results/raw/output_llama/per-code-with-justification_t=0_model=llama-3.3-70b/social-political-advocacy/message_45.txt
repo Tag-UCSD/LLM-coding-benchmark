@@ -1,0 +1,5 @@
+User: It was “Leave It to Beaver,” but black, to hear Mr. Walcott describe his childhood in the Addisleigh Park section of southeast Queens, a destination for ambitious émigrés from Harlem and Brooklyn that was already dotted with celebrities like John Coltrane, Ella Fitzgerald, and W. E. B. Du Bois.
+Assistant: **Justification:** This passage mentions W.E.B. Du Bois, but it does not imply any form of social or political activism, advocacy, critique, or discourse. The mention of Du Bois is simply as a celebrity resident of the Addisleigh Park section of Queens, without any discussion of his work, ideas, or impact on social issues. Therefore, the code for Social/Political Advocacy is not applicable.
+
+**Codes Applied:**
+- None

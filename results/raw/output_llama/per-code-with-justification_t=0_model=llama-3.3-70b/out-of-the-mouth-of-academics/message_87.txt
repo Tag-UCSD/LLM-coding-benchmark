@@ -1,0 +1,5 @@
+User: Less popular were his politics. He joined anti-Fascist groups and gave support to fledgling trade unions, which were backed by admitted members of the Communist Party, Mr. Brown said. His friends were intellectuals, theater people and members of the political left. He founded the Council on African Affairs with W. E. B. Du Bois, an organization devoted to the liberation of African countries.
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not mention a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept. Instead, it mentions Du Bois as a co-founder of the Council on African Affairs, which is not an academic organization, and does not provide any information about academics discussing or promoting Du Bois.
+
+**Codes Applied:**
+- None

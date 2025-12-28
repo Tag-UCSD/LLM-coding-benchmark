@@ -1,0 +1,5 @@
+User: It was on Mr. Nkrumah's invitation that Du Bois moved here in 1960. He had been unable to travel from 1952 to 1958 because the United States Government had taken away his passport. Embittered by the experience, Du Bois toured Eastern bloc capitals as soon as his passport was returned. In Moscow, on May Day 1959, he received the Lenin Peace Prize.
+Assistant: **Justification:** This passage mentions Du Bois's experience with the United States Government taking away his passport, which implies a form of political activism and critique, as it suggests that the government's action was a form of repression. Additionally, Du Bois's actions, such as touring Eastern bloc capitals and receiving the Lenin Peace Prize, can be seen as a form of social and political advocacy, as they demonstrate his engagement with international socialist and communist movements. The passage explicitly mentions Du Bois's involvement in political activities, which justifies the application of the Social/Political Advocacy code.
+
+**Codes Applied:**
+- Social/Political Advocacy

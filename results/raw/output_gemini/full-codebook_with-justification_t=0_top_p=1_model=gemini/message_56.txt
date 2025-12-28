@@ -1,0 +1,21 @@
+User: But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable, as he is named the "W. E. B. Du Bois professor of the humanities," indicating an intellectual and academic role.
+   - Activist: Not directly applicable, as the passage focuses on his academic and administrative positions rather than explicit activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Applicable, as the passage mentions the "W. E. B. Du Bois Institute," which is a named research institute.
+    - Mention of Scholarly Work: Not applicable, as no specific scholarly works or theoretical concepts are mentioned.
+    - Social/Political Advocacy: Not directly applicable, as the passage focuses on his academic and institutional roles, not his advocacy work.
+
+3. **Canonization Processes**:
+    - Coalition Building: Applicable, as being appointed to a professorship and directing an institute suggests institutional sponsorship and reputation building.
+    - Out of the Mouth of Academics: Applicable, as the mention of the "W. E. B. Du Bois professor of the humanities" and the "W. E. B. Du Bois Institute" implies engagement from an academic organization.
+    - Out of the Mouth of Activists: Not applicable, as there is no indication of an activist referencing Du Bois.
+    - Collective Synecdoche: Not applicable, as Du Bois is not mentioned alongside other figures to represent a broader concept.
+
+**Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Coalition Building
+- Out of the Mouth of Academics

@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** This passage does not apply the Social/Political Advocacy code because it does not mention or imply any form of social or political activism, advocacy, critique, or discourse related to W.E.B. Du Bois's work or ideas. The passage is a fictional and humorous scenario where a family discusses a phone call from their child, and W.E.B. Du Bois is only mentioned in the context of a philosophical concept, the categorical imperative, without any connection to social or political issues. The tone of the passage is lighthearted and does not engage with Du Bois's work or legacy in a meaningful way.
+
+**Codes Applied:**
+- None

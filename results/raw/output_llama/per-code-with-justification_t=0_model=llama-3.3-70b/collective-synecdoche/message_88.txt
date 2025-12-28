@@ -1,0 +1,5 @@
+User: The “suffragents” included the writer Max Eastman, in whose Greenwich Village apartment members of the Men’s League for Woman Suffrage in New York met; George Creel, the Wilson administration’s chief government propagandist in World War I; the educator John Dewey; the sociologist and historian W. E. B. Du Bois; Representative Charles A. Lindbergh Sr. (father of the aviator); the journalist Oswald Garrison Villard; Rabbi Stephen S. Wise; and eventually the Tammany boss Charles F. Murphy.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other notable figures such as Max Eastman, John Dewey, and Oswald Garrison Villard, using them collectively to represent a group of individuals, the "suffragents", who supported woman suffrage. This grouping implies that Du Bois is being used to represent a facet of progressive thought or social activism. The inclusion of Du Bois with these other intellectuals and public figures suggests that he is being used as part of a collective representation of a particular ideology or era.
+
+**Codes Applied:**
+- Collective Synecdoche

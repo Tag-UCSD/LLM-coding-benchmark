@@ -1,0 +1,22 @@
+User: If West's prose is sometimes vague, the direction of his thought has been consistent from the start. His first book, "Prophesy Deliverance!: An Afro-American Revolutionary Christianity" (written when he was 26), was an ambitious exercise in theoretical shorthand. Ostensibly an attempt to synthesize an Afro-American philosophy from such disparate sources as the Marxist theoreticians Georg Lukacs and Antonio Gramsci, the mainstays of modern philosophy (Descartes, Bacon, Hume) and black American writers from W. E. B. Du Bois to Ralph Ellison and Toni Morrison, "Prophesy Deliverance!" strives to be nothing less than a comprehensive anatomy of race and class in American civilization. A study of corporate and political power elites, it is also a work of cultural criticism, an effort to supply Afro-American thought with a critical framework. The book originated as a series of lectures at a black inner-city church in Brooklyn, which may account for its improvisational feel. Even West concedes that in spite of its lingering influence among some theologists and socialists, it "didn't work."
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because Du Bois is mentioned alongside other influential thinkers, implying his intellectual contribution to Afro-American philosophy.
+   - Activist: Not directly applicable because there is no mention of Du Bois's activism or leadership in the passage.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable because there is no mention of a cultural object being named after Du Bois.
+    - Mention of Scholarly Work: Applicable because Du Bois is mentioned as a source for synthesizing an Afro-American philosophy, implying his scholarly work is being referenced.
+    - Social/Political Advocacy: Applicable because the passage discusses the book's effort to supply Afro-American thought with a critical framework, which implies social and political critique.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because there is no mention of Du Bois establishing his reputation through organizational or institutional sponsorship.
+    - Out of the Mouth of Academics: Applicable because the passage discusses West's book, which engages with Du Bois's work, and West is implied to be an academic or intellectual figure.
+    - Out of the Mouth of Activists: Not applicable because there is no mention of an activist or leader referencing Du Bois's work.
+    - Collective Synecdoche: Applicable because Du Bois is mentioned alongside other influential thinkers, representing a facet of Afro-American philosophy and intellectual culture.
+
+**Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+- Collective Synecdoche

@@ -1,0 +1,5 @@
+User: As they gazed up the hill from ''the valley,'' as central Harlem was sometimes called, Harlemites saw a shimmering bluff that would, from 1929 until midcentury, become a hub of elite black society. The names of those who lived there read like a Who's Who of black history: Ralph Ellison, Thurgood Marshall, Joe Louis, W. E. B. Du Bois, James Baldwin, Adam Clayton Powell Sr., Zora Neale Hurston, Duke Ellington and Paul Robeson, to name a few.
+Assistant: **Justification:** This passage mentions W.E.B. Du Bois alongside other famous intellectuals and public figures, such as Ralph Ellison, Thurgood Marshall, and Zora Neale Hurston, in order to represent the elite black society of Harlem during a specific time period. The inclusion of these notable figures serves to evoke a sense of Black excellence and intellectual prominence, which is a key aspect of the Collective Synecdoche code. By listing Du Bois among these other prominent individuals, the passage uses him to represent a facet of black culture and history.
+
+**Codes Applied:**
+- Collective Synecdoche

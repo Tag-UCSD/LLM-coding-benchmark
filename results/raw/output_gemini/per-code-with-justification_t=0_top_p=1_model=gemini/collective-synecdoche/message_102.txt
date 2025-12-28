@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** Du Bois is mentioned alongside Aristotle and Carrie Chapman Catt, and the context suggests they are being used as examples of intellectual figures whose ideas might be discussed. This aligns with the definition of Collective Synecdoche, where individuals are used to represent broader intellectual or cultural concepts.
+
+**Codes Applied:**
+- Collective Synecdoche

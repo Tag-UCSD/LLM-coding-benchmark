@@ -1,0 +1,5 @@
+User: When reading Plato about justice, for example, an automobile mechanic may just awaken to a profound and unexpected sense of the good. A Blue Cross customer representative may find W. E. B. Du Bois no less inspiring than Mr. Levine found John Keats.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of inspiration for a customer representative. There is no indication that this representative is affiliated with an academic organization or that their engagement with Du Bois's work is in an academic capacity. Therefore, the "Out of the Mouth of Academics" code is not applicable.
+
+**Codes Applied:**
+    - None

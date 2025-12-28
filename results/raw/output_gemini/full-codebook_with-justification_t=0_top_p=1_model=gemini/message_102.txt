@@ -1,0 +1,20 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable, as Du Bois's "categorical imperative" is presented as a topic of intellectual discussion, implying his role as a theorist.
+   - Activist: Not applicable, as the passage does not mention or imply any of Du Bois's direct activism or leadership roles.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable, as there is no mention of any enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Applicable, as the passage explicitly references a concept, "categorical imperative," attributed to Du Bois, suggesting a scholarly work.
+    - Social/Political Advocacy: Not applicable, as the passage focuses on an intellectual concept and does not engage with Du Bois's advocacy or social/political critique.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable, as there is no mention of Du Bois building his reputation through organizational sponsorship.
+    - Out of the Mouth of Academics: Applicable, as the passage frames a discussion of Du Bois's "categorical imperative" as an intellectual topic, implying an academic context.
+    - Out of the Mouth of Activists: Not applicable, as the passage does not involve an activist or leader referencing Du Bois.
+    - Collective Synecdoche: Not applicable, as Du Bois is not mentioned alongside other figures to represent a broader concept.
+
+**Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Out of the Mouth of Academics

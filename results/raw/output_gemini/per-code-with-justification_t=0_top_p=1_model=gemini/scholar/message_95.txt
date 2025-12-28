@@ -1,0 +1,5 @@
+User: Written by Du Bois, who was born three years after the end of the Civil War, the verse reads: I heard the Song of Children, crying ''Free!'' I saw the face of Freedom . . . And I died.
+Assistant: **Justification:** The passage quotes Du Bois's writing, but it does not describe him as a scholar or intellectual. The quote itself is poetic and evocative, but it doesn't directly engage with his social theory or political ideas in a way that would warrant the "Scholar" code.
+
+**Codes Applied:**
+    - None

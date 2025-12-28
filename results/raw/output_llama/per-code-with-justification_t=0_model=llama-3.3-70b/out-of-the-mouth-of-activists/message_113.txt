@@ -1,0 +1,5 @@
+User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois and references his work, "The Souls of Black Folk," but it does not indicate that the speaker is a leader, activist, or politician, or a member of a specific organization, and is instead a personal reflection. There is no connection to an organization's agenda or a leader/activist's actions, so the code does not apply.
+
+**Codes Applied:**
+- None

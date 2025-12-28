@@ -1,0 +1,5 @@
+User: But Guralnick is out to destroy gods and undo celebrity, or, as he puts it, to "rescue" Elvis from "both his detractors and admirers." Sometimes, the pages, the research, the interviews and especially the objectivity are necessary to make a subject human again. This can be true because the subject is an icon like Elvis or because the life truly was monumental -- here I'm thinking of David Levering Lewis on W. E. B. Du Bois (two volumes and 1,360 pages).
+Assistant: **Justification:** The passage mentions David Levering Lewis's work on W.E.B. Du Bois, highlighting the extensive research and biographical nature of the work. However, it does not describe Du Bois as actively building his reputation through organizational or institutional sponsorship. The focus is on the biography itself, not Du Bois's agency in establishing his standing.
+
+**Codes Applied:**
+    - None

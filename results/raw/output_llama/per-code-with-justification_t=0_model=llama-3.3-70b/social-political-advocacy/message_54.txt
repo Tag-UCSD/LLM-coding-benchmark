@@ -1,0 +1,5 @@
+User: Dr. C. Eric Lincoln, academy board president, said he had written the Department of Jus tice to protest the denial of a visa to Mrs. Shirley Graham DuBois, widow of W. E. B. Du Bois.
+Assistant: **Justification:** This passage implies social or political activism as Dr. C. Eric Lincoln is taking action to protest the denial of a visa to Mrs. Shirley Graham DuBois, which suggests a challenge to a systemic decision. The mention of protesting a government decision directly relates to social or political advocacy. The context of W.E.B. Du Bois's widow being denied a visa also frames the issue in terms of racial or cultural identity.
+
+**Codes Applied:**
+- Social/Political Advocacy

@@ -1,0 +1,5 @@
+User: The earlier estimates had been based on supposition, as it turned out. Mr. Curtin’s figure, based on scrutiny of shipping contracts and port data, was substantially less than the widely repeated figure of 20 million, which, he showed, was an extrapolation from now-lost records pertaining to Jamaica, and the figure of 15 million used by W. E. B. Du Bois, who repeated a figure arrived at by Edward Dunbar, a 19th-century abolitionist. 
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of historical estimates of the slave trade. While Du Bois is referenced, the passage does not describe him as a leader, activist, or politician, nor does it indicate that an activist organization is referencing his work to connect their agenda to Du Bois. The mention is purely historical and statistical.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,20 @@
+User: The earlier estimates had been based on supposition, as it turned out. Mr. Curtin’s figure, based on scrutiny of shipping contracts and port data, was substantially less than the widely repeated figure of 20 million, which, he showed, was an extrapolation from now-lost records pertaining to Jamaica, and the figure of 15 million used by W. E. B. Du Bois, who repeated a figure arrived at by Edward Dunbar, a 19th-century abolitionist. 
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable, as Du Bois is mentioned in the context of his scholarly work and the figures he derived from historical data.
+   - Activist: Not directly applicable, as the passage focuses on his scholarly contribution to historical estimation rather than his direct activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable, as there is no mention of any enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Applicable, as the passage explicitly references a figure used by W.E.B. Du Bois, implying a connection to his academic work.
+    - Social/Political Advocacy: Not directly applicable, as the passage focuses on historical data and estimation rather than Du Bois's advocacy.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable, as there is no mention of Du Bois building his reputation through organizational sponsorship.
+    - Out of the Mouth of Academics: Not applicable, as the passage does not feature an academic discussing Du Bois's work or representing him as a concept.
+    - Out of the Mouth of Activists: Not applicable, as the passage does not feature an activist referencing Du Bois's work or legacy.
+    - Collective Synecdoche: Applicable, as Du Bois is mentioned alongside another historical figure (Edward Dunbar) in the context of historical scholarship, representing a facet of historical research on a particular topic.
+
+**Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Collective Synecdoche

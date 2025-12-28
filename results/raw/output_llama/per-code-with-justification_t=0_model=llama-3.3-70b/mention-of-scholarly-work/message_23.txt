@@ -1,0 +1,6 @@
+User: Jack Kerouac’s former Ozone Park home will be part of a historic spring trolley tour through
+                                        Queens that also includes the wedding site of W. E. B. Du Bois, Jackie Robinson’s home and Malcolm X’s home. [Daily News]
+Assistant: **Justification:** The passage does not mention any of W.E.B. Du Bois's academic works or major theoretical concepts, but rather references a personal event in his life, his wedding site. This is a general reference to Du Bois as a historical figure, rather than a discussion of his scholarly work.
+
+**Codes Applied:**
+- None

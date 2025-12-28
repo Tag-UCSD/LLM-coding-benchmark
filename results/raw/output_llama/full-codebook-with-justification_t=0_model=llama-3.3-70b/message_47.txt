@@ -1,0 +1,20 @@
+User: The series was inspired by the recent restoration of the council’s 1929 “Freedom Mural,” which depicts Kensico Lakes and two female figures representing freedom and liberty. Ms. Dee’s subject, “Overcoming Injustice and Oppression,” reflects her lifelong involvement in civil rights and social justice issues. Speaking by phone from New Rochelle shortly before leaving for the SAG ceremony, she said she would choose among texts by Walt Whitman, Thomas Paine, W. E. B. Du Bois, Paul Robeson, Langston Hughes, the historian Lerone Bennett and Zora Neale Thurston. 
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because Du Bois is mentioned alongside other notable intellectuals and writers, implying a recognition of his scholarly work.
+   - Activist: Not directly applicable because while Du Bois is known for his activism, the passage does not explicitly mention his activist work or leadership.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable because there is no mention of an enduring cultural object being named after Du Bois.
+    - Mention of Scholarly Work: Not applicable because although Du Bois is mentioned, there is no explicit reference to his scholarly works or ideas.
+    - Social/Political Advocacy: Applicable because the passage discusses civil rights and social justice issues, which are central to Du Bois's work and legacy.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because there is no mention of Du Bois establishing his reputation through organizational or institutional sponsorship.
+    - Out of the Mouth of Academics: Not applicable because the passage does not feature a specific academic discussing Du Bois's work.
+    - Out of the Mouth of Activists: Not applicable because while the passage mentions social justice issues, it does not feature an activist or leader explicitly referencing Du Bois's work or legacy.
+    - Collective Synecdoche: Applicable because Du Bois is mentioned alongside other notable figures, representing a facet of a culture or ideology, in this case, civil rights and social justice.
+
+**Codes Applied**:
+- Scholar
+- Social/Political Advocacy
+- Collective Synecdoche

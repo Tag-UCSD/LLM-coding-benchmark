@@ -1,0 +1,21 @@
+User: "C.C.N.Y. ought to have one of the best black studies departments in the country, something like Harvard's W. E. B Du Bois Center for example," said one faculty member who asked not to be identified. "That's the shame of it." Distorted Image
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because the passage mentions the "W. E. B Du Bois Center" at Harvard, implying Du Bois's intellectual and academic legacy.
+   - Activist: Not directly applicable because the passage does not explicitly mention Du Bois's activism or leadership.
+
+2. **General Themes**:
+    - Monumental Memorialization: Applicable because the passage mentions the "W. E. B Du Bois Center", which is a cultural object named after Du Bois.
+    - Mention of Scholarly Work: Not applicable because the passage does not mention or quote any of Du Bois's academic works or theoretical concepts.
+    - Social/Political Advocacy: Applicable because the passage discusses the need for a strong black studies department, implying a social and political concern for racial representation and education.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because the passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship.
+    - Out of the Mouth of Academics: Applicable because a faculty member is referencing Du Bois's legacy in the context of academic institutions.
+    - Out of the Mouth of Activists: Not applicable because the faculty member is not described as an activist or leader, but rather as an academic.
+    - Collective Synecdoche: Not applicable because Du Bois is not mentioned alongside other famous intellectuals or public figures to represent a culture, era, or ideology.
+
+**Codes Applied**:
+- Scholar
+- Monumental Memorialization
+- Social/Political Advocacy
+- Out of the Mouth of Academics

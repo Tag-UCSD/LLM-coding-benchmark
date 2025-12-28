@@ -1,0 +1,5 @@
+User: Mrs. Du Bois, who now makeS. her home in Cairo, told ;how the “death masks, paintings,; and sculptures” of the. time of'. Cleopatra had “the features of brothers.”
+Assistant: **Justification:** The passage mentions Mrs. Du Bois and a quote attributed to her. However, the quote discusses Cleopatra's death masks and does not reference any of W.E.B. Du Bois's scholarly works or theoretical concepts. Therefore, the "Mention of Scholarly Work" code is not applicable.
+
+**Codes Applied:**
+    - None

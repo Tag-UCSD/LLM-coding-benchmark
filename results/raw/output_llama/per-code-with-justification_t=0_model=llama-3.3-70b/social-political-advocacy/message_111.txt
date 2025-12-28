@@ -1,0 +1,5 @@
+User: Mr. Chavis may be guilty of poor administration and personal missteps, but he cannot be faulted for trying to change the organization's direction. Its guardians have it only half right when they claim that the N.A.A.C.P. has drifted from its base. They overlook the radical democracy and political progressivism of founding figures like W. E. B. Du Bois. This pioneering historian and cultural critic expressed with eloquence a complex vision of justice and equality.
+Assistant: **Justification:** This passage applies the Social/Political Advocacy code because it mentions W.E.B. Du Bois in the context of radical democracy and political progressivism, which implies social and political activism. The passage also discusses Du Bois's vision of justice and equality, which is a critical engagement with social norms and historical narratives. By invoking Du Bois's ideas, the passage is framing a discussion about the N.A.A.C.P.'s direction and its connection to the founding figure's progressive values.
+
+**Codes Applied:**
+- Social/Political Advocacy

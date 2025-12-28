@@ -1,0 +1,5 @@
+User: But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing
+Assistant: **Justification:** The passage does not mention W.E.B. Du Bois alongside other famous intellectuals, activists, or public figures, but rather as the namesake of a professorship and institute, indicating a reference to his individual legacy rather than using him to represent a broader cultural or ideological group. The context is focused on the appointment of someone to a position affiliated with Du Bois' name, without invoking his presence among other notable figures. Therefore, the code Collective Synecdoche is not applicable in this context.
+
+**Codes Applied:**
+- None

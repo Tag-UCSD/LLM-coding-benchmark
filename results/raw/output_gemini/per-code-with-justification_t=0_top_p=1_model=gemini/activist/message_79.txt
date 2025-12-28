@@ -1,0 +1,5 @@
+User: The 68 photographs in the exhibit provide a broad view of black Americans from before the Civil War through the early 1980's. Images of anonymous families, workers and soldiers are shown as well as portraits of public figures like W. E. B. Du Bois, the Rev. Dr. Martin Luther King Jr. and Marian Anderson.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as a "public figure" alongside other prominent individuals like Martin Luther King Jr. and Marian Anderson. However, it does not explicitly call him an "activist" or "leader," nor does it describe his political or social activism. The context is focused on his status as a recognizable public figure, not his actions or roles as an activist.
+
+**Codes Applied:**
+    - None

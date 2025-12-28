@@ -1,0 +1,20 @@
+User: The 1917 marchers, organized by W. E. B. Du Bois and the N.A.A.C.P., walked in their Sunday finest behind signs reading “Thou Shalt Not Kill?” and “Your Hands Are Full of Blood.”
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Not applicable. The passage does not describe Du Bois as a scholar or intellectual, focusing instead on his organizational role.
+   - Activist: Applicable. The passage explicitly states Du Bois organized the march, implying his role as an activist.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable. There is no mention of any enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Not applicable. The passage does not reference any of Du Bois's academic works or theoretical concepts.
+    - Social/Political Advocacy: Applicable. The passage describes a march organized by Du Bois and the NAACP with protest signs, which is a clear instance of social and political advocacy.
+
+3. **Canonization Processes**:
+    - Coalition Building: Applicable. Du Bois is described as organizing the march with the NAACP, indicating his role in building coalitions.
+    - Out of the Mouth of Academics: Not applicable. The passage does not feature an academic discussing Du Bois or his work.
+    - Out of the Mouth of Activists: Not applicable. While Du Bois is an activist, the passage does not show another activist referencing or drawing upon his work or legacy.
+    - Collective Synecdoche: Not applicable. Du Bois is not mentioned alongside other figures to represent a broader concept.
+
+**Codes Applied**:
+- Activist
+- Social/Political Advocacy
+- Coalition Building

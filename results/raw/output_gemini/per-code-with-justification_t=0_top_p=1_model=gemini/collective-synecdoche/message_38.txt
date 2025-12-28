@@ -1,0 +1,5 @@
+User: The earlier estimates had been based on supposition, as it turned out. Mr. Curtin’s figure, based on scrutiny of shipping contracts and port data, was substantially less than the widely repeated figure of 20 million, which, he showed, was an extrapolation from now-lost records pertaining to Jamaica, and the figure of 15 million used by W. E. B. Du Bois, who repeated a figure arrived at by Edward Dunbar, a 19th-century abolitionist. 
+Assistant: **Justification:** Du Bois is mentioned alongside Edward Dunbar, a 19th-century abolitionist, in the context of estimating historical figures. This places Du Bois within a lineage of scholars and activists concerned with historical data and social issues, representing a facet of intellectual history related to abolition and demographic estimation.
+
+**Codes Applied:**
+- Collective Synecdoche

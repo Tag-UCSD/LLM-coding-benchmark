@@ -1,0 +1,5 @@
+User: Mr. Page notes that the debate among black Americans over the best road to equality and success did not begin just the other day. Booker T. Washington's post-Civil War vision of gradual economic achievement through education was later written off as appeasement by W. E. B. Du Bois, who demanded full equality at once.
+Assistant: **Justification:** The passage explicitly discusses the differing approaches to achieving equality and success for Black Americans, highlighting the contrast between Booker T. Washington's vision and W.E.B. Du Bois's demand for full equality. This directly engages with the concept of social and political advocacy by framing Du Bois's stance as a critique of a prevailing approach and a demand for immediate social change.
+
+**Codes Applied:**
+- Social/Political Advocacy

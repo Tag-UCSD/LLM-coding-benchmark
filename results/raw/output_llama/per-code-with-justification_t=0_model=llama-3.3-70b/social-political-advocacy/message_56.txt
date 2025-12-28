@@ -1,0 +1,5 @@
+User: But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing
+Assistant: **Justification:** This passage does not apply the Social/Political Advocacy code because it only mentions W.E.B. Du Bois in the context of an academic position and institute, without any discussion of social or political activism, critique, or discourse. The passage is primarily focused on the individual's career move and the titles they hold, rather than any advocacy or social commentary. There is no explicit mention of Du Bois's work, persona, or ideas being invoked in discussions that critically engage with Black identity, positionality, or broader systemic circumstances of Black people.
+
+**Codes Applied:**
+- None

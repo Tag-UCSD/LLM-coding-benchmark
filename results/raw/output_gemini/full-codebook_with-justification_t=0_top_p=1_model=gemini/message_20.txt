@@ -1,0 +1,19 @@
+User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Not directly applicable because the passage does not describe Du Bois himself as a scholar, but rather an institute named after him.
+   - Activist: Not directly applicable because the passage does not mention Du Bois's activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Applicable because an institute is named after W.E.B. Du Bois.
+    - Mention of Scholarly Work: Not applicable because no specific scholarly works or theoretical concepts by Du Bois are mentioned.
+    - Social/Political Advocacy: Not directly applicable because the passage focuses on the establishment of an institute rather than Du Bois's advocacy.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not directly applicable as the passage does not describe Du Bois as an agent establishing his reputation through organizational sponsorship.
+    - Out of the Mouth of Academics: Applicable because an academic institution (Harvard University) created an institute named after Du Bois, indicating engagement from academics.
+    - Out of the Mouth of Activists: Not directly applicable as the passage does not mention an activist referencing Du Bois.
+    - Collective Synecdoche: Not directly applicable as Du Bois is not mentioned alongside other figures to represent a broader concept.
+
+**Codes Applied**:
+- Monumental Memorialization
+- Out of the Mouth of Academics

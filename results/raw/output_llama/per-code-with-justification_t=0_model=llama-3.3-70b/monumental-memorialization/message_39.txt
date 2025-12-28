@@ -1,0 +1,5 @@
+User: Professor Stuckey once said in an interview that while growing up he was most inspired by two books, Du Bois’s “The Souls of Black Folk" (1903) and “Folk Songs of North America” (1960), by the ethnomusicologist Alan Lomax.
+Assistant: **Justification:** The passage mentions a book written by Du Bois, "The Souls of Black Folk", which does not qualify as an enduring cultural object being named after him. The code definition specifically excludes book titles, so this passage does not meet the criteria for the Monumental Memorialization code. There is no mention of any other type of cultural object being named after Du Bois.
+
+**Codes Applied:**
+- None

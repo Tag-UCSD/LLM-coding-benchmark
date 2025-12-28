@@ -1,0 +1,5 @@
+User: Mr. Meade said Mr. Paynter's study would reveal ''the line of strength leading not just to Du Bois but to many families still in the area who were around just as long and who are just as important in their own ways.''
+Assistant: **Justification:** The passage discusses a study that will highlight Du Bois's "line of strength" and connect him to families in the area. However, it does not describe Du Bois as actively building his reputation through organizational or institutional sponsorship. The focus is on his historical presence and influence, not his agency in establishing his standing.
+
+**Codes Applied:**
+    - None

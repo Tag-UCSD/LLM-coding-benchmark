@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage only mentions the title of a book written by W.E.B. Du Bois, without describing him as a scholar or intellectual, or invoking his ideas on social theory. The title of the book implies Du Bois' scholarship, but it is not an explicit description of him as a scholar. The context is too vague to apply the code.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: Mr. Meade said Mr. Paynter's study would reveal ''the line of strength leading not just to Du Bois but to many families still in the area who were around just as long and who are just as important in their own ways.''
+Assistant: **Justification:** The passage mentions a study by "Mr. Paynter," who is implied to be an academic through the context of a "study." This study directly engages with Du Bois's work, suggesting an academic's interaction with Du Bois's legacy.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

@@ -1,0 +1,5 @@
+User: Vernon Jordan, a former adviser to President Clinton, suggested in a telephone interview that Mr. West — perhaps beginning with the classical education imparted by his parents — seemed destined to join the one in 10 black men whom W. E. B. Du Bois predicted at the dawn of the 20th century would become African-American leaders. “He went to school and to law school inspired to serve the best interests of the community because he was one who understood Du Bois’s mandate to the ‘Talented Tenth,’ ” Mr. Jordan said. “Du Bois would be pleased with his legacy.”
+Assistant: **Justification:** Vernon Jordan, a former adviser to President Clinton, is referencing W.E.B. Du Bois's concept of the "Talented Tenth" and suggesting Du Bois would approve of Cornel West's legacy. While Vernon Jordan is not explicitly identified as an academic in this passage, his role as a former presidential adviser and his engagement with Du Bois's intellectual legacy suggests a connection to academic discourse or at least a deep understanding of intellectual concepts often discussed in academic circles.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

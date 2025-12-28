@@ -1,0 +1,5 @@
+User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a historical period, but it does not explicitly call him an "activist" or "leader", nor does it clearly imply his political or social activism. The mention of Du Bois is more of a reference to a time period rather than a description of his actions or role. 
+
+**Codes Applied:**
+- None

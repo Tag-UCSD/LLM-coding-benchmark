@@ -1,0 +1,5 @@
+User: This — the extent to which democracy in the South threatened to undermine the imperatives of capital — was simply too much for Northern industry to bear. And so it turned against abolition-democracy, already faltering as it was in the face of Southern reaction. “Brute force was allowed to use its unchecked power,” Du Bois writes, “to destroy the possibility of democracy in the South, and thereby make the transition from democracy to plutocracy all the easier and more inevitable.”
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not feature a specific member of an academic organization engaging with Du Bois's work or discussing Du Bois as representing a concept. Instead, the passage quotes Du Bois directly and uses his writing to support an argument, but it does not indicate that the author is a member of an academic organization or that they are discussing Du Bois in an academic context.
+
+**Codes Applied:**
+- None

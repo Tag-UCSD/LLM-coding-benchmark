@@ -1,0 +1,5 @@
+User: But Guralnick is out to destroy gods and undo celebrity, or, as he puts it, to "rescue" Elvis from "both his detractors and admirers." Sometimes, the pages, the research, the interviews and especially the objectivity are necessary to make a subject human again. This can be true because the subject is an icon like Elvis or because the life truly was monumental -- here I'm thinking of David Levering Lewis on W. E. B. Du Bois (two volumes and 1,360 pages).
+Assistant: **Justification:** The code "Out of the Mouth of Academics" is applied because the passage mentions David Levering Lewis, a specific academic, discussing or writing about W.E.B. Du Bois's life in a monumental two-volume work, indicating an academic engagement with Du Bois's work. This direct reference to an academic's work on Du Bois meets the criteria for the code. The passage highlights Lewis's academic effort to make Du Bois's life more understandable through extensive research.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

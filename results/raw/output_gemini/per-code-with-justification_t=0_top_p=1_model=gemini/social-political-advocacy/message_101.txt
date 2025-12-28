@@ -1,0 +1,5 @@
+User: What effect, many of us have worried, would this unprecedented rise in prosperity have on the New Millennials? Would they heed Du Bois’s call, as students like John Lewis and Julian Bond, Charlayne Hunter and Diane Nash did under the leadership of the “Negro Gandhi” presciently predicted by Du Bois back in 1948?
+Assistant: **Justification:** The passage directly references W.E.B. Du Bois's "call" and connects it to the actions of prominent civil rights activists like John Lewis and Julian Bond. This implies that Du Bois's work and ideas are being invoked in the context of social and political activism, specifically concerning the engagement of "New Millennials" with historical calls to action.
+
+**Codes Applied:**
+- Social/Political Advocacy

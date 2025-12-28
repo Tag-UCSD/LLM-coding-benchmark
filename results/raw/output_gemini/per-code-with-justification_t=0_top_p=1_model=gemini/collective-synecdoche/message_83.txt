@@ -1,0 +1,5 @@
+User: It had been a full, though not unusual, day for Cornel West. That morning, he had lectured twice at Princeton: first on W. E. B. Du Bois, Toni Morrison and James Baldwin in a course on Afro-American culture; then on Virginia Woolf, T. S. Eliot, Frantz Fanon and the Zionist philosopher Ahad Ha'am to a class entitled "Religion and Cultural Criticism."
+Assistant: **Justification:** W.E.B. Du Bois is mentioned alongside other prominent intellectuals and cultural figures like Toni Morrison, James Baldwin, Virginia Woolf, T.S. Eliot, and Frantz Fanon. This grouping serves to represent a broader discussion of Afro-American culture and cultural criticism, placing Du Bois as a representative figure within these intellectual spheres.
+
+**Codes Applied:**
+- Collective Synecdoche

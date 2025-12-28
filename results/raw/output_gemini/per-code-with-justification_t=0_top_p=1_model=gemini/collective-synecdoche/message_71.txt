@@ -1,0 +1,5 @@
+User: CROTON-ON-HUDSON “W. E. B. Du Bois, A Man for all Time,” drama by Alexa Kelly. Feb. 28 at 2 p.m. Free. Croton Free Library, 171 Cleveland Drive. crotonfreelibrary.org; 914-271-6612.
+Assistant: **Justification:** Du Bois is mentioned in the title of a drama, but he is not presented alongside other intellectuals, activists, or public figures to represent a broader concept. The title itself focuses on his individual significance rather than using him as a synecdoche for a group or movement.
+
+**Codes Applied:**
+    - None

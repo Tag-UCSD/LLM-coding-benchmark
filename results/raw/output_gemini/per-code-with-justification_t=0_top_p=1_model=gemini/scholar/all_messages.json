@@ -1,0 +1,298 @@
+[
+    {
+        "role": "user",
+        "content": "''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions W.E.B. Du Bois as a figure known within a family and as part of a \"movement,\" implying his influence and recognition. However, it does not explicitly describe him as a scholar or intellectual, nor does it connect him to his specific ideas on social theory, Black politics, or racial identity. The mention is more about his general presence and recognition within a particular generation's upbringing.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "\u201cWe are living through an era of the ascendance of biology, and we have to be very careful,\u201d said Henry Louis Gates Jr., director of the W. E. B. Du Bois Institute for African and African American Research at Harvard University. \u201cWe will all be walking a fine line between using biology and allowing it to be abused.\u201d "
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** Du Bois is mentioned as the namesake of an institute directed by Henry Louis Gates Jr. This context focuses on the institute's work and its director's concerns, rather than directly describing Du Bois himself as a scholar or intellectual in relation to his ideas.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "But in the same way that the idea of eliminating references to \u201cEnglish\u201d strikes most as overboard, the idea that for Black people standard English is something wholly apart is simply inaccurate. For most Black Americans, both Black and standard English are part of who we are; our English is, in this sense, larger than many white people\u2019s. In \u201cThe Souls of Black Folk,\u201d W.E.B. Du Bois wrote, \u201cI sit with Shakespeare and he winces not \u2026 I summon Aristotle and Aurelius and what soul I will, and they come all graciously with no scorn nor condescension.\u201d On a less exalted level, a great many Black people toggle endlessly between standard and Black English, day in and day out \u2014 we code-switch. I always liked how Gloria Naylor was able to get this across, as in this scene from her novel \u201cMama Day\u201d:"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage directly quotes W.E.B. Du Bois from \"The Souls of Black Folk\" to illustrate a point about language and identity. This invocation of his work, particularly from a foundational text, positions him as an intellectual whose ideas are being used to support an argument about Black experience and language.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "SCHOMBURG CENTER FOR RESEARCH IN BLACK CULTURE, 515 Lenox Avenue, at 135th Street, Manhattan. The center's holdings include audio tapes of W. E. B. Du Bois and Booker T. Washington; the original manuscript of Richard Wright's novel \"Native Son,\" and thousands of other documents, paintings and photographs. The main exhibition now is \"The African Presence in the Americas: 500 Years of Tradition and Transformation,\" with maps, photographs, lithographs and memorabilia. Also on view is \"African-Americans in Space Science,\" an exploration of black involvement in science and technology. (Both shows run through Dec. 31.) Other events include a screening of \"To Sleep With Anger,\" a film with Danny Glover, Sheryl Lee Ralph, Mary Alice and Vonetta McGee, to be followed by a discussion with Charles Burnett, the film's director (today at 3 P.M.), and a holiday open house featuring the Forces of Nature dancers and the Abyssinian Baptist Church Choir (Dec. 22 at 3 P.M.). Hours: Mondays and Tuesdays from noon to 8 P.M.; Wednesdays and Fridays from noon to 6 P.M.; Saturdays from 10 A.M. to 6 P.M., closed Sundays, Thursdays and holidays. Free. Information: (212) 491-2200."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions that the Schomburg Center holds audio tapes of W.E.B. Du Bois. However, it does not describe him as a scholar or intellectual, nor does it connect him to his ideas on social theory, Black politics, or racial identity. The mention is purely in the context of historical artifacts.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "CROTON-ON-HUDSON \u201cW. E. B. Du Bois, A Man for all Time,\u201d drama by Alexa Kelly. Feb. 28 at 2 p.m. Free. Croton Free Library, 171 Cleveland Drive. crotonfreelibrary.org; 914-271-6612."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions a drama titled \"W. E. B. Du Bois, A Man for all Time.\" While this implies a recognition of Du Bois's significance, it does not describe him as a scholar or intellectual in connection to his specific ideas on Black politics, racial identity, or social theory. The context is a theatrical performance, not an academic or political analysis of his work.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "The difference between these accounts and those of the slavery apologists, however, is that Du Bois, Woodson and their contemporaries never implied or suggested that chattel slavery was anything less than a crime. Whereas apologists dismissed or disparaged the efforts, radical and otherwise, to end slavery, Du Bois, Woodson and others gave them pride of place in their histories and narratives about the peculiar institution. And in the same way that slavery apologia served a specific ideological purpose, the emphasis on the skills and agency of the enslaved by Black scholars was meant to challenge, in Woodson\u2019s famous words, \u201cthe miseducation of the Negro.\u201d"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly describes Du Bois and his contemporaries as \"Black scholars\" who emphasized the skills and agency of the enslaved. This directly aligns with the definition of \"Scholar\" as it connects Du Bois's work to challenging prevailing narratives and offering a specific intellectual perspective on Black history and identity.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "Some Ghanaians and Americans here say that the recent tributes paid Du Bois are part of an attempt by Ghana's Government to rehabilitate Kwame Nkrumah, Ghana's first President. Mr. Nkrumah, a Socialist, was overthrown in a 1966 army coup and died in exile. Ghana's current Government is reviewing designs for Accra's first large memorial to Mr. Nkrumah."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions Du Bois in relation to tributes and a memorial, but it does not describe him as a scholar or intellectual. The focus is on the political motivations behind honoring him and Kwame Nkrumah, rather than his intellectual contributions.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Outside the church, attempts to organize national self-help groups had checkered histories. Booker T. Washington's National Negro Business League, formed to aid small black businesses, met resistance from both whites and black leaders like W. E. B. Du Bois, who objected to Washington's acceptance of racial segregation."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** Du Bois is mentioned in opposition to Booker T. Washington's policies, specifically his acceptance of racial segregation. This highlights Du Bois's intellectual stance on racial politics and his critique of prevailing approaches to Black advancement, aligning with the definition of \"Scholar\" as it relates to his ideas on racial identity and social theory.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "The only way to learn spelling is to read so much that you automatically recognize what thousands and thousands of English words look like. And how much Aristotle, Plato, St. Thomas, Du Bois and Carrie Chapman Catt can a college student read before overtaken by stupor?"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** Du Bois is mentioned alongside other prominent thinkers like Aristotle, Plato, and St. Thomas, implying he is being considered for his intellectual contributions. The context suggests a discussion about the breadth of reading required for a college student, which aligns with the idea of Du Bois as a scholar whose works are part of academic study.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "The late C. Wright Mills\u2014isolated and harassed because of his radicalism \u2014once remarked that all social science for the past century and a halt is a dialogue with Marx. I think he was right. One will find upon examining the writings of American scholars such as Charles A. Beard, John R. Commons, Albion W. Small, Thorstein Veblen, W. E. B. Du Bois and E. R. A. Seligman that though most did not find Marxism fully persuasive, they all treated Marxism as one of the most illuminating forms of thought in existence"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly describes Du Bois as an \"American scholar\" and places him in the context of intellectual discourse with other prominent thinkers, discussing his engagement with Marxist thought. This aligns with the definition of the \"Scholar\" code, which includes being described as a scholar or intellectual in connection to social theory.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "\u2018\u2018Insecure\u2019\u2019 will deal with race and cultural identity directly, so Penny encouraged Rae to think creatively about how she might portray the duality between what he described as \u2018\u2018the internal and external Issa.\u2019\u2019 Despite some writers\u2019 ambivalence about voice-over, Penny praised her use of it, especially on \u2018\u2018Awkward Black Girl.\u2019\u2019 One of Rae\u2019s strengths as a writer is her ability to wring comedy out of the peculiarity of the black experience in America, specifically what W. E. B. Du Bois called \u2018\u2018double-consciousness\u2019\u2019: the sense that you\u2019re always looking at yourself through the eyes of others, and trying to pre-emptively understand what judgments and opinions they may be making about you at any given moment. Penny seemed to understand this. \u2018\u2018These are the things that we as black people think and feel and can\u2019t say,\u2019\u2019 he said. \u2018\u2018It\u2019s the fine line we all walk.\u2019\u2019"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly mentions W.E.B. Du Bois in connection to his concept of \"double-consciousness,\" which is a key element of his social theory regarding racial identity. This directly aligns with the definition of the \"Scholar\" code, as Du Bois is invoked through his ideas on social theory.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "''The awards are coming late,'' Mr. Brown said yesterday, noting that it had been ''30 or 40 years,'' since he wrote his last poem. An 80-year-old retired professor of English at Howard University, Mr. Brown said he had been keeping busy preparing a collection of essays for publication and writing his memoirs, including anecdotes about W. E. B. Du Bois and other notable figures he had known and befriended."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions that Mr. Brown is writing his memoirs and includes anecdotes about W.E.B. Du Bois. However, it does not describe Du Bois himself as a scholar or intellectual, nor does it connect him to his ideas on social theory. The mention is in the context of personal acquaintance rather than his intellectual contributions.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Less popular were his politics. He joined anti-Fascist groups and gave support to fledgling trade unions, which were backed by admitted members of the Communist Party, Mr. Brown said. His friends were intellectuals, theater people and members of the political left. He founded the Council on African Affairs with W. E. B. Du Bois, an organization devoted to the liberation of African countries."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes Du Bois as a co-founder of an organization devoted to the liberation of African countries. While this is a political action, the definition of \"Scholar\" specifically states to apply it when Du Bois is invoked through his ideas on social theory, and not for his organizing or other non-scholarly political activity. This passage focuses on his political organizing rather than his intellectual contributions.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "The \u201csuffragents\u201d included the writer Max Eastman, in whose Greenwich Village apartment members of the Men\u2019s League for Woman Suffrage in New York met; George Creel, the Wilson administration\u2019s chief government propagandist in World War I; the educator John Dewey; the sociologist and historian W. E. B. Du Bois; Representative Charles A. Lindbergh Sr. (father of the aviator); the journalist Oswald Garrison Villard; Rabbi Stephen S. Wise; and eventually the Tammany boss Charles F. Murphy."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** Du Bois is explicitly identified as a \"sociologist and historian,\" which directly aligns with the definition of a scholar. This categorization is further supported by his inclusion in a list of intellectuals and public figures involved in significant social and political movements.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "Now it turns out that for the last eight years, another major book was in the works: \"W. E. B. Du Bois: Biography of a Race, 1868-1919\" (Henry Holt & Company, New York, $35), a 735-page tome, described by Dr. Lewis in his preface as a project that \"often rendered me unaware of the routine of daily life.\" Du Bois died in 1963 at the age of 95, and the research involved travel over three continents, inquiry into 28 archives and 99 library collections and interviews with more than 150 people. \"And alas,\" Dr. Lewis said recently, \"all this for what it turns out is only volume one.\" But \"Du Bois\" -- a candidate for the National Book Award in nonfiction -- is a powerfully thorough book that because its subject was such a extraordinary leader, so central to the political controversies around him, it compels a reappraisal of the post-Civil War era. Du Bois is perhaps best known in the civil rights movement for his insistence on full equality for his fellow blacks, as opposed to the accommodative policies of Booker T. Washington. But Dr. Lewis's book reveals much more about Du Bois as political strategist. In 1911, for example, when Woodrow Wilson, then Governor of New Jersey, prepared to enter the Presidential race, he asked Du Bois to influence blacks to depart from their traditional Republican stance and vote Democratic. After Wilson won with a larger-than-expected vote and segregationist politics continued, Du Bois retaliated with searing anti-Wilson editorials in The Crisis, the magazine of the National Association for the Advancement of Colored People."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes Du Bois as a \"scholar\" through the context of a biography being written about him, highlighting his intellectual contributions and his role in social and political theory. The text specifically mentions his ideas on racial identity and his strategic political actions, which align with the definition of a scholar in this coding scheme.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "But in this West African city, where streets are named for African states and for leaders of the African independence movement, Du Bois is revered as the father of Pan-Africanism. ''Du Bois still has great influence on us,'' Ghana's Foreign Minister, Obed Asamoah, said in an interview here. Ghana's Pan-Africanist foreign policy was evident last October, when the Government declared five days of mourning in honor of Samora M. Machel, the Mozambique leader who was killed in a plane crash in South Africa. Seeds of African Independence In the first half of this century, Du Bois organized five Pan-African congresses, meetings that planted the seeds for the crop of independent nations that sprang up in Africa in the 1960's. Almost a quarter of a century after Du Bois's death, the Pan-Africanist outlook can be seen in the joint pressure mounted by Africans and black Americans to win majority rule for South-West African, known as Namibia, and South Africa. Pan-Africanists have also encountered setbacks. For now, Du Bois's ideal of a United States of Africa seems far out of reach. One symbol of modern Africa's nationalist rivalries was Nigeria's abrupt expulsion - enforced with pistols and whips - of a million illegal workers from Ghana in 1983. The center, which is gathering his books, papers and other memorabilia, is in his bungalow on a quiet residential street here. The one-story Du Bois house has overhanging eaves to block the afternoon sun, ceiling fans to cool the interior and holes cut in closets to reduce mildew."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes Du Bois as the \"father of Pan-Africanism\" and highlights his organization of Pan-African congresses, which directly relates to his intellectual contributions to social theory and Black politics. His ideas are presented as having significant influence on contemporary African foreign policy and movements for majority rule.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "\"I came mostly for the trade union people,\" Rogovin told me not long ago. \"I was a product of the Great Depression and what I saw and experienced myself made me politically active.\" When I asked him if he thought of his photography as explicitly political, Rogovin said, \"I like to photograph people with problems.\" He purchased a used camera in 1942 but did not become serious about photography until 1958, when he began taking photographs in storefront churches on the East Side of Buffalo. A collection of those photographs was published in Aperture in 1962, with an introduction by W. E. B. Du Bois."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** While W.E.B. Du Bois is mentioned in connection to a publication, the passage does not describe him as a scholar or intellectual. His role here is as an introducer to a collection of photographs, and the text does not elaborate on his ideas or intellectual contributions.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "The scholarship on Reconstruction is vast and comprehensive. But my touchstone for thinking about the period continues to be W.E.B. Du Bois\u2019s \u201cBlack Reconstruction,\u201d published in 1935 after years of painstaking research that was often inhibited by segregation and the racism of Southern institutions of higher education. I return to Du Bois, even as I read more recent work, because he offers a framework that is useful, I think, for analyzing the struggle for democracy in our own time. The central conceit of Du Bois\u2019s landmark study \u2014 whose full title is \u201cBlack Reconstruction: An Essay Toward a History of the Part Which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860-1880\u201d \u2014 is that the period was a grand struggle between \u201ctwo theories of the future of America,\u201d rooted in the relationship of American labor to American democracy. \u201cWhat were to be the limits of democratic control in the United States?\u201d Du Bois asks. \u201cWas the rule of the mass of Americans to be unlimited, and the right to rule extended to all men regardless of race and color?\u201d And if not, he continues, \u201cHow would property and privilege be protected?\u201d"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly refers to Du Bois's \"Black Reconstruction\" as a \"landmark study\" and discusses his \"scholarship\" and the \"framework\" it offers for analyzing democracy. It highlights his intellectual contributions to understanding racial identity and social theory in the context of American history.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "Liberal orthodoxy notwithstanding, Harvard's experience with black people and black studies has been extremely mixed. In its earliest days, students and professors and at least two university presidents owned slaves. As late as 1922, a university president, Abbott Lawrence Lowell, prohibited black students from living in the freshman dormitories, as was required for all white students. ''I was in Harvard,'' said the writer W. E. B. Du Bois, who in 1895 became the first black recipient of a doctorate from Harvard, ''not of it.''"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage quotes W.E.B. Du Bois directly, referencing his experience at Harvard and his status as the first Black recipient of a doctorate from the institution. This highlights his intellectual achievement and his critical perspective on racial dynamics within an academic setting, aligning with the definition of \"Scholar.\"\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "The black theorist, sociologist and historian W. E. B. Du Bois was among the first to articulate for a wide audience the psychological jolt he felt as a child of realizing, after playing with a white child, that he was seen as a problem, and that his lot in life in America was to see himself as whites saw him, to acknowledge himself as a problem. However, while I\u2019m not a big fan of the idea that America has made a lot of progress since Du Bois\u2019s time, I can readily admit that a lot has changed since the beginning of the 20th century. I imagine Mr. Crutcher and his desire to be back in a classroom and I think, how wonderful that is. I admire a person well into adulthood embracing the possibility that there are still things he\u2019d like to learn, that he\u2019d like to improve about himself, that he\u2019d like to share with his family and the world."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly describes Du Bois as a \"theorist, sociologist and historian,\" which directly aligns with the definition of a scholar. It also references his articulation of psychological concepts related to racial identity, further supporting the application of this code.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "Written by Du Bois, who was born three years after the end of the Civil War, the verse reads: I heard the Song of Children, crying ''Free!'' I saw the face of Freedom . . . And I died."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage quotes Du Bois's writing, but it does not describe him as a scholar or intellectual. The quote itself is poetic and evocative, but it doesn't directly engage with his social theory or political ideas in a way that would warrant the \"Scholar\" code.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "The \"talented tenth,\" a concept celebrated by W. E. B. Du Bois, have prospered as a result of affirmative action. Colin Powell, Jesse Jackson, Gov. Douglas Wilder and most of those testifying at the Senate hearings before the appointment of Associate Justice Clarence Thomas all demonstrate the effectiveness of affirmative action programs for superior African-Americans."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage directly references a concept, the \"talented tenth,\" that is attributed to W.E.B. Du Bois. This concept is a key element of his social theory regarding racial uplift and the role of educated Black elites in advancing the race. Therefore, Du Bois is being invoked through his intellectual contributions.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "Mr. Hutchins said his initial donation was always meant as \u201chello money,\u201d the start of what he called an intellectual partnership as well as a friendship. Mr. Hutchins and Professor Gates have collaborated\n                                        on making the Harvard program \u201cthe unmatched juggernaut of African-American studies,\u201d Mr. Hutchins said. Mr. Hutchins helped form an advisory board for the Du Bois Institute and introduced an array\n                                        of potential donors to Professor Gates."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage focuses on the collaboration between Mr. Hutchins and Professor Gates in developing an African-American studies program and the Du Bois Institute. While Du Bois is mentioned as the namesake of the institute, the text does not describe him as a scholar or intellectual in relation to his ideas or theories. The context is primarily about the establishment and funding of an academic program.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Ghana's tribute contrasts with the often ambivalent treatment accorded Du Bois in the United States. In America, the black writer, who began to press for civil rights in the early 1900's, is often mainly remembered for turning toward Communism and for becoming a Ghanaian citizen in his final years. Bernard Drew, president of the Berkshire County (Mass.) Historical Society, said in a telephone interview that Du Bois's birthplace in Great Barrington was a weed-choked lot marked by a ''crude and wooden'' plaque."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes Du Bois as a \"black writer\" who \"began to press for civil rights.\" While this hints at his intellectual contributions, it doesn't explicitly describe him as a scholar or intellectual in connection to Black politics, racial identity, or social theory. The focus is on his activism and later life choices rather than his scholarly work.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "But the basic idea that \u201cslaves developed skills\u201d isn\u2019t an illegitimate one. And although it has been deployed in efforts to minimize the fundamental injustice of American slavery, it has also been used in defense of the essential humanity of the enslaved. For example, at the same time that white supremacist authors were writing slavery apologia for student instruction, scholars like W.E.B. Du Bois were taking note of the skills and agency of enslaved Africans for a very different purpose."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly describes W.E.B. Du Bois as a \"scholar\" and connects his work to understanding the \"skills and agency of enslaved Africans,\" which aligns with the definition of the \"Scholar\" code as it relates to his intellectual contributions on racial identity and social theory.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "In other words, it is the reality of racism \u2014 the ongoing production of race by institutions and structures of racial domination \u2014 that fuels this process of group formation. In his 1940 book, \u201cDusk of Dawn: An Essay Toward an Autobiography of a Race Concept,\u201d W. E. B. Du Bois captured this dynamic in a single sentence, the final point in an imagined dialogue with a white interlocutor. \u201cThe Black man,\u201d he wrote, \u201cis a person who must ride \u2018Jim Crow\u2019 in Georgia.\u201d"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage directly references Du Bois's book \"Dusk of Dawn\" and quotes his assertion about the lived experience of Black individuals under racism. This demonstrates Du Bois's engagement with the social theory of race and racial domination, fitting the definition of a scholar.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "Mr. Lehrer received an honorary doctorate of humane letters. Other honorary degree recipients were Louise Gluck, the Pulitzer Prize-winning poet and senior lecturer in English at Williams; Henry Louis Gates Jr., the W. E. B. Du Bois Professor of Humanities at Harvard University; Maya Lin, the designer of the Vietnam Veterans' Memorial in Washington; Earl A. Powell 3d, a Williams alumnus who is director of the National Gallery of Art; Martin Scorsese, the filmmaker; Sir Richard Norman, rector of Exeter College at Oxford University; Harry C. Payne, president of Hamilton College, who will take over next January as Williams's president, and Walter V. Shipley, president of Chemical Bank and another Williams alumnus. St. Francis College"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** While Henry Louis Gates Jr. is mentioned as the W.E.B. Du Bois Professor of Humanities, the passage does not describe Du Bois himself as a scholar. It focuses on other individuals receiving honorary degrees and their accomplishments.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Prof. Thomas Sowell's article on the \u201catypical\u201d background of black leaders is faulty on several counts and disturbing in its implications. He first asserts, without documentation, that those black leaders who are descendants of those who were free before the Civil War have different priorities from the black populace in general. He further elucidates by referring to them as \u201clight\u2010skinned.\u201d He adds insult to injury by naming W. E. B. Du Bois and Thurgood Marshall as examples. Even a cursory reading of Afro\u2010American history will show, without question, that both these men placed the liberation of black people as their highest priority."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes Du Bois as someone who placed \"the liberation of black people as their highest priority.\" This directly aligns with the definition of \"Scholar\" when Du Bois is invoked through his ideas on social theory related to Black politics and racial identity, even if it also touches on his activism. The context emphasizes his intellectual contribution to the cause of Black liberation.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "This was in 1928. One can imagine a youth writing a letter today identical to the one written to Du Bois, and one can imagine Du Bois, were he alive, writing the same reply. The problems confronting Negroes are formidable, and they will not be solved by altering a name, or by dressing differently, or by wearing one's hair in a new way. We should not be fooled by names or appearances. The real problems lie beneath the surface."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage directly references Du Bois's potential response to a contemporary issue, implying his continued relevance and the enduring nature of his insights into the \"real problems\" facing Black people. This suggests his ideas are being invoked as a form of social theory, aligning with the definition of \"Scholar.\"\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "A few independent black American scholars have pur sued these lines, but no one can do it alone even in an entire lifetime. No one can hope to discover all the sources or to command so much knowl edge. Scholars such as W. E. B. Du Bois, Benjamin Brawley, Rayford Logan, Franklin Fra zier, John Hope Franklin and Benjamin Quarles have, com mendably and thoroughly, each examined his own length of line."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly refers to W.E.B. Du Bois as a \"scholar\" and lists him alongside other individuals recognized for their scholarly contributions. This directly aligns with the definition of the \"Scholar\" code, which is applied when Du Bois is described as a scholar or intellectual.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963'' Mr. Lewis, a history professor at Rutgers University, won his first Pulitzer Prize for biography in 1994, with the first volume in his life of W. E. B. Du Bois, one of the towering figures of the early American civil rights movement. Now the second volume has won Mr. Lewis a second prize, making him the first biographer in Pulitzer history to win for back-to-back volumes. The second volume picks up Du Bois's life after 1919, when the co-founder of the National Association for the Advancement of Colored People began to move away from his early integrationist ideals and shift toward more radical leftist politics. The second half of his life was fraught with contradictions, as he battled other black leaders, as well as white society."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes Du Bois as a \"towering figure of the early American civil rights movement\" and mentions his role as \"co-founder of the National Association for the Advancement of Colored People.\" While these highlight his activism and leadership, they do not explicitly describe him as a scholar or intellectual in connection to his ideas on social theory, Black politics, or racial identity. The focus is on his activism and political shifts rather than his intellectual contributions.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Mr. Chavis may be guilty of poor administration and personal missteps, but he cannot be faulted for trying to change the organization's direction. Its guardians have it only half right when they claim that the N.A.A.C.P. has drifted from its base. They overlook the radical democracy and political progressivism of founding figures like W. E. B. Du Bois. This pioneering historian and cultural critic expressed with eloquence a complex vision of justice and equality."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage explicitly describes Du Bois as a \"pioneering historian and cultural critic\" who \"expressed with eloquence a complex vision of justice and equality.\" This directly aligns with the definition of \"Scholar\" as someone described as an intellectual, particularly in connection to social theory and racial identity.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "This confusion over the direction of the movement has all but immobilized the nation\u2019s premier civil rights group, the N.A.A.C.P. Synonymous with the long journey toward racial equality since its founding by W. E. B. Du Bois and others in 1909, the organization has, in recent years, lost much of its cachet with younger black Americans. In 2005, the N.A.A.C.P.\u2019s unwieldy 64-member board hired Bruce Gordon, a former Verizon executive, to retool the organization. Gordon\u2019s premise was that civil rights was no longer simply about protesting discrimination \u0097 that African-Americans were now stymied not only by institutional barriers but also by conditions in their communities. He proposed that a new N.A.A.C.P step into this breach, organizing services that might include SAT prep classes or training for new parents. He also created a new class of online members who didn\u2019t have to pay any dues, adding more than 100,000 members to a group whose paying membership had declined, in Gordon\u2019s estimate, to under 300,000."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions Du Bois as a founder of the NAACP, a significant historical role. However, it does not describe him as a scholar or intellectual, nor does it connect him to his ideas on social theory, Black politics, or racial identity in a way that aligns with the definition of the \"Scholar\" code.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "After that, I was acutely aware of what W. E. B. Du Bois, in \u201cThe Souls of Black Folk,\u201d called the \u201cdouble consciousness\u201d:"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage directly references Du Bois's concept of \"double consciousness\" from \"The Souls of Black Folk.\" This concept is a foundational element of his social theory and intellectual contributions, fitting the definition of the \"Scholar\" code.\n\n**Codes Applied:**\n- Scholar"
+    },
+    {
+        "role": "user",
+        "content": "At Harvard, Mr. Gates presides over both the Department of Afro-American studies and its W. E. B. Du Bois Institute for Afro-American Research. The department has seven faculty members, all with joint appointments in other fields like English, philosophy or economics. Forty-three students are majoring in Afro-American studies. The department now offers only undergraduate degrees, but a doctoral program is being planned. The Du Bois Institute, the oldest research institute in the field, this year sponsors 23 fellows studying subjects ranging from African oral literature, to the Harlem Renaissance, to the Atlantic slave trade to jazz and hip-hop."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions the \"W. E. B. Du Bois Institute for Afro-American Research\" and its fellows studying various subjects. However, it does not describe Du Bois himself as a scholar or intellectual, nor does it connect him to his ideas on social theory. The focus is on the institute named after him and its current research activities.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "Mr. Morgan said Dr. Jeffries called The Crimson a \"Jewish newspaper\" and made derogatory comments about Henry Louis Gates Jr., director of Harvard's W. E. B. Du Bois Institute for African-American Research."
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage mentions the \"W. E. B. Du Bois Institute for African-American Research,\" indicating Du Bois's connection to an academic institution. However, it does not describe Du Bois himself as a scholar or intellectual, nor does it invoke his ideas on social theory. The focus is on the director of the institute and comments made by another individual.\n\n**Codes Applied:**\n    - None"
+    },
+    {
+        "role": "user",
+        "content": "W. E. B. Du Bois once made a brilliant commentary on the debate over names in a reply to a letter from a 15-year-old who objected to ''Negro'' because it was ''a white man's word to make us feel inferior.'' Du Bois wrote urging the youth not to mistake ''names for things,'' nor to put undue emphasis on what something is called. The letter is a masterpiece:"
+    },
+    {
+        "role": "assistant",
+        "content": "**Justification:** The passage describes Du Bois's commentary on a debate about names, highlighting his insightful response to a young person's concerns about racial terminology. This demonstrates his intellectual engagement with issues of racial identity and the power of language, aligning with the definition of \"Scholar\" as someone who offers commentary and ideas on social theory and racial identity.\n\n**Codes Applied:**\n- Scholar"
+    }
+]

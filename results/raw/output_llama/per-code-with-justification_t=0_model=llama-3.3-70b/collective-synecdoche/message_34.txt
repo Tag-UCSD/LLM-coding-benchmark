@@ -1,0 +1,5 @@
+User: This — the extent to which democracy in the South threatened to undermine the imperatives of capital — was simply too much for Northern industry to bear. And so it turned against abolition-democracy, already faltering as it was in the face of Southern reaction. “Brute force was allowed to use its unchecked power,” Du Bois writes, “to destroy the possibility of democracy in the South, and thereby make the transition from democracy to plutocracy all the easier and more inevitable.”
+Assistant: **Justification:** The passage does not mention W.E.B. Du Bois alongside other famous intellectuals, activists, or public figures, which is the key criterion for applying the Collective Synecdoche code. Instead, it quotes Du Bois as a singular authority on the topic, without invoking a broader cultural, era, or ideological representation. The focus is on Du Bois' specific insight rather than using him to represent a larger group or concept.
+
+**Codes Applied:**
+- None

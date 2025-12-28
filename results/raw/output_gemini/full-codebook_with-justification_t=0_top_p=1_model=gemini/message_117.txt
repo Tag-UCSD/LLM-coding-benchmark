@@ -1,0 +1,21 @@
+User: Vernon Jordan, a former adviser to President Clinton, suggested in a telephone interview that Mr. West — perhaps beginning with the classical education imparted by his parents — seemed destined to join the one in 10 black men whom W. E. B. Du Bois predicted at the dawn of the 20th century would become African-American leaders. “He went to school and to law school inspired to serve the best interests of the community because he was one who understood Du Bois’s mandate to the ‘Talented Tenth,’ ” Mr. Jordan said. “Du Bois would be pleased with his legacy.”
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable, as the passage references Du Bois's prediction about the "Talented Tenth," a concept rooted in his scholarly work on Black leadership and social stratification.
+   - Activist: Not directly applicable, as the passage focuses on Du Bois's intellectual concept rather than his direct political or social activism.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable, as there is no mention of any enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Applicable, as the passage directly references Du Bois's concept of the "Talented Tenth," which originates from his scholarly writings.
+    - Social/Political Advocacy: Applicable, as the passage discusses Du Bois's ideas in the context of leadership and serving the "best interests of the community," which are forms of social and political advocacy.
+
+3. **Canonization Processes**:
+   - Coalition Building: Not applicable, as there is no mention of Du Bois establishing his reputation through organizational or institutional sponsorship.
+   - Out of the Mouth of Academics: Not applicable, as Vernon Jordan is described as a former adviser to President Clinton, not explicitly as an academic.
+   - Out of the Mouth of Activists: Applicable, as Vernon Jordan, a former adviser to President Clinton and implied figure of influence, references and draws upon W.E.B. Du Bois's "Talented Tenth" concept to discuss Cornel West's potential leadership.
+   - Collective Synecdoche: Not applicable, as Du Bois is not mentioned alongside other figures to represent a broader category.
+
+**Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Social/Political Advocacy
+- Out of the Mouth of Activists

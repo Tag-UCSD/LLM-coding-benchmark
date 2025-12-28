@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(done)",
+      "Bash(ls:*)",
+      "Bash(python3:*)",
+      "Bash(Rscript:*)",
+      "Bash(cat:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

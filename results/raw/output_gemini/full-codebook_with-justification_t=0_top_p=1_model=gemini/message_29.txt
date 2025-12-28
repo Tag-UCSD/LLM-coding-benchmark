@@ -1,0 +1,22 @@
+User: If West's prose is sometimes vague, the direction of his thought has been consistent from the start. His first book, "Prophesy Deliverance!: An Afro-American Revolutionary Christianity" (written when he was 26), was an ambitious exercise in theoretical shorthand. Ostensibly an attempt to synthesize an Afro-American philosophy from such disparate sources as the Marxist theoreticians Georg Lukacs and Antonio Gramsci, the mainstays of modern philosophy (Descartes, Bacon, Hume) and black American writers from W. E. B. Du Bois to Ralph Ellison and Toni Morrison, "Prophesy Deliverance!" strives to be nothing less than a comprehensive anatomy of race and class in American civilization. A study of corporate and political power elites, it is also a work of cultural criticism, an effort to supply Afro-American thought with a critical framework. The book originated as a series of lectures at a black inner-city church in Brooklyn, which may account for its improvisational feel. Even West concedes that in spite of its lingering influence among some theologists and socialists, it "didn't work."
+Assistant: 1. **Characterization of Du Bois**:
+   - Scholar: Applicable because Du Bois is mentioned as a source for an "ambitious exercise in theoretical shorthand" and as a key figure in "black American writers" contributing to Afro-American philosophy.
+   - Activist: Not applicable because the passage does not describe Du Bois's direct activism or leadership roles.
+
+2. **General Themes**:
+    - Monumental Memorialization: Not applicable because there is no mention of any enduring cultural object named after Du Bois.
+    - Mention of Scholarly Work: Applicable because Du Bois is listed as a source for "black American writers" whose work is part of a theoretical synthesis.
+    - Social/Political Advocacy: Applicable because the passage discusses West's work as a "comprehensive anatomy of race and class in American civilization" and a "study of corporate and political power elites," which inherently engages with social and political issues.
+
+3. **Canonization Processes**:
+    - Coalition Building: Not applicable because Du Bois is not described as an agent establishing his reputation through organizational sponsorship.
+    - Out of the Mouth of Academics: Applicable because Du Bois is mentioned as a foundational figure within a discussion of theoretical philosophy and Afro-American thought, which is an academic context.
+    - Out of the Mouth of Activists: Not applicable because the passage does not feature an activist referencing Du Bois.
+    - Collective Synecdoche: Applicable because Du Bois is mentioned alongside other famous Black American writers (Ralph Ellison and Toni Morrison) to represent a facet of "black American writers" and their contribution to Afro-American thought.
+
+**Codes Applied**:
+- Scholar
+- Mention of Scholarly Work
+- Social/Political Advocacy
+- Out of the Mouth of Academics
+- Collective Synecdoche

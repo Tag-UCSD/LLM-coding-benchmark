@@ -1,0 +1,5 @@
+User: W. E. B. Du Bois once made a brilliant commentary on the debate over names in a reply to a letter from a 15-year-old who objected to ''Negro'' because it was ''a white man's word to make us feel inferior.'' Du Bois wrote urging the youth not to mistake ''names for things,'' nor to put undue emphasis on what something is called. The letter is a masterpiece:
+Assistant: **Justification:** Du Bois is mentioned in this passage as a commentator on a specific debate about names. While he is a famous intellectual, he is not being used here to represent a broader category like race scholarship or civil rights activism. The focus is on his specific commentary, not his symbolic representation of a group or era.
+
+**Codes Applied:**
+    - None

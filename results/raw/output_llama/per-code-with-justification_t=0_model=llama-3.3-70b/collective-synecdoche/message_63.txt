@@ -1,0 +1,5 @@
+User: The 1917 marchers, organized by W. E. B. Du Bois and the N.A.A.C.P., walked in their Sunday finest behind signs reading “Thou Shalt Not Kill?” and “Your Hands Are Full of Blood.”
+Assistant: **Justification:** This passage does not apply the Collective Synecdoche code because W.E.B. Du Bois is mentioned as an organizer of a specific event, rather than being mentioned alongside other famous intellectuals or public figures to represent a broader concept or ideology. The focus is on the event itself, rather than using Du Bois as a symbol of a particular era or ideology. The mention of the N.A.A.C.P. provides context for the event, but does not imply a representation of a culture or ideology through Du Bois.
+
+**Codes Applied:**
+- None
