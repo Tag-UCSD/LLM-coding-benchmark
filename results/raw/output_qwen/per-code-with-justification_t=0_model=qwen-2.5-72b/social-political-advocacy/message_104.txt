@@ -1,0 +1,5 @@
+User: But the basic idea that “slaves developed skills” isn’t an illegitimate one. And although it has been deployed in efforts to minimize the fundamental injustice of American slavery, it has also been used in defense of the essential humanity of the enslaved. For example, at the same time that white supremacist authors were writing slavery apologia for student instruction, scholars like W.E.B. Du Bois were taking note of the skills and agency of enslaved Africans for a very different purpose.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his work highlighting the skills and agency of enslaved Africans, which is part of a broader effort to challenge and critique the historical narratives that dehumanize enslaved people. This engagement with the representation of Black identity and the systemic circumstances of Black people aligns with the definition of Social/Political Advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

@@ -1,6 +1,5 @@
 # LLM Benchmarking for Deductive Qualitative Coding
 
-![Status](https://img.shields.io/badge/status-research-orange)
 ![Language](https://img.shields.io/badge/language-Python%20%7C%20R-blue)
 
 Replication of an LLM-assisted qualitative coding study, extended into a multi-model benchmark for closed (deductive) coding across curated thematic analysis datasets.

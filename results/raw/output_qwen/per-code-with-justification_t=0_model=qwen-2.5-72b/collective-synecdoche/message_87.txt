@@ -1,0 +1,5 @@
+User: Less popular were his politics. He joined anti-Fascist groups and gave support to fledgling trade unions, which were backed by admitted members of the Communist Party, Mr. Brown said. His friends were intellectuals, theater people and members of the political left. He founded the Council on African Affairs with W. E. B. Du Bois, an organization devoted to the liberation of African countries.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of founding the Council on African Affairs, which is a specific organization. While Du Bois is mentioned alongside other figures, the primary focus is on the organization and its purpose rather than using Du Bois to represent a broader cultural, ideological, or historical context.
+
+**Codes Applied:**
+    - None

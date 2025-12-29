@@ -1,0 +1,5 @@
+User: Professor Stuckey’s black nationalist ideology jelled as a student at Northwestern University. He met Paul Robeson and W. E. B. Du Bois, picketed a Woolworth’s store in Chicago to protest segregation in the South, and supported a voter registration project in Tennessee sponsored by the interracial Congress of Racial Equality.
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois alongside Paul Robeson, both of whom are significant figures in the civil rights movement and African American intellectual history. This mention serves to represent the broader context of civil rights activism and intellectual engagement during that era.
+
+**Codes Applied:**
+- Collective Synecdoche

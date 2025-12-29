@@ -1,0 +1,5 @@
+User: The earlier estimates had been based on supposition, as it turned out. Mr. Curtin’s figure, based on scrutiny of shipping contracts and port data, was substantially less than the widely repeated figure of 20 million, which, he showed, was an extrapolation from now-lost records pertaining to Jamaica, and the figure of 15 million used by W. E. B. Du Bois, who repeated a figure arrived at by Edward Dunbar, a 19th-century abolitionist. 
+Assistant: **Justification:** The passage primarily discusses the historical estimates of the transatlantic slave trade and the figures provided by different scholars, including W. E. B. Du Bois. While Du Bois is mentioned, the context is purely historical and statistical, and there is no discussion of social or political advocacy, critique, or discourse related to his work or ideas.
+
+**Codes Applied:**
+    - None

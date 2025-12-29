@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage does not mention Du Bois in conjunction with other famous intellectuals, activists, or public figures. It only references his work, "Black Reconstruction in America, 1860-1880," without placing him in a broader cultural, historical, or ideological context.
+
+**Codes Applied:**
+    - None

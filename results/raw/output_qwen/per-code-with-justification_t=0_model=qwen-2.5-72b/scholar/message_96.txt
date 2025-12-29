@@ -1,0 +1,5 @@
+User: The "talented tenth," a concept celebrated by W. E. B. Du Bois, have prospered as a result of affirmative action. Colin Powell, Jesse Jackson, Gov. Douglas Wilder and most of those testifying at the Senate hearings before the appointment of Associate Justice Clarence Thomas all demonstrate the effectiveness of affirmative action programs for superior African-Americans.
+Assistant: **Justification:** The passage references Du Bois's concept of the "talented tenth" and its connection to the success of prominent African-Americans, which is an idea rooted in his social theory and intellectual contributions. However, the passage does not explicitly describe Du Bois as a scholar or intellectual, nor does it delve into his broader scholarly work or theories. It primarily uses his concept to support a point about affirmative action.
+
+**Codes Applied:**
+    - None

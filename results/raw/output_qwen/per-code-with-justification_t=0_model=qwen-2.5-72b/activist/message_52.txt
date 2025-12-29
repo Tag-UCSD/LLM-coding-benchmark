@@ -1,0 +1,5 @@
+User: Why is this still a useful framework for understanding the United States, close to a century after Du Bois conceived and developed this argument? As a concept, abolition-democracy captures something vital and important: Democratic life cannot flourish as long as it is bound by and shaped around hierarchies of status. The fight for political equality cannot be separated from the fight for equality more broadly. In other words, the reason I keep coming back to “Black Reconstruction” is that Du Bois’s mode of analysis can help us (or, at least, me) look past so much of the ephemera of our politics to focus on what matters most: the roles of power, privilege and, most important, capital in shaping our political order and structuring our conflicts with one another.
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or "leader," nor does it mention his political or social activism. Instead, it focuses on his intellectual contributions and the relevance of his ideas in contemporary political analysis.
+
+**Codes Applied:**
+    - None

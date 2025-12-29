@@ -1,0 +1,5 @@
+User: When reading Plato about justice, for example, an automobile mechanic may just awaken to a profound and unexpected sense of the good. A Blue Cross customer representative may find W. E. B. Du Bois no less inspiring than Mr. Levine found John Keats.
+Assistant: **Justification:** The passage does not describe an individual as a leader, activist, or politician, nor does it mention a specific political or activist organization. The reference to Du Bois is made in a general context of personal inspiration, rather than in a context where a leader or activist is drawing upon his work or legacy.
+
+**Codes Applied:**
+    - None

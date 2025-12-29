@@ -1,0 +1,5 @@
+User: Ghana's tribute contrasts with the often ambivalent treatment accorded Du Bois in the United States. In America, the black writer, who began to press for civil rights in the early 1900's, is often mainly remembered for turning toward Communism and for becoming a Ghanaian citizen in his final years. Bernard Drew, president of the Berkshire County (Mass.) Historical Society, said in a telephone interview that Du Bois's birthplace in Great Barrington was a weed-choked lot marked by a ''crude and wooden'' plaque.
+Assistant: **Justification:** The passage mentions Du Bois's civil rights advocacy and his turn toward Communism, which are forms of social and political activism. It also highlights the contrast between Ghana's tribute and the ambivalent treatment in the United States, which implicitly critiques the way Du Bois is remembered and valued in different contexts. This engagement with the historical and social narrative of Du Bois's life and legacy fits the definition of social/political advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

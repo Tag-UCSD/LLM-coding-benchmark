@@ -1,0 +1,5 @@
+User: Mr. Chavis may be guilty of poor administration and personal missteps, but he cannot be faulted for trying to change the organization's direction. Its guardians have it only half right when they claim that the N.A.A.C.P. has drifted from its base. They overlook the radical democracy and political progressivism of founding figures like W. E. B. Du Bois. This pioneering historian and cultural critic expressed with eloquence a complex vision of justice and equality.
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois in the context of his historical and ideological contributions to the N.A.A.C.P. and his vision of justice and equality. However, it does not reference any enduring cultural object named after Du Bois, such as a prize, award, building, or institute.
+
+**Codes Applied:**
+    - None

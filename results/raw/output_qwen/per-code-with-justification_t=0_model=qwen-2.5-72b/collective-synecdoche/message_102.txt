@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois alongside Aristotle and Carrie Chapman Catt, but the context is more about a humorous family conversation rather than representing a broader cultural, ideological, or historical context. Therefore, the code "Collective Synecdoche" does not apply.
+
+**Codes Applied:**
+    - None

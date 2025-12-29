@@ -1,0 +1,5 @@
+User: Mrs. Du Bois, who now makeS. her home in Cairo, told ;how the “death masks, paintings,; and sculptures” of the. time of'. Cleopatra had “the features of brothers.”
+Assistant: **Justification:** The passage does not describe Du Bois as a scholar or intellectual, nor does it reference his ideas on social theory, Black politics, or racial identity. It focuses on Mrs. Du Bois's observations about historical artifacts, which are not connected to Du Bois's scholarly work.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: The only way to learn spelling is to read so much that you automatically recognize what thousands and thousands of English words look like. And how much Aristotle, Plato, St. Thomas, Du Bois and Carrie Chapman Catt can a college student read before overtaken by stupor?
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in a list of historical figures and thinkers, but it does not reference his work or legacy in the context of activism, leadership, or political affiliation. The mention is purely in the context of reading and education, without any connection to Du Bois's role as an activist or his influence on contemporary movements.
+
+**Codes Applied:**
+    - None

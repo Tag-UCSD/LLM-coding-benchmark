@@ -1,0 +1,5 @@
+User: “We are living through an era of the ascendance of biology, and we have to be very careful,” said Henry Louis Gates Jr., director of the W. E. B. Du Bois Institute for African and African American Research at Harvard University. “We will all be walking a fine line between using biology and allowing it to be abused.” 
+Assistant: **Justification:** Henry Louis Gates Jr. is mentioned as the director of the W. E. B. Du Bois Institute for African and African American Research at Harvard University, but he is not described as a leader, activist, or politician, nor is he referencing Du Bois's work or legacy in the context of an activist or political agenda. The mention of the institute named after Du Bois does not imply that Gates is connecting his own agenda to Du Bois in a way that fits the code.
+
+**Codes Applied:**
+    - None

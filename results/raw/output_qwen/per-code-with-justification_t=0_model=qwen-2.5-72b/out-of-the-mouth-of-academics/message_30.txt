@@ -1,0 +1,5 @@
+User: I am not siding with the revolution here. Though not required in college to read the works of W. E. B. Du Bois and Carrie Chapman Catt, I am confident I could have found them just as conducive to deep coma as Aristotle was.
+Assistant: **Justification:** The passage does not involve a specific member of an academic organization engaging with Du Bois's work or discussing him in an academic context. The speaker is merely reflecting on their personal experience and attitude towards reading Du Bois, which does not meet the criteria for the "Out of the Mouth of Academics" code.
+
+**Codes Applied:**
+    - None

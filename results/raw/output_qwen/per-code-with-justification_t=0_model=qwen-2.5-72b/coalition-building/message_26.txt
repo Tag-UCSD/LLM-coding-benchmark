@@ -1,0 +1,5 @@
+User: Middle-class enclaves, like Jamaica and St. Albans in Queens, are feeding this exodus. Black luminaries — like James Brown, W. E. B. Du Bois and Ella Fitzgerald — once lived in St. Albans, a neighborhood that is now being hit by high unemployment and foreclosures. 
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as one of the notable figures who once lived in St. Albans, but it does not describe him as an agent establishing his reputation through organizational or institutional sponsorship. Therefore, the code "Coalition Building" does not apply.
+
+**Codes Applied:**
+    - None

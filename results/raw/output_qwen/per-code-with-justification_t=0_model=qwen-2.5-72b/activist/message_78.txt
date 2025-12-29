@@ -1,0 +1,5 @@
+User: The late C. Wright Mills—isolated and harassed because of his radicalism —once remarked that all social science for the past century and a halt is a dialogue with Marx. I think he was right. One will find upon examining the writings of American scholars such as Charles A. Beard, John R. Commons, Albion W. Small, Thorstein Veblen, W. E. B. Du Bois and E. R. A. Seligman that though most did not find Marxism fully persuasive, they all treated Marxism as one of the most illuminating forms of thought in existence
+Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or mention his political or social activism. It focuses on his contributions to social science and his engagement with Marxist thought, but does not provide context related to his activist activities.
+
+**Codes Applied:**
+    - None

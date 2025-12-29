@@ -1,0 +1,5 @@
+User: ''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''
+Assistant: **Justification:** The passage mentions Du Bois's model for Black studies, which aligns with his broader ideas on the role of academic work in addressing social issues. However, it does not explicitly reference or quote any specific scholarly work or theoretical concept by Du Bois. Therefore, the code "Mention of Scholarly Work" is not applicable.
+
+**Codes Applied:**
+    - None

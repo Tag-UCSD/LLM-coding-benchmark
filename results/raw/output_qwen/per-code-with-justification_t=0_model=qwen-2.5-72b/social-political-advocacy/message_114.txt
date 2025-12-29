@@ -1,0 +1,5 @@
+User: At Harvard, Mr. Gates presides over both the Department of Afro-American studies and its W. E. B. Du Bois Institute for Afro-American Research. The department has seven faculty members, all with joint appointments in other fields like English, philosophy or economics. Forty-three students are majoring in Afro-American studies. The department now offers only undergraduate degrees, but a doctoral program is being planned. The Du Bois Institute, the oldest research institute in the field, this year sponsors 23 fellows studying subjects ranging from African oral literature, to the Harlem Renaissance, to the Atlantic slave trade to jazz and hip-hop.
+Assistant: **Justification:** The passage primarily describes the structure and activities of the Department of Afro-American Studies and the W. E. B. Du Bois Institute at Harvard. While it mentions the institute named after Du Bois, it does not explicitly discuss or imply any form of social or political activism, advocacy, or critique. The focus is on the academic and research aspects rather than on Du Bois's advocacy or the broader social and political context.
+
+**Codes Applied:**
+    - None

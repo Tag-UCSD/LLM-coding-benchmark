@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage is simply a title of a book by W. E. B. Du Bois and does not contain any reference to a leader, activist, politician, or organization drawing upon Du Bois's work or legacy. Therefore, the code "Out of the Mouth of Activists" does not apply.
+
+**Codes Applied:**
+    - None

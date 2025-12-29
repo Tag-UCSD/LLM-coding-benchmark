@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage simply mentions the title of one of Du Bois's works, "Black Reconstruction in America, 1860-1880," without any discussion of social or political advocacy, critique, or discourse. It does not engage with the content or implications of the work in a way that would qualify for the Social/Political Advocacy code.
+
+**Codes Applied:**
+    - None

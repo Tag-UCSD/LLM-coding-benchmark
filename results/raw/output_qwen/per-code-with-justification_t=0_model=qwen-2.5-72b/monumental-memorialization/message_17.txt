@@ -1,0 +1,5 @@
+User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
+Assistant: **Justification:** The passage does not mention any enduring cultural object named after Du Bois, such as a prize, award, building, or organization. It only references a period named after him, which does not meet the criteria for the Monumental Memorialization code.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: In that era, many slaves conceived of death as a kind of emancipation — one that might bring the soul home to Africa. W. E. B. Du Bois described this feeling in “The Souls of Black Folk,” writing, “Of death the Negro showed little fear, but talked of it familiarly and even fondly as simply crossing the waters, perhaps — who knows? — back to his ancient forests again.”
+Assistant: **Justification:** The passage references Du Bois's work "The Souls of Black Folk" and his description of the slaves' conception of death, which is a scholarly observation about Black cultural and psychological experiences. This aligns with the definition of the Scholar code, as it involves Du Bois's intellectual contribution to understanding Black politics and racial identity.
+
+**Codes Applied:**
+- Scholar

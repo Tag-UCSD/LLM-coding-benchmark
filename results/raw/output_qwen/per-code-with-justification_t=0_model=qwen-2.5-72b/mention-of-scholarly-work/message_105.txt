@@ -1,0 +1,5 @@
+User: In other words, it is the reality of racism — the ongoing production of race by institutions and structures of racial domination — that fuels this process of group formation. In his 1940 book, “Dusk of Dawn: An Essay Toward an Autobiography of a Race Concept,” W. E. B. Du Bois captured this dynamic in a single sentence, the final point in an imagined dialogue with a white interlocutor. “The Black man,” he wrote, “is a person who must ride ‘Jim Crow’ in Georgia.”
+Assistant: **Justification:** The passage mentions a specific work by W.E.B. Du Bois, "Dusk of Dawn: An Essay Toward an Autobiography of a Race Concept," and includes a direct quote from it. This work is considered a scholarly piece, and the quote is used to illustrate a key concept, making it appropriate to apply the "Mention of Scholarly Work" code.
+
+**Codes Applied:**
+- Mention of Scholarly Work

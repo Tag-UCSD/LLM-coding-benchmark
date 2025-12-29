@@ -1,0 +1,5 @@
+User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a dissent by Justice Sotomayor, which critiques the expansion of police power. This implies a form of social and political advocacy, as it engages with issues of systemic power and its impact on marginalized communities, aligning with Du Bois's critical engagement with social and political issues.
+
+**Codes Applied:**
+- Social/Political Advocacy

@@ -1,0 +1,5 @@
+User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
+Assistant: **Justification:** The passage does not indicate that Mrs. Dukes is a member of an academic organization or that she is discussing Du Bois in an academic context. The reference to the "W. E. B. Du Bois period" is more of a historical reference rather than an academic engagement with Du Bois's work.
+
+**Codes Applied:**
+    - None

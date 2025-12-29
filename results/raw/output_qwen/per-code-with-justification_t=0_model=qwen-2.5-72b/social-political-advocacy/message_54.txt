@@ -1,0 +1,5 @@
+User: Dr. C. Eric Lincoln, academy board president, said he had written the Department of Jus tice to protest the denial of a visa to Mrs. Shirley Graham DuBois, widow of W. E. B. Du Bois.
+Assistant: **Justification:** The passage mentions a protest against the denial of a visa to Shirley Graham DuBois, which is an act of advocacy. However, the focus is on Dr. C. Eric Lincoln's actions rather than W.E.B. Du Bois's work, persona, or ideas. While Du Bois is mentioned, it is in the context of his widow and not in a way that directly engages with his advocacy or the broader social and political issues he championed.
+
+**Codes Applied:**
+    - None

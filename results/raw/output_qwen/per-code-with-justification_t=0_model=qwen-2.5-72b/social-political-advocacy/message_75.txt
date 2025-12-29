@@ -1,0 +1,5 @@
+User: The only way to learn spelling is to read so much that you automatically recognize what thousands and thousands of English words look like. And how much Aristotle, Plato, St. Thomas, Du Bois and Carrie Chapman Catt can a college student read before overtaken by stupor?
+Assistant: **Justification:** The passage mentions Du Bois in a list of notable figures but does not engage with his social or political advocacy. It is a comment on the volume of reading required for learning and does not critically engage with Black identity, social norms, or systemic issues.
+
+**Codes Applied:**
+    - None
