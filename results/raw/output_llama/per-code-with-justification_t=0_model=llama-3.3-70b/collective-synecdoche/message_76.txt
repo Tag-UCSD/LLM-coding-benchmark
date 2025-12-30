@@ -1,5 +1,0 @@
-User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
-Assistant: **Justification:** The passage only mentions W.E.B. Du Bois as the author of a book, without referencing him alongside other famous intellectuals, activists, or public figures. This solitary mention does not imply representation of a culture, era, or ideology through association with other notable figures. Therefore, the code Collective Synecdoche is not applicable in this context.
-
-**Codes Applied:**
-- None

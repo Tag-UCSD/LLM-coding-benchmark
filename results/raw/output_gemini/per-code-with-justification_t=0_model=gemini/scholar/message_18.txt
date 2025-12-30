@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage directly quotes Du Bois expressing his astonishment at the idea of historical distortion. This reflects his intellectual engagement with the nature of history and memory, aligning with the definition of "Scholar" as someone whose ideas on social theory are invoked.
+
+**Codes Applied:**
+- Scholar

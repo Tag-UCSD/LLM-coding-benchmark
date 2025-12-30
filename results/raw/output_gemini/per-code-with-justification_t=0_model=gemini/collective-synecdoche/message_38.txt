@@ -1,0 +1,5 @@
+User: 'I believe one of the main civil rights challenges of this new millennium is the challenge of ensuring equal access to technology,'' he said. ''W. E. B. Du Bois said, 'The problem of the 20th century is the problem of the color line.' At the dawn of this century, our challenge is preventing the color line from determining who is online.''
+Assistant: **Justification:** The passage directly quotes W.E.B. Du Bois and uses his statement to frame a contemporary issue. This positions Du Bois as a representative of historical civil rights thought, linking his legacy to current challenges.
+
+**Codes Applied:**
+- Collective Synecdoche

@@ -1,0 +1,5 @@
+User: Outside the church, attempts to organize national self-help groups had checkered histories. Booker T. Washington's National Negro Business League, formed to aid small black businesses, met resistance from both whites and black leaders like W. E. B. Du Bois, who objected to Washington's acceptance of racial segregation.
+Assistant: **Justification:** This passage does not describe Du Bois as a scholar or intellectual, but rather as a leader who objected to Washington's acceptance of racial segregation, which is more related to his activist or political activities. The passage does mention his interaction with a significant political issue, but it does not invoke his ideas on social theory or describe him in terms of his scholarly work. Therefore, the code "Scholar" is not applicable in this context.
+
+**Codes Applied:**
+- None

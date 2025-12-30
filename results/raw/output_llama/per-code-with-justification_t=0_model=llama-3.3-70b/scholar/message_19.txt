@@ -1,5 +1,0 @@
-User: Black leaders such as Charles V. Hamilton, professor of political science at Columbia University, have been expres sing concern about placing Ne gro children in “educationally racist” white classrooms, an ap prehension expressed by W. E. B. Du Bois in the 1930's.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in relation to his ideas on social theory, specifically his apprehension about placing Negro children in "educationally racist" white classrooms, which is a concept connected to racial identity and social theory. This invocation of Du Bois' ideas aligns with the definition of the Scholar code. The passage does not merely imply Du Bois' scholarship through loose connections, but rather explicitly references his expressed apprehension, making the Scholar code applicable.
-
-**Codes Applied:**
-- Scholar

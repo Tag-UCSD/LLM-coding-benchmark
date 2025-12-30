@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** The passage describes the NAACP's mission as articulated by Du Bois, but it does not describe Du Bois himself as an agent establishing his reputation through organizational or institutional sponsorship. The focus is on the organization's mission, not Du Bois's personal brand building.
+
+**Codes Applied:**
+    - None

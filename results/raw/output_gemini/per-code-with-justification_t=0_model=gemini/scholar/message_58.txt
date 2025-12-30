@@ -1,0 +1,5 @@
+User: Victory would anoint New York a world capital, but the fruits were ephemeral and, for some, illusory. In 1919, W. E. B. Du Bois hailed returning blacks from the 369th Infantry Regiment as “soldiers of democracy” who should “return fighting” for that ideal at home. It would be a long time coming.
+Assistant: **Justification:** The passage quotes Du Bois referring to returning soldiers as "soldiers of democracy" and urging them to "return fighting" for that ideal. This directly relates to his activism and calls to action regarding Black political rights and the fight for democracy, rather than solely his scholarly work.
+
+**Codes Applied:**
+    - None

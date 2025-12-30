@@ -1,0 +1,5 @@
+User: Joe Biden is not W.E.B. Du Bois, let alone Malcolm X. But the party he leads now faces chronic racist disenfranchisement. The more the Democratic Party becomes a vehicle for Black political empowerment, the less its votes count.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside Malcolm X to highlight a contrast with Joe Biden, implying Du Bois represents a historical figure associated with Black political empowerment. This positions Du Bois as a symbol within a broader discussion of race and politics, fitting the definition of collective synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

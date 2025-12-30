@@ -1,0 +1,5 @@
+User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
+Assistant: **Justification:** The passage mentions "esteemed scholars" who might use the collection, but it does not explicitly state that these scholars are engaging with Du Bois's work or representing him as a concept. The focus is on the collection itself and its potential audience, not on academics actively discussing or promoting Du Bois.
+
+**Codes Applied:**
+    - None

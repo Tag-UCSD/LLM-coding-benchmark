@@ -1,0 +1,5 @@
+User: Dr. Lewis began the Du Bois project in 1985. He traveled thousands of miles - sometimes with Ms. Stewart -- across America, the former Soviet Union, West Africa and Mexico and interviewed 200 people.
+Assistant: **Justification:** The passage describes Dr. Lewis's efforts to document Du Bois's legacy through extensive travel and interviews. However, it does not mention Du Bois himself as an agent establishing his reputation through organizational or institutional sponsorship. The focus is on Dr. Lewis's project, not Du Bois's actions in building coalitions.
+
+**Codes Applied:**
+    - None

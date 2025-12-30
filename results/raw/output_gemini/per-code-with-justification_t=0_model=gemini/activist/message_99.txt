@@ -1,0 +1,5 @@
+User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
+Assistant: **Justification:** The passage mentions that W.E.B. Du Bois was a topic of "dinner table conversation" and that his name was known in the home, implying his significance and influence. This suggests his role as a prominent figure whose ideas and actions were widely discussed, aligning with the definition of an activist whose work permeated public consciousness.
+
+**Codes Applied:**
+- Activist

@@ -1,5 +1,0 @@
-User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
-Assistant: **Justification:** The passage directly quotes W.E.B. Du Bois and references his seminal work, "The Souls of Black Folk." However, Du Bois is not mentioned in conjunction with other figures to represent a broader concept or group. He is presented as the originator of the concept of "double consciousness" rather than as a representative of a larger category.
-
-**Codes Applied:**
-    - None

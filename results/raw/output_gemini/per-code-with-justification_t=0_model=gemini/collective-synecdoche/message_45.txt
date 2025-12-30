@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in relation to John Lewis, another prominent figure. However, Du Bois is not presented as a representative of a broader group, culture, era, or ideology. He is discussed as an individual whose personal ideals and contradictions are being examined.
+
+**Codes Applied:**
+    - None

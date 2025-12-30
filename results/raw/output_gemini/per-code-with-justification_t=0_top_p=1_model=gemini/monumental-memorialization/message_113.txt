@@ -1,5 +1,0 @@
-User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois and his work, but it does not describe any enduring cultural object being named after him. Therefore, the "Monumental Memorialization" code is not applicable.
-
-**Codes Applied:**
-    - None

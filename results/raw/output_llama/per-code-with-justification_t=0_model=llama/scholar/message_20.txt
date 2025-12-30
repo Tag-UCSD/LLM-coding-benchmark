@@ -1,0 +1,5 @@
+User: An award of $375,000 went to David Levering Lewis, the Rutgers professor who won a Pulitzer Prize in 1994 for the first volume of a biography, ''W. E. B. Du Bois: Biography of a Race.''
+Assistant: **Justification:** The passage does not describe W.E.B. Du Bois as a scholar or intellectual, but rather as the subject of a biography. It highlights the achievements of David Levering Lewis, the author of the biography, instead of focusing on Du Bois' own scholarly work or ideas. Therefore, the code "Scholar" is not applicable in this context.
+
+**Codes Applied:**
+- None

@@ -1,5 +1,0 @@
-User: A few independent black American scholars have pur sued these lines, but no one can do it alone even in an entire lifetime. No one can hope to discover all the sources or to command so much knowl edge. Scholars such as W. E. B. Du Bois, Benjamin Brawley, Rayford Logan, Franklin Fra zier, John Hope Franklin and Benjamin Quarles have, com mendably and thoroughly, each examined his own length of line.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other scholars who have "examined his own length of line." This suggests individual scholarly pursuits rather than Du Bois actively building his reputation through organizational or institutional sponsorship. There is no indication of him establishing his reputation through such means in this context.
-
-**Codes Applied:**
-    - None

@@ -1,5 +1,0 @@
-User: Later, I tried to discuss his two different positions with my friend, and he just shrugged, and drank his beer. We sat for a long time in silence, and I recalled to my self the words of W. E. B. Du Bois written in “The Souls of Black Folk” in 1903:
-Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not mention a specific member of an academic organization engaging with Du Bois's work. The narrator is recalling Du Bois's words, but there is no indication that the narrator or their friend is a member of an academic organization discussing Du Bois in an academic context.
-
-**Codes Applied:**
-- None

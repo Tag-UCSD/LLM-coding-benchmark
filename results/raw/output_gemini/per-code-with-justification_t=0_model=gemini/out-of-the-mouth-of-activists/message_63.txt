@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage only mentions the title of a book by W.E.B. Du Bois. It does not indicate that an activist, leader, or politician is referencing or drawing upon his work or legacy, nor does it show an organization connecting their agenda to Du Bois.
+
+**Codes Applied:**
+    - None

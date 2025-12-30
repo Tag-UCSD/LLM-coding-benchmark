@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage is a brief reference to a biography of W.E.B. Du Bois and does not provide any specific information about Du Bois establishing his reputation through organizational or institutional sponsorship. Therefore, the code "Coalition Building" does not apply.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or "leader", nor does it mention his political or social activism. It mentions that Mr. Lewis met Du Bois and describes Du Bois as "a conflicted figure" but does not provide any context that implies activism or leadership. The focus of the passage is on Mr. Lewis' perception of Du Bois, rather than Du Bois' actions or roles.
+
+**Codes Applied:**
+- None

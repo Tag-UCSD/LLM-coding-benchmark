@@ -1,0 +1,5 @@
+User: Dr. Lewis began the Du Bois project in 1985. He traveled thousands of miles - sometimes with Ms. Stewart -- across America, the former Soviet Union, West Africa and Mexico and interviewed 200 people.
+Assistant: **Justification:** The passage describes the initiation of a "Du Bois project" and the extensive travel and interviews conducted by Dr. Lewis. However, it does not contain any information that explicitly labels Du Bois as an "activist" or "leader," nor does it describe his political or social activism.
+
+**Codes Applied:**
+    - None

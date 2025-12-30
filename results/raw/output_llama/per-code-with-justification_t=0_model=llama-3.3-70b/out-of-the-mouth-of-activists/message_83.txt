@@ -1,5 +1,0 @@
-User: It had been a full, though not unusual, day for Cornel West. That morning, he had lectured twice at Princeton: first on W. E. B. Du Bois, Toni Morrison and James Baldwin in a course on Afro-American culture; then on Virginia Woolf, T. S. Eliot, Frantz Fanon and the Zionist philosopher Ahad Ha'am to a class entitled "Religion and Cultural Criticism."
-Assistant: **Justification:** The passage mentions Cornel West, who is a well-known activist and public intellectual, lecturing on W.E.B. Du Bois, which implies that West is drawing upon Du Bois's work and legacy as part of his academic and intellectual endeavors. However, the context provided does not explicitly indicate that West is referencing Du Bois as a leader or activist, but rather as a subject of academic study. The passage does not show West connecting his own activist agenda to Du Bois, but rather teaching about Du Bois in an academic setting.
-
-**Codes Applied:**
-- None

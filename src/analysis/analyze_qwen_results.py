@@ -25,7 +25,7 @@ def analyze_qwen_vs_gold_standard():
     print("=" * 80)
 
     gold_standard_path = 'data/processed/gold_standard_coding.csv'
-    qwen_with_just_path = 'results/raw/output_qwen/per-code-with-justification_t=0_model=qwen-2.5-72b/processed_responses.csv'
+    qwen_with_just_path = 'results/raw/output_qwen/per-code-with-justification_t=0_model=qwen/processed_responses.csv'
 
     print("\n--- Qwen 2.5 72B (per-code with justification) ---")
     results = get_ir_report_df(

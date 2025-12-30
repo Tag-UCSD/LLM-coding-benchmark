@@ -1,0 +1,5 @@
+User: While in New York he met Langston Hughes, whose poetry he admired, and got to know the principals of the Harlem Renaissance. At one point, he thought he might write his thesis on W. E. B. Du Bois. But according to Mr. Woodward, Mr. Du Bois heard his Southern accent and backed off.
+Assistant: **Justification:** Du Bois is mentioned alongside Langston Hughes as a principal of the Harlem Renaissance. This places him as a representative figure of that cultural movement, fitting the definition of Collective Synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

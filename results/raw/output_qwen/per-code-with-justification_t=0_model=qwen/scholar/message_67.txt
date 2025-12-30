@@ -1,0 +1,5 @@
+User:  The formal portraits, like those of W. E. B. Du Bois and the sculptor Richmond Barthe, are stylized paragons rather than flesh-and-blood people; however admirable, they are remote from their audience. In contrast, the athletes, dancers, singers, actors and musicians, on duty and off, are accessible and inviting. Bill Robinson's fancy footwork, Marian Anderson's commanding stage presence and Fats Waller's cheerful vulgarity brim over with human energy that communicates across the racial divide and bridges the gap between their era and the present.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a formal portrait, but it does not describe him as a scholar or intellectual, nor does it reference his ideas on social theory or Black politics. The focus is on the visual representation and the emotional distance of the portraits, rather than Du Bois's scholarly contributions.
+
+**Codes Applied:**
+    - None

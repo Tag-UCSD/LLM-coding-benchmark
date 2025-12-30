@@ -1,0 +1,5 @@
+User: Writing in Black Commentator, an online journal, Professor Kilson called the use of the epithet an insult to black people and to former Harvard teachers like Du Bois, Ralph J. Bunche and John Hope Franklin.
+Assistant: **Justification:** The passage mentions Du Bois in the context of a professor's commentary on an insult to black people and former Harvard teachers. While the professor is making a reference to Du Bois, the passage does not indicate that the professor is a leader, activist, or politician, nor is there any mention of a political or activist organization connecting their agenda to Du Bois. Therefore, the code "Out of the Mouth of Activists" does not apply.
+
+**Codes Applied:**
+    - None

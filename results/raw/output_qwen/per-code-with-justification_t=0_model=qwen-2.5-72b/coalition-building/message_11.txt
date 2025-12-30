@@ -1,5 +1,0 @@
-User: Plates and shoelaces from the backyard of the home of the civil rights pioneer W. E. B. Du Bois may yield clues to the lives of blacks in the Berkshires before the Civil War, an archeologist says. The archeologist, Robert Paynter, a professor at the University of Massachusetts at Amherst, said he was sifting through the property for hints of the daily existence of people who may have lived there 150 years before Du Bois's death in 1963. Du Bois was a founder of the National Association for the Advancement of Colored People and a leader in the Pan-African movement. Although he described his upbringing in his autobiography, little is known about his ancestors and other black families who lived in the Berkshire Hills after the Revolutionary War.
-Assistant: **Justification:** The passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it focuses on archaeological findings and Du Bois's role as a founder of the NAACP and a leader in the Pan-African movement, which are not directly related to coalition building as defined.
-
-**Codes Applied:**
-    - None

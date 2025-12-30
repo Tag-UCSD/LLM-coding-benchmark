@@ -1,5 +1,0 @@
-User: Orlando Patterson (Op-Ed, Nov. 2) asserts that for many African-Americans and some scholars ''Jefferson's contradictions were . . . more reason for a separatist interpretation'' of America's racist legacy. Yet any serious reading of the work of mainstream black intellectuals whose lives were devoted to inclusion rather than separatism, like Frederick Douglass, W. E. B. Du Bois and the Rev. Dr. Martin Luther King Jr., would not support that assertion.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other famous intellectuals, Frederick Douglass and Martin Luther King Jr., to represent mainstream black intellectuals who were devoted to inclusion rather than separatism. This grouping of notable figures is used to convey a particular facet of black intellectual culture and its stance on racial issues. By mentioning Du Bois in this context, the author is using him as part of a collective representation of a certain ideology.
-
-**Codes Applied:**
-- Collective Synecdoche

@@ -1,0 +1,5 @@
+User: But she invoked her role model, W. E. B. Du Bois. ''Like him, I went to Harvard because it was a great opportunity for me as a black female scholar, and I accepted the reality of racial and sex discrimination,'' she wrote. ''In its role as nurturer of scholars, Harvard never let me down!''
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or mention his political or social activism. It focuses on his role as a role model and his academic achievements, without referencing his activist activities.
+
+**Codes Applied:**
+    - None

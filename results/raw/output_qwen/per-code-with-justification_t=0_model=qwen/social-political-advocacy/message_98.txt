@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** The passage mentions Du Bois's critique of Booker T. Washington, which involves a discussion of social and political issues, particularly the acceptance of racial inferiority and white domination. This engagement with racial and social norms and the critique of a fellow leader's stance on racial issues aligns with the definition of Social/Political Advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

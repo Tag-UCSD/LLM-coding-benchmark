@@ -1,0 +1,5 @@
+User: In that era, many slaves conceived of death as a kind of emancipation — one that might bring the soul home to Africa. W. E. B. Du Bois described this feeling in “The Souls of Black Folk,” writing, “Of death the Negro showed little fear, but talked of it familiarly and even fondly as simply crossing the waters, perhaps — who knows? — back to his ancient forests again.”
+Assistant: **Justification:** The passage discusses W.E.B. Du Bois's description of enslaved people's perception of death as emancipation and a return to Africa. This directly relates to the framing and challenging of historical narratives and the systemic circumstances of Black people, fitting the definition of Social/Political Advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

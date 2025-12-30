@@ -1,0 +1,5 @@
+User: But Guralnick is out to destroy gods and undo celebrity, or, as he puts it, to "rescue" Elvis from "both his detractors and admirers." Sometimes, the pages, the research, the interviews and especially the objectivity are necessary to make a subject human again. This can be true because the subject is an icon like Elvis or because the life truly was monumental -- here I'm thinking of David Levering Lewis on W. E. B. Du Bois (two volumes and 1,360 pages).
+Assistant: **Justification:** The passage mentions David Levering Lewis's work on W.E.B. Du Bois as an example of a monumental life that requires extensive research and objectivity to be understood. While this implies Du Bois's significance, it doesn't explicitly describe him as a scholar or intellectual in the context of his ideas or theories. The focus is on the scale of the biography rather than Du Bois's scholarly contributions.
+
+**Codes Applied:**
+    - None

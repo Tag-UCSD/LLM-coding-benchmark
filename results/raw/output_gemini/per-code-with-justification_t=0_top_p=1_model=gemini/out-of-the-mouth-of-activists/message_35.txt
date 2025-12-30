@@ -1,5 +1,0 @@
-User: The New York Times, The Wall Street Journal, The Chicago Tribune and The Oregonian in Portland each received two awards. The author David Levering Lewis was among the winners in the arts for ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963.'' B8
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of an award for a book about him. However, it does not describe an activist, leader, or politician referencing Du Bois's work or legacy, nor does it show an organization connecting its agenda to Du Bois. The mention is purely informational about an award.
-
-**Codes Applied:**
-    - None

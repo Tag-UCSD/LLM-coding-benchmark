@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or mention his political or social activism. It focuses on his reaction to the idea of forgetting or distorting historical evil, which does not directly imply his activist role.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: Dr. Lewis began the Du Bois project in 1985. He traveled thousands of miles - sometimes with Ms. Stewart -- across America, the former Soviet Union, West Africa and Mexico and interviewed 200 people.
+Assistant: **Justification:** The passage mentions a "Du Bois project" but does not indicate that any enduring cultural object, such as a prize, award, professorship, building, room, geographical feature, institute, school, or activist organization, has been named after Du Bois. Therefore, the code "Monumental Memorialization" does not apply.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage does not indicate that a member of an academic organization is engaging with Du Bois's work or discussing Du Bois. It is a direct quote from Du Bois himself, and there is no mention of an academic context or an academic discussing his work.
+
+**Codes Applied:**
+    - None

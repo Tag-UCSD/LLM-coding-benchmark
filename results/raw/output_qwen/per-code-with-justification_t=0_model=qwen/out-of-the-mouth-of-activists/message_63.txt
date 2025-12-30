@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage is a title of a book by W. E. B. Du Bois and does not involve any reference to Du Bois by a leader, activist, politician, or organization. It is simply the title of his work, and there is no context provided that suggests an activist or organizational connection to Du Bois.
+
+**Codes Applied:**
+    - None

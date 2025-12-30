@@ -1,5 +1,0 @@
-User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
-Assistant: **Justification:** The passage does not explicitly mention any of W.E.B. Du Bois's scholarly works or major theoretical concepts. Although Du Bois is mentioned by name, the reference is general and does not attribute any specific ideas or quotes to him. The quote provided in the passage appears to be from Mr. Clayton, and its origin is unclear, but it does not seem to be a direct quote from Du Bois's scholarly work.
-
-**Codes Applied:**
-- None

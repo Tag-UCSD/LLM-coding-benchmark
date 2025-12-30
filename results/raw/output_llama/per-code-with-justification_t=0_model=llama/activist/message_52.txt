@@ -1,0 +1,5 @@
+User: The series was inspired by the recent restoration of the council’s 1929 “Freedom Mural,” which depicts Kensico Lakes and two female figures representing freedom and liberty. Ms. Dee’s subject, “Overcoming Injustice and Oppression,” reflects her lifelong involvement in civil rights and social justice issues. Speaking by phone from New Rochelle shortly before leaving for the SAG ceremony, she said she would choose among texts by Walt Whitman, Thomas Paine, W. E. B. Du Bois, Paul Robeson, Langston Hughes, the historian Lerone Bennett and Zora Neale Thurston. 
+Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or "leader", nor does it mention his political or social activism. Du Bois is only mentioned as one of the authors whose texts Ms. Dee would choose, without any context implying his activism. The passage focuses on Ms. Dee's involvement in civil rights and social justice issues, but does not make a direct connection to Du Bois' activism.
+
+**Codes Applied:**
+- None

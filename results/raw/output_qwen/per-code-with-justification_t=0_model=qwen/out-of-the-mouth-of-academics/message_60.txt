@@ -1,0 +1,5 @@
+User: Early in this century, the black historian and sociologist W. E. B. Du Bois complained, that “sociologists gleefully count . . . bastards,” reminding them that “to be a poor man is hard, but to be a poor race in a land of dollars is the very bottom of hardships.” That is still true.
+Assistant: **Justification:** The passage does not indicate that a specific member of an academic organization is engaging with Du Bois's work or discussing him. It merely quotes Du Bois and provides a historical context. Therefore, the code "Out of the Mouth of Academics" is not applicable.
+
+**Codes Applied:**
+    - None

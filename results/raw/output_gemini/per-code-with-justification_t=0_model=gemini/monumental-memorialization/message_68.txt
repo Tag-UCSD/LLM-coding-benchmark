@@ -1,0 +1,5 @@
+User: Professor Kilson encountered Du Bois, the pioneering urban sociologist who was a founder of the N.A.A.C.P., as a freshman at Lincoln University, a historically black college in Oxford, Pa. Du Bois had come to the campus to encourage its students to become part of the educated, community-based black leadership he called “The Talented Tenth,” calling on them to help improve the lives of needy black people. Du Bois remained an influence throughout Professor Kilson’s career. In his book “Transformation of the African-American Intelligentsia, 1880-2012” (2014), he wrote that “it is a moral imperative for today’s variant of Du Bois’s ‘Talented Tenth’ to mobilize its new socioeconomic and political resources to help ameliorate some of the social crises that now plague about 40 percent of African-American families.”
+Assistant: **Justification:** The passage discusses W.E.B. Du Bois's influence on Professor Kilson and his concept of "The Talented Tenth." However, it does not mention any enduring cultural objects being named after Du Bois, such as prizes, buildings, or institutes.
+
+**Codes Applied:**
+    - None

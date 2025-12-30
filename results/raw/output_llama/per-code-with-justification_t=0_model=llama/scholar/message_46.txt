@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage is a biography title and does not describe Du Bois as a scholar or intellectual, nor does it invoke his ideas on social theory. The title appears to focus on Du Bois' life and fight for equality, which suggests a broader biographical approach rather than a specific emphasis on his scholarly work.
+
+**Codes Applied:**
+- None

@@ -1,5 +1,0 @@
-User: ''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''
-Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or "leader", nor does it clearly imply his political or social activism through context. The mention of Du Bois is in the context of his ideas on academic excellence and social responsibility, but it does not directly relate to his activism or leadership. The passage focuses on the application of Du Bois' model to black studies rather than his role as an activist.
-
-**Codes Applied:**
-- None

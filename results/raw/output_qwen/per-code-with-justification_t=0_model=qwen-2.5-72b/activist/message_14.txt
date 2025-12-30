@@ -1,5 +1,0 @@
-User: Mr. Page notes that the debate among black Americans over the best road to equality and success did not begin just the other day. Booker T. Washington's post-Civil War vision of gradual economic achievement through education was later written off as appeasement by W. E. B. Du Bois, who demanded full equality at once.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his demand for full equality, which can be seen as a form of political and social activism. However, the term "activist" is not explicitly used, and the passage does not provide specific examples of his activist activities or leadership roles. Therefore, the code is not applied.
-
-**Codes Applied:**
-    - None

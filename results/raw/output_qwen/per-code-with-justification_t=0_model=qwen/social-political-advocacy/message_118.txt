@@ -1,0 +1,5 @@
+User: Sara Lee, Dr. Lee's wife, remembers discussing with Du Bois on Aug. 27, 1963, plans for a march to be held here to coincide with the Aug. 28 march on Washington led by the Rev. Martin Luther King Jr. That evening, Du Bois died, and in Washington, many people learned of his death as they marched.
+Assistant: **Justification:** The passage mentions a specific instance of Du Bois's involvement in planning a march, which is a form of social and political activism. The context of the march and its connection to the broader civil rights movement, including the march on Washington led by Martin Luther King Jr., further supports the application of the Social/Political Advocacy code.
+
+**Codes Applied:**
+- Social/Political Advocacy

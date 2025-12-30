@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or mention his political or social activism. It only comments on his physical appearance and the implications of racial categorization, without referencing his activist work or leadership.
+
+**Codes Applied:**
+    - None

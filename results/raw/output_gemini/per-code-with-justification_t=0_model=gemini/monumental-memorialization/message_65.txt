@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The passage discusses W.E.B. Du Bois in the context of his racial identity and appearance. It does not mention any enduring cultural objects being named after him, such as awards, buildings, or institutions.
+
+**Codes Applied:**
+    - None

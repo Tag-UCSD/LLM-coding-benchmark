@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The passage quotes Mr. Gelobter, who is identified as speaking in the context of a discussion about historical figures. While the passage doesn't explicitly state Mr. Gelobter's affiliation, the nature of the discussion (analyzing historical figures' identities and contributions) strongly suggests an academic or scholarly context. Therefore, the code "Out of the Mouth of Academics" is applicable.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

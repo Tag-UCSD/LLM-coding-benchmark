@@ -1,0 +1,5 @@
+User: Sara Lee, Dr. Lee's wife, remembers discussing with Du Bois on Aug. 27, 1963, plans for a march to be held here to coincide with the Aug. 28 march on Washington led by the Rev. Martin Luther King Jr. That evening, Du Bois died, and in Washington, many people learned of his death as they marched.
+Assistant: **Justification:** The passage mentions Du Bois's wife discussing plans for a march with him, implying his involvement in organizing and participating in activist events. This aligns with the definition of "Activist" as it highlights his engagement in social and political movements.
+
+**Codes Applied:**
+- Activist

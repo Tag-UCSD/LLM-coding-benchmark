@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** The passage does not indicate that a leader, activist, or politician, or a representative of the NAACP, is referencing or drawing upon Du Bois's work or legacy. Instead, it is a historical reference to Du Bois's own description of the NAACP's mission. Therefore, the code "Out of the Mouth of Activists" does not apply.
+
+**Codes Applied:**
+    - None

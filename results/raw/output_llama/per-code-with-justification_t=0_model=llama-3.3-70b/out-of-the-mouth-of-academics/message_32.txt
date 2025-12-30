@@ -1,5 +1,0 @@
-User: Du Bois' great-grandfather, Tom Burghardt, probably came to the Berkshires with a Dutch family, Mr. Paynter said. Burghardt was freed from slavery in the 1780's because he fought in the Revolutionary War. W. E. B. Du Bois was born in the village of Great Barrington in 1868, and died in self-exile in Ghana. He was given the house for his 60th birthday by friends, who included Clarence Darrow, the lawyer. Du Bois later sold the house because he could not afford to keep it up, and the property was eventually turned over to the Du Bois Foundation, which dedicated it as a memorial park in 1969.
-Assistant: **Justification:** The passage does not mention a specific member of an academic organization engaging with Du Bois's work or discussing Du Bois as representing a concept. It provides biographical information about Du Bois and mentions the Du Bois Foundation, but it does not indicate that the foundation is an academic organization or that its members are discussing Du Bois's work. The passage appears to be a historical or informational piece rather than an academic discussion.
-
-**Codes Applied:**
-- None

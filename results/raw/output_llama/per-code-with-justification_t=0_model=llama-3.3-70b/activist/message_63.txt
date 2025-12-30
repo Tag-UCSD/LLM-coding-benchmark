@@ -1,5 +1,0 @@
-User: The 1917 marchers, organized by W. E. B. Du Bois and the N.A.A.C.P., walked in their Sunday finest behind signs reading “Thou Shalt Not Kill?” and “Your Hands Are Full of Blood.”
-Assistant: **Justification:** This passage implies W.E.B. Du Bois' involvement in organizing a march, which is a form of social activism, and his association with the N.A.A.C.P., an organization known for its activism. The context clearly suggests that Du Bois is engaged in activism by organizing the march and promoting a social cause. This implication of leadership and activism aligns with the definition of the "Activist" code.
-
-**Codes Applied:**
-- Activist

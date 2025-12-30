@@ -1,0 +1,5 @@
+User: Henry Louis Gates, Jr., chairman of Harvard's Department of Afro-American Studies and director of the W. E. B. Du Bois Institute for Afro-American Research, described Professor West as "one of America's most important public intellectuals, and a formidable scholar by any measure."
+Assistant: **Justification:** The passage does not describe W.E.B. Du Bois as a scholar or intellectual, but rather mentions the W. E. B. Du Bois Institute, which is named after him. The description of Professor West as a "formidable scholar" does not apply to Du Bois. The context is about Henry Louis Gates, Jr. and Professor West, with Du Bois being only a namesake of the institute.
+
+**Codes Applied:**
+- None

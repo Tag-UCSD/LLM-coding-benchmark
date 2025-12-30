@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage does not provide any information about Du Bois establishing his reputation through organizational or institutional sponsorship. It only references a work by Du Bois, "The Souls of Black Folk," without discussing his role in coalition building or organizational efforts.
+
+**Codes Applied:**
+    - None

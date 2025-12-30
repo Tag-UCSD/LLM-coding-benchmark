@@ -1,0 +1,7 @@
+User: “I learned that Haynes had been a protégé of W. E. B. Du Bois, who used to visit our house,” Bruce Haynes said. “He was the first African-American to earn a Ph.D. from Columbia University.
+                                        He was also the first prominent black labor economist and one of the first black urban sociologists in the country. I learned that he was the first scholar to examine the Great Migration in sociological terms and
+                                        to predict the flood of southern Negro migrants to the urban North, and that he founded the Social Sciences Department at Fisk University.”
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or mention his political or social activism. It focuses on his academic achievements and contributions to sociology and labor economics.
+
+**Codes Applied:**
+    - None

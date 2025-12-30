@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage is a brief bibliographic reference to a biography of W.E.B. Du Bois. It does not provide any substantive discussion or advocacy related to social or political issues. The title alone does not imply or mention any form of social or political activism or critique.
+
+**Codes Applied:**
+    - None

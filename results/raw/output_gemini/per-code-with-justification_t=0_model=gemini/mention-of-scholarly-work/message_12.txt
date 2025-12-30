@@ -1,0 +1,5 @@
+User: Americans are not so inherently virtuous that they can safely disregard the moral discipline that international oversight provides. Wells-Barnett, Du Bois and Robeson understood that from brutal, firsthand experience. Now that Mr. Biden and other white Democrats are tasting disenfranchisement themselves, they need to learn that lesson, too.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside Ida B. Wells-Barnett and Paul Robeson, referencing their understanding of a lesson learned from "brutal, firsthand experience." However, it does not mention any specific scholarly works or theoretical concepts by Du Bois. The reference is to his lived experience and understanding, not his academic output.
+
+**Codes Applied:**
+- None

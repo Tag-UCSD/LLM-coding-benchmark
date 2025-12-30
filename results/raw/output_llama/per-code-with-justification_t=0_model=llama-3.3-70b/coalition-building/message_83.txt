@@ -1,5 +1,0 @@
-User: It had been a full, though not unusual, day for Cornel West. That morning, he had lectured twice at Princeton: first on W. E. B. Du Bois, Toni Morrison and James Baldwin in a course on Afro-American culture; then on Virginia Woolf, T. S. Eliot, Frantz Fanon and the Zionist philosopher Ahad Ha'am to a class entitled "Religion and Cultural Criticism."
-Assistant: **Justification:** The passage does not describe W.E.B. Du Bois as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it mentions Du Bois as a topic of a lecture by Cornel West, alongside other notable figures. There is no indication of Du Bois building coalitions or being sponsored by organizations or institutions.
-
-**Codes Applied:**
-- None

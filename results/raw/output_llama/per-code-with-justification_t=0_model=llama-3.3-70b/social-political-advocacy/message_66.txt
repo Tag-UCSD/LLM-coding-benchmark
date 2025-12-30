@@ -1,5 +1,0 @@
-User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
-Assistant: **Justification:** This passage mentions W.E.B. Du Bois in the context of a personal background and a social movement, implying that Du Bois's ideas or legacy were part of discussions about social issues or activism. The mention of "this movement" and "dinner table conversation" suggests that Du Bois's work or persona was invoked in discussions that critically engage with broader systemic circumstances or social problems. However, the passage does not explicitly mention social or political activism, advocacy, or critique, it only implies a general awareness and discussion of Du Bois.
-
-**Codes Applied:**
-- Social/Political Advocacy

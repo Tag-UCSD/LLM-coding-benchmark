@@ -1,5 +1,0 @@
-User: If not, try to imagine Father taking the phone, saying, ''Dear child, the categorical imperative was not W. E. B. Du Bois's; it was Immanuel Kant's. Which reminds me, I knew you hadn't been reading your Immanuel Kant, much less anything at all, when I got your postcard from Carmel-by-the-Sea saying you were 'having a wondurfull time reding ''The Criteek of Pure Reeson'' by Emanuel Can't.' ''
-Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not mention a specific member of an academic organization engaging with Du Bois's work or discussing Du Bois as representing a concept. The passage appears to be a fictional and humorous conversation between a father and child, and the mention of Du Bois is only to correct the child's misunderstanding of Immanuel Kant's work. There is no indication that the father is a member of an academic organization or that the conversation is taking place in an academic context.
-
-**Codes Applied:**
-- None

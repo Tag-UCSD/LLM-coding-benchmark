@@ -1,0 +1,5 @@
+User: If not, try to imagine Father taking the phone, saying, ''Dear child, the categorical imperative was not W. E. B. Du Bois's; it was Immanuel Kant's. Which reminds me, I knew you hadn't been reading your Immanuel Kant, much less anything at all, when I got your postcard from Carmel-by-the-Sea saying you were 'having a wondurfull time reding ''The Criteek of Pure Reeson'' by Emanuel Can't.' ''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois only in passing as a point of contrast to Immanuel Kant, and does not engage with Du Bois's work, persona, or ideas in relation to social or political advocacy. The core of the passage is a humorous anecdote about a misunderstanding of philosophical texts.
+
+**Codes Applied:**
+    - None

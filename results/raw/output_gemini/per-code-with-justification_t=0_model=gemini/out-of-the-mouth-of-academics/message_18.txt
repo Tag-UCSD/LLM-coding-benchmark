@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage directly quotes W.E.B. Du Bois, indicating engagement with his ideas and words. However, it does not specify that the person or entity quoting Du Bois is a member of an academic organization, nor does it mention an activist organization named after him. Therefore, the "Out of the Mouth of Academics" code is not applicable.
+
+**Codes Applied:**
+    - None

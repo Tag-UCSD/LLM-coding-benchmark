@@ -1,0 +1,5 @@
+User: 'I believe one of the main civil rights challenges of this new millennium is the challenge of ensuring equal access to technology,'' he said. ''W. E. B. Du Bois said, 'The problem of the 20th century is the problem of the color line.' At the dawn of this century, our challenge is preventing the color line from determining who is online.''
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or mention his political or social activism. It only quotes him and uses his statement to draw a parallel to a contemporary issue. Therefore, the "Activist" code does not apply.
+
+**Codes Applied:**
+    - None

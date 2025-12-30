@@ -119,7 +119,7 @@ def process_all_qwen_results():
     print("=" * 80)
 
     conditions = [
-        'results/raw/output_qwen/per-code-with-justification_t=0_model=qwen-2.5-72b',
+        'results/raw/output_qwen/per-code-with-justification_t=0_model=qwen',
     ]
 
     results = {}

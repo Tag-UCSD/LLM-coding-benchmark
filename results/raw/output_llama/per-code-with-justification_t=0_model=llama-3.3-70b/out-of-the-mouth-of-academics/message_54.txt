@@ -1,5 +1,0 @@
-User: Dr. C. Eric Lincoln, academy board president, said he had written the Department of Jus tice to protest the denial of a visa to Mrs. Shirley Graham DuBois, widow of W. E. B. Du Bois.
-Assistant: **Justification:** The passage mentions Dr. C. Eric Lincoln, who is identified as the president of an academy board, discussing his actions related to the widow of W.E.B. Du Bois. However, it does not explicitly state that Dr. Lincoln is engaging with Du Bois's work or representing a concept associated with Du Bois. Instead, he is taking action regarding the visa denial of Du Bois's widow, which does not directly relate to Du Bois's work or academic concepts. 
-
-**Codes Applied:**
-- None

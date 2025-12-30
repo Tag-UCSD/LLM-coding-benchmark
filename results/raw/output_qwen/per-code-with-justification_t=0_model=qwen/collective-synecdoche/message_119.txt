@@ -1,0 +1,5 @@
+User: But she invoked her role model, W. E. B. Du Bois. ''Like him, I went to Harvard because it was a great opportunity for me as a black female scholar, and I accepted the reality of racial and sex discrimination,'' she wrote. ''In its role as nurturer of scholars, Harvard never let me down!''
+Assistant: **Justification:** The passage does not mention W.E.B. Du Bois in conjunction with other famous intellectuals, activists, or public figures. Instead, it focuses on the individual's personal connection to Du Bois as a role model. Therefore, the code "Collective Synecdoche" does not apply.
+
+**Codes Applied:**
+    - None

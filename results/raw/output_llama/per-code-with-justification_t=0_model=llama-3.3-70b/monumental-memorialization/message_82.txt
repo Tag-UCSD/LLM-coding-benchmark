@@ -1,5 +1,0 @@
-User: Mr. Morgan, a 27-year-old anthropology student at Harvard, has accused Dr. Jeffries of threatening him during an Oct. 18 interview at City College. He said Dr. Jeffries made derogatory comments about several people, including Henry Louis Gates Jr., the director of the W. E. B. Du Bois Institute for African-American Research at Harvard, and then warned him not to publish his remarks.
-Assistant: **Justification:** The passage mentions the "W. E. B. Du Bois Institute for African-American Research" which is an enduring cultural object named after Du Bois, fitting the definition of Monumental Memorialization. This institute is not a book or theater production, but rather an academic research institution. The mention of the institute's name directly references Du Bois in a context of lasting cultural significance.
-
-**Codes Applied:**
-- Monumental Memorialization

@@ -1,0 +1,5 @@
+User: Sara Lee, Dr. Lee's wife, remembers discussing with Du Bois on Aug. 27, 1963, plans for a march to be held here to coincide with the Aug. 28 march on Washington led by the Rev. Martin Luther King Jr. That evening, Du Bois died, and in Washington, many people learned of his death as they marched.
+Assistant: **Justification:** The passage discusses W.E.B. Du Bois's personal life and his death, referencing a conversation with his wife and his passing on the day of the March on Washington. There is no mention or quotation of his scholarly works or academic concepts.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: Americans are not so inherently virtuous that they can safely disregard the moral discipline that international oversight provides. Wells-Barnett, Du Bois and Robeson understood that from brutal, firsthand experience. Now that Mr. Biden and other white Democrats are tasting disenfranchisement themselves, they need to learn that lesson, too.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of historical figures who understood the importance of international oversight. However, it does not reference Du Bois through the lens of a leader, activist, or politician, nor does it connect a specific political or activist organization's agenda to Du Bois. The mention is more historical and does not involve a current activist or political figure referencing Du Bois's work or legacy.
+
+**Codes Applied:**
+    - None

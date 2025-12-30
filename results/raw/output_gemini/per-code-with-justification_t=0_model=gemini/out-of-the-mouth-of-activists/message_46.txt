@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage only mentions a biography about W.E.B. Du Bois and does not contain any references to activists, leaders, or politicians drawing upon his work or legacy. Therefore, the "Out of the Mouth of Activists" code is not applicable.
+
+**Codes Applied:**
+    - None

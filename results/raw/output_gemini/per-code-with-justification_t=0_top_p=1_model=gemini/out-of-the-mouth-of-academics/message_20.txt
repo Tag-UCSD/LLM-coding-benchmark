@@ -1,5 +1,0 @@
-User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
-Assistant: **Justification:** The passage explicitly states that Dr. Leonard, while at Harvard, chaired the committee that created the W. E. B. Du Bois Institute for Afro-American Research. This directly aligns with the definition of the "Out of the Mouth of Academics" code, which includes instances where an activist organization has named itself or a subdivision of itself after Du Bois, such as an institute.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

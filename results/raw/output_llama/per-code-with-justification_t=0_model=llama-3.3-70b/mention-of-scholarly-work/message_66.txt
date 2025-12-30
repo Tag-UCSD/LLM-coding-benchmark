@@ -1,5 +1,0 @@
-User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois's name and implies that his ideas or legacy were discussed in the home, but it does not reference any specific scholarly work or theoretical concept by Du Bois. The mention of his name is more of a general reference to his influence and presence in the household, rather than a direct quote or reference to his academic writings. Therefore, the code for Mention of Scholarly Work is not applied.
-
-**Codes Applied:**
-- None

@@ -1,0 +1,5 @@
+User: But she invoked her role model, W. E. B. Du Bois. ''Like him, I went to Harvard because it was a great opportunity for me as a black female scholar, and I accepted the reality of racial and sex discrimination,'' she wrote. ''In its role as nurturer of scholars, Harvard never let me down!''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as a role model and discusses the context of racial and sex discrimination, which are social and political issues. However, the focus is more on the personal experience of the speaker and her journey, rather than explicitly engaging in advocacy or critique of broader systemic issues. Therefore, the code is not applied.
+
+**Codes Applied:**
+    - None

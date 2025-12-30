@@ -1,0 +1,5 @@
+User: Mr. Lewis was born in Little Rock, Ark., into an intellectual atmosphere (his father was a Yale graduate, his mother a teacher) and grew up in Wilberforce and Atlanta, where he attended high school and graduated after only one year. He enrolled at Fisk University in Nashville, Mr. Du Bois' alma mater.
+Assistant: **Justification:** The passage does not mention any of W.E.B. Du Bois's scholarly works, theoretical concepts, or direct quotations from his writings. It only mentions that Fisk University was Du Bois's alma mater, which is a general reference to his educational background and not his scholarly work.
+
+**Codes Applied:**
+    - None

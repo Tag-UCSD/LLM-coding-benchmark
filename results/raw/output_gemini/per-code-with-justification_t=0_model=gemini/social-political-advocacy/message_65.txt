@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The passage discusses the racial identity of W.E.B. Du Bois and Frederick Douglass, implying a critique of how racial categories are applied and perceived. This relates to the framing and challenging of racial identities and historical narratives, which falls under the scope of social and political advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

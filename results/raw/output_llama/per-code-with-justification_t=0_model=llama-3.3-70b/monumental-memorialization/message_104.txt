@@ -1,5 +1,0 @@
-User: But the basic idea that “slaves developed skills” isn’t an illegitimate one. And although it has been deployed in efforts to minimize the fundamental injustice of American slavery, it has also been used in defense of the essential humanity of the enslaved. For example, at the same time that white supremacist authors were writing slavery apologia for student instruction, scholars like W.E.B. Du Bois were taking note of the skills and agency of enslaved Africans for a very different purpose.
-Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it references Du Bois as a scholar who wrote about the skills and agency of enslaved Africans. The mention of Du Bois is in the context of his work and ideas, rather than the naming of an object or institution after him.
-
-**Codes Applied:**
-- None

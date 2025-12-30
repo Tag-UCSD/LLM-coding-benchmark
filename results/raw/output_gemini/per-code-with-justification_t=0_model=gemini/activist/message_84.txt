@@ -1,0 +1,5 @@
+User: I am not siding with the revolution here. Though not required in college to read the works of W. E. B. Du Bois and Carrie Chapman Catt, I am confident I could have found them just as conducive to deep coma as Aristotle was.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois but does not describe him as an activist or discuss his activism. The context is about the perceived difficulty or dullness of his writings in comparison to other academics.
+
+**Codes Applied:**
+    - None

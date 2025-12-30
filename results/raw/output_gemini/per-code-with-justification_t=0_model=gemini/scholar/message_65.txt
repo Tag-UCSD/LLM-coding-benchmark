@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his racial identity and how he might have been perceived in terms of race. However, it does not describe him as a scholar or intellectual, nor does it connect him to his ideas on social theory, Black politics, or racial identity in a way that aligns with the definition of the "Scholar" code.
+
+**Codes Applied:**
+    - None

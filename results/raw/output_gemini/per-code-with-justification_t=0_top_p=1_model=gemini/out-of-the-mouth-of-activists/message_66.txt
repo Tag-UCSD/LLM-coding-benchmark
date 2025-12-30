@@ -1,5 +1,0 @@
-User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
-Assistant: **Justification:** Julian Bond, a prominent civil rights activist and politician, explicitly states that W.E.B. Du Bois was a significant figure in his upbringing and the broader civil rights movement. This indicates that Du Bois's legacy and work were part of the "dinner table conversation" for his generation, aligning with the definition of an activist referencing Du Bois's legacy.
-
-**Codes Applied:**
-- Out of the Mouth of Activists

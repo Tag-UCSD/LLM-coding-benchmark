@@ -1,5 +1,0 @@
-User: In a similar vein Mrs. Shirley Graham Du Bois, windw of W. E. B. Du Bois, told the participants that “wherever people are strug gling, there are no men ‘ask ing women to walk three steps behind them.” Talking about black Africa, Communist China and North Vietnam Mrs. ‘Du Bois saigl, “Honey, they don't need your sympathy, they are more lib erated than you are.”
-Assistant: **Justification:** The passage does not apply the Collective Synecdoche code because W.E.B. Du Bois is mentioned as the husband of Shirley Graham Du Bois, rather than being grouped with other famous intellectuals or public figures to represent a particular culture, era, or ideology. The focus of the passage is on Shirley Graham Du Bois' statement and her comparison of liberation in different regions, rather than using W.E.B. Du Bois as a representative figure. 
-
-**Codes Applied:**
-- None

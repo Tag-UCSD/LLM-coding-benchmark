@@ -1,5 +1,0 @@
-User: The difference between these accounts and those of the slavery apologists, however, is that Du Bois, Woodson and their contemporaries never implied or suggested that chattel slavery was anything less than a crime. Whereas apologists dismissed or disparaged the efforts, radical and otherwise, to end slavery, Du Bois, Woodson and others gave them pride of place in their histories and narratives about the peculiar institution. And in the same way that slavery apologia served a specific ideological purpose, the emphasis on the skills and agency of the enslaved by Black scholars was meant to challenge, in Woodson’s famous words, “the miseducation of the Negro.”
-Assistant: **Justification:** The passage does not mention a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept. It primarily discusses the contrast between the accounts of slavery by Du Bois and Woodson and those of slavery apologists. While it references academic figures, it does not indicate that a current academic is discussing Du Bois.
-
-**Codes Applied:**
-    - None

@@ -1,0 +1,5 @@
+User: Sowell considers West Indians and educated blacks whose genealogy can be traced to freedmen as a group “atypical of the black population” and that they have dissimilar interest from that of poor blacks. As an example he selects the radical W.E.B. Du Bois as the “free person of color,” but his contemporary, the conservatively‐oriented ex‐slave Booker T. Washington, who wielded far more power than Du Bois, is conveniently ignored since he does not fit the Sowell thesis.
+Assistant: **Justification:** The passage discusses Thomas Sowell's analysis of W.E.B. Du Bois. Sowell is an academic, and his engagement with Du Bois's work falls under the definition of this code. The passage does not indicate that Du Bois himself is a member of an academic organization, but rather that an academic is discussing his work.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

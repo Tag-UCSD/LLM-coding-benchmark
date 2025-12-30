@@ -1,0 +1,5 @@
+User: Similarly, said John Whiteclay Chambers 2nd of Rutgers University, W. E. B. Du Bois and Frederick Douglass urged African-Americans to serve, even though they would be fighting for a segregated society. ''It was an effort to gain full citizenship rights,'' the professor said, noting that military service also offers ''social mobility to people without much money.''
+Assistant: **Justification:** John Whiteclay Chambers 2nd is identified as a professor at Rutgers University, not as an activist, leader, or politician. While he references Du Bois's work, the context does not fit the definition of an activist or political figure drawing upon Du Bois's legacy.
+
+**Codes Applied:**
+    - None

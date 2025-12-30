@@ -1,3 +1,0 @@
-User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
-Assistant: **Codes Applied:**
-    - None

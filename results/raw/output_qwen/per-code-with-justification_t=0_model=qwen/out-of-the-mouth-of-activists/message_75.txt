@@ -1,0 +1,5 @@
+User: The Defender, a tabloid, helped nurture the careers of writers like Langston Hughes and W. E. B. Du Bois, a founder of the National Association for the Advancement of Colored People. And long before white politicians began to oppose the South's Jim Crow laws, The Defender published editorials decrying the treatment of black sharecroppers and promising a better life in Chicago's factories.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his historical significance and his role as a founder of the NAACP, but it does not reference him in a way that connects to a current leader, activist, or politician, or to an organization's current agenda. Therefore, the code "Out of the Mouth of Activists" does not apply.
+
+**Codes Applied:**
+    - None

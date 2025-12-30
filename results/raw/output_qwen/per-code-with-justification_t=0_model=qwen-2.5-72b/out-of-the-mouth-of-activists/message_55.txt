@@ -1,5 +1,0 @@
-User: ''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''
-Assistant: **Justification:** The speaker is discussing the principles of Black studies and referencing Du Bois's model, but there is no explicit indication that the speaker is a leader, activist, politician, or a member of a specific political or activist organization. The context does not suggest that the speaker is representing an organization or connecting a specific agenda to Du Bois.
-
-**Codes Applied:**
-    - None

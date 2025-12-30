@@ -1,5 +1,0 @@
-User: A book-length collection of essays, some by him and some by another scholar of African-American history, Elliott Rudwick, was published in 1976 under the title ''Along the Color Line: Explorations in the Black Experience.'' Looking back more than a quarter-century later, David Levering Lewis, winner of Pulitzer Prizes for both volumes of his biography of W. E. B. Du Bois, wrote, ''Meier and Rudwick's intellectual passion, professional integrity and almost manic involvement in virtually every aspect of their academic specialty were of inestimable value in the coming of age of African-American history.''
-Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it discusses a book about African-American history and mentions a biography of Du Bois, but does not imply that the book or biography is an example of monumental memorialization. The mention of Pulitzer Prizes is related to the biographer, David Levering Lewis, rather than being an award named after Du Bois.
-
-**Codes Applied:**
-- None

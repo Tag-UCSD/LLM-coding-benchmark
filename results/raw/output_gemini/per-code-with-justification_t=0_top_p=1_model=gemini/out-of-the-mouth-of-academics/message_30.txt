@@ -1,5 +1,0 @@
-User: I am not siding with the revolution here. Though not required in college to read the works of W. E. B. Du Bois and Carrie Chapman Catt, I am confident I could have found them just as conducive to deep coma as Aristotle was.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of academic reading requirements, but it does not indicate that a specific academic is engaging with Du Bois's work or that an activist organization has named itself after him. The author is expressing a personal opinion about the readability of academic texts, not a direct engagement with Du Bois's ideas by an academic.
-
-**Codes Applied:**
-    - None

@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of describing the mission of the N.A.A.C.P., an organization known for its activism and advocacy for social justice. Although Du Bois is not explicitly called an "activist" or "leader" in this passage, his involvement with the N.A.A.C.P. and his description of its mission imply his role in promoting social justice and activism. This implication is enough to suggest that his activism is "clearly implied through context".
+
+**Codes Applied:**
+- Activist

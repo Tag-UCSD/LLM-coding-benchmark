@@ -1,5 +1,0 @@
-User: The Defender, a tabloid, helped nurture the careers of writers like Langston Hughes and W. E. B. Du Bois, a founder of the National Association for the Advancement of Colored People. And long before white politicians began to oppose the South's Jim Crow laws, The Defender published editorials decrying the treatment of black sharecroppers and promising a better life in Chicago's factories.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois as a founder of the National Association for the Advancement of Colored People, which implies his role as an activist or organizer rather than a scholar. There is no description of Du Bois as a scholar or intellectual, nor is there any invocation of his ideas on social theory. The focus is on his connection to the National Association for the Advancement of Colored People, which suggests a more activist-oriented role.
-
-**Codes Applied:**
-- None

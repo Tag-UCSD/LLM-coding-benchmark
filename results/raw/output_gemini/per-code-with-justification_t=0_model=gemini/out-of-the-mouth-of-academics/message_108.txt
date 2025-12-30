@@ -1,0 +1,5 @@
+User: David Turnley, The Detroit Free Press, photographic correspondent based in Paris; will also take classes at the W. E. B. Du Bois Institute for Afro-American Research and the Kennedy School of Government; Russian, film making and drama.
+Assistant: **Justification:** The passage mentions the W. E. B. Du Bois Institute for Afro-American Research, which is an academic organization. However, it does not indicate that a specific member of an academic organization is engaging with Du Bois's work or Du Bois as representing a concept. The mention of the institute is in the context of someone taking classes there, not an academic discussing Du Bois.
+
+**Codes Applied:**
+    - None

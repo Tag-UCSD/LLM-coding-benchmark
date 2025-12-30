@@ -1,5 +1,0 @@
-User: The Defender, a tabloid, helped nurture the careers of writers like Langston Hughes and W. E. B. Du Bois, a founder of the National Association for the Advancement of Colored People. And long before white politicians began to oppose the South's Jim Crow laws, The Defender published editorials decrying the treatment of black sharecroppers and promising a better life in Chicago's factories.
-Assistant: **Justification:** W.E.B. Du Bois is mentioned alongside Langston Hughes as a writer nurtured by The Defender. This places him within a group of notable figures associated with Black intellectual and cultural production, fitting the definition of collective synecdoche.
-
-**Codes Applied:**
-- Collective Synecdoche

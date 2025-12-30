@@ -1,5 +1,0 @@
-User: Black leaders such as Charles V. Hamilton, professor of political science at Columbia University, have been expres sing concern about placing Ne gro children in “educationally racist” white classrooms, an ap prehension expressed by W. E. B. Du Bois in the 1930's.
-Assistant: **Justification:** The passage mentions Charles V. Hamilton, a professor at Columbia University, discussing a concern that was also expressed by W.E.B. Du Bois. Since Charles V. Hamilton is a member of an academic organization and is engaging with Du Bois's work, this code is applicable.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

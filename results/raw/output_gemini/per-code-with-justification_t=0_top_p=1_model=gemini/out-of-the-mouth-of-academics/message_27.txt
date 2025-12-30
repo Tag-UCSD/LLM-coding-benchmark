@@ -1,5 +1,0 @@
-User: “The Love Songs of W.E.B. Du Bois” by Honorée Fanonne Jeffers
-Assistant: **Justification:** The title of the work directly references W.E.B. Du Bois. While the passage does not explicitly state that Honorée Fanonne Jeffers is an academic, the nature of the work (a book titled after a prominent scholar) strongly suggests an academic engagement with Du Bois's legacy. This aligns with the code's intent of tracking how Du Bois is represented, particularly when the engagement is through scholarly or artistic works.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

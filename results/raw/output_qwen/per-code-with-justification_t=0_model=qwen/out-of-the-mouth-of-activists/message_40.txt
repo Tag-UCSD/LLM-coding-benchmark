@@ -1,0 +1,5 @@
+User: The New York Times, The Wall Street Journal, The Chicago Tribune and The Oregonian in Portland each received two awards. The author David Levering Lewis was among the winners in the arts for ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963.'' B8
+Assistant: **Justification:** The passage mentions David Levering Lewis winning an award for his book on W.E.B. Du Bois, but it does not indicate that Lewis is a leader, activist, or politician, nor does it suggest that he is referencing Du Bois's work or legacy in the context of an activist or political agenda. Therefore, the code "Out of the Mouth of Activists" does not apply.
+
+**Codes Applied:**
+    - None

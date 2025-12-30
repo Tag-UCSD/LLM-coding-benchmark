@@ -1,0 +1,5 @@
+User:  During every service, I watched as my father, in high Baptist style, "picture painted" the stories of Moses and Job, Ruth and Esther. I listened as he moaned and hummed and sang the tales of W. E. B. Du Bois and Frederick Douglass, the Scottsboro Boys and Emmett Till. I clapped for joy as he brought the worshipers to their feet with promises of survival now and salvation later. In that place, at that time, we knew what glory was. 
+Assistant: **Justification:** The passage describes a personal experience of the narrator listening to their father, a Baptist minister, referencing W.E.B. Du Bois among other historical figures. While Du Bois is mentioned, the context is more about the father's role as a religious leader rather than an activist or politician. The passage does not indicate that the father is using Du Bois's work or legacy to advance a specific political or activist agenda.
+
+**Codes Applied:**
+    - None

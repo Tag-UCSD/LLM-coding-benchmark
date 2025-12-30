@@ -1,0 +1,5 @@
+User: Dr. Lewis began the Du Bois project in 1985. He traveled thousands of miles - sometimes with Ms. Stewart -- across America, the former Soviet Union, West Africa and Mexico and interviewed 200 people.
+Assistant: **Justification:** The passage does not mention any of W.E.B. Du Bois's scholarly works, theoretical concepts, or direct quotations from his writings. It primarily discusses Dr. Lewis's project and the places he traveled to conduct interviews.
+
+**Codes Applied:**
+    - None

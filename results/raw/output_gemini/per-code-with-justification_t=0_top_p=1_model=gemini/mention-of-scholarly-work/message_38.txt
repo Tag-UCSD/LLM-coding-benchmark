@@ -1,5 +1,0 @@
-User: The earlier estimates had been based on supposition, as it turned out. Mr. Curtin’s figure, based on scrutiny of shipping contracts and port data, was substantially less than the widely repeated figure of 20 million, which, he showed, was an extrapolation from now-lost records pertaining to Jamaica, and the figure of 15 million used by W. E. B. Du Bois, who repeated a figure arrived at by Edward Dunbar, a 19th-century abolitionist. 
-Assistant: **Justification:** The passage explicitly mentions W.E.B. Du Bois and references a specific figure he used (15 million) in relation to historical data. While it notes this figure was arrived at by Edward Dunbar, the mention of Du Bois's use of this figure in a context that appears to be historical or statistical analysis aligns with the definition of referencing his work or concepts, even if it's a secondary citation of another's work.
-
-**Codes Applied:**
-- Mention of Scholarly Work

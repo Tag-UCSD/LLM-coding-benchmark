@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage mentions Du Bois's work "Black Reconstruction in America, 1860-1880," which is a significant scholarly contribution to the understanding of racial politics and social theory. However, the passage does not explicitly describe Du Bois as a scholar or intellectual, nor does it invoke his ideas in a way that classifies him as such. It merely references his work, which is not enough to apply the "Scholar" code.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: Black leaders such as Charles V. Hamilton, professor of political science at Columbia University, have been expres sing concern about placing Ne gro children in “educationally racist” white classrooms, an ap prehension expressed by W. E. B. Du Bois in the 1930's.
-Assistant: **Justification:** The passage mentions Du Bois in the context of expressing concerns about educational practices, which aligns with his role as a leader and activist in the realm of social and political issues. However, the term "activist" or "leader" is not explicitly used, and the focus is more on his intellectual contributions rather than his activist activities.
-
-**Codes Applied:**
-    - None

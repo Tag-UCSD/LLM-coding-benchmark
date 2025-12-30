@@ -1,0 +1,5 @@
+User: Henry Louis Gates, Jr., chairman of Harvard's Department of Afro-American Studies and director of the W. E. B. Du Bois Institute for Afro-American Research, described Professor West as "one of America's most important public intellectuals, and a formidable scholar by any measure."
+Assistant: **Justification:** The passage mentions Henry Louis Gates, Jr., who is a member of an academic organization (chairman of Harvard's Department of Afro-American Studies and director of the W. E. B. Du Bois Institute for Afro-American Research), and he is discussing Du Bois in the context of his academic role. Therefore, the code "Out of the Mouth of Academics" is applicable.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

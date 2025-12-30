@@ -1,0 +1,5 @@
+User: Mr. Morgan said Dr. Jeffries called The Crimson a "Jewish newspaper" and made derogatory comments about Henry Louis Gates Jr., director of Harvard's W. E. B. Du Bois Institute for African-American Research.
+Assistant: **Justification:** The passage mentions the W.E.B. Du Bois Institute for African-American Research, but it does not describe Du Bois himself as an activist or discuss his activism. The focus is on a current event involving Dr. Jeffries and Henry Louis Gates Jr.
+
+**Codes Applied:**
+    - None

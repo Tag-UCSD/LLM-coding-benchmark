@@ -1,0 +1,5 @@
+User: Similarly, said John Whiteclay Chambers 2nd of Rutgers University, W. E. B. Du Bois and Frederick Douglass urged African-Americans to serve, even though they would be fighting for a segregated society. ''It was an effort to gain full citizenship rights,'' the professor said, noting that military service also offers ''social mobility to people without much money.''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois and Frederick Douglass urging African-Americans to serve in the military, which is framed as an effort to gain full citizenship rights and social mobility. This implies a form of social and political advocacy, as it involves advocating for social change and addressing systemic issues faced by Black people.
+
+**Codes Applied:**
+- Social/Political Advocacy

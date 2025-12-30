@@ -1,0 +1,5 @@
+User: When reading Plato about justice, for example, an automobile mechanic may just awaken to a profound and unexpected sense of the good. A Blue Cross customer representative may find W. E. B. Du Bois no less inspiring than Mr. Levine found John Keats.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as a source of inspiration, but it does not specify any particular scholarly work or theoretical concept. It refers to him in a general sense of his inspirational capacity, similar to how John Keats is mentioned. Therefore, the criteria for "Mention of Scholarly Work" are not met.
+
+**Codes Applied:**
+- None

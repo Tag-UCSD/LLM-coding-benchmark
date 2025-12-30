@@ -1,5 +1,0 @@
-User: On the other hand, if Hollywood were making a movie about W. E. B. Du Bois, a light-skinned man who struggled with complexion issues much of his life, to cast a dark-skinned actor in the role would be to repaint history. LISE FUNDERBURG New York, April 7, 1991
-Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it discusses a hypothetical movie about Du Bois and the issue of casting an actor to play his role. The mention of Du Bois is in the context of his life and biography, rather than the naming of a cultural object after him.
-
-**Codes Applied:**
-- None

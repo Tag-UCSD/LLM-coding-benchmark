@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage includes a direct quote from Du Bois, but it does not specify whether this quote is from a scholarly work. The context does not provide enough information to determine if this is from a scholarly piece or another type of writing, such as a letter or speech. Therefore, the code "Mention of Scholarly Work" should not be applied.
+
+**Codes Applied:**
+    - None

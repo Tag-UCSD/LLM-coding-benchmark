@@ -1,0 +1,5 @@
+User: The New York Times, The Wall Street Journal, The Chicago Tribune and The Oregonian in Portland each received two awards. The author David Levering Lewis was among the winners in the arts for ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963.'' B8
+Assistant: **Justification:** The passage mentions David Levering Lewis, an author, winning an award for a book about W.E.B. Du Bois. While Lewis is an author, the definition of the code specifies "a specific member of an academic organization is engaging with Du Bois's work." The passage does not state that David Levering Lewis is an academic, only that he is an author. Therefore, this code cannot be applied.
+
+**Codes Applied:**
+    - None

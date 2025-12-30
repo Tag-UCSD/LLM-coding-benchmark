@@ -1,5 +1,0 @@
-User: In West Orange, Luna Stage is presenting “Vita and Virginia,” Eileen Atkins’s 1992 dramatization of the letters and diaries of Vita Sackville-West and Virginia Woolf (Sept. 27 to Oct. 28). In New Brunswick, the Crossroads Theater Company has “Knock Me a Kiss,” Charles Smith’s fictional look at a troubled marriage during the Harlem Renaissance of the 1920s, starring André De Shields as the civil rights activist and author W. E. B. Du Bois (Oct. 25 to Nov. 11). In Teaneck, the Garage Theater Group produces Deb Margolin’s “Imagining Madoff,” a 2010 drama that posits a Bernie Madoff striving to justify his actions to one of his victims (Oct. 25 to Nov. 11).
-Assistant: **Justification:** The passage explicitly refers to W.E.B. Du Bois as a "civil rights activist." This directly aligns with the definition of the "Activist" code, which includes being explicitly called an "activist" or having his political or social activism noted.
-
-**Codes Applied:**
-- Activist

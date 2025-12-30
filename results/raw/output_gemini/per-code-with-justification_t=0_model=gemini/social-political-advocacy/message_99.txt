@@ -1,0 +1,5 @@
+User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his name being known and his presence being a part of "dinner table conversation" for a generation that grew up in "this movement." This implies that Du Bois's ideas and legacy were part of the social and political discourse of that time, fitting the definition of social/political advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

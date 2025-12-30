@@ -1,0 +1,5 @@
+User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
+Assistant: **Justification:** The passage discusses the desire to make W.E.B. Du Bois's collection accessible to a wide audience, including "black teenagers who have yet to hear of W. E. B. Du Bois." This implies that Du Bois's work and legacy are important for understanding Black identity and culture, and that making this knowledge accessible is a form of cultural advocacy. The quote about "culture is the measure of a civilization" further reinforces the idea of preserving and promoting a people's existence through their cultural heritage, which aligns with the code's focus on critically engaging with Black identity and systemic circumstances.
+
+**Codes Applied:**
+- Social/Political Advocacy

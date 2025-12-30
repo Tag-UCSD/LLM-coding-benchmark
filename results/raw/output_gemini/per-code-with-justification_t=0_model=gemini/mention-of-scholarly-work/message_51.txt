@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage explicitly quotes from W.E.B. Du Bois's scholarly work, "The Souls of Black Folk." This directly aligns with the definition of the "Mention of Scholarly Work" code, which is applied when academic works or major theoretical concepts by Du Bois are mentioned or quoted.
+
+**Codes Applied:**
+- Mention of Scholarly Work

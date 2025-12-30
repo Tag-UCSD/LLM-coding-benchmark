@@ -1,0 +1,5 @@
+User: Influenced by men like Marcus Garvey and W. E. B. Du Bois, Dr. Brisbane in turn became a counselor to a younger generation of civil rights campaigners in the South. He was well known beyond the Atlanta campus of Morehouse as the author of a textbook, ''The Black Vanguard: Origins of the Negro Social Revolution, 1900-1960'' (Judson, 1970), and a later book, ''Black Activism: Racial Revolution in the United States, 1954-1970'' (Judson, 1974).
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of influencing Dr. Brisbane, who in turn influenced a younger generation of civil rights campaigners. While Du Bois is mentioned, the passage does not explicitly discuss any form of social or political activism, advocacy, or critique. It is more about the lineage of influence rather than a direct engagement with social or political advocacy.
+
+**Codes Applied:**
+    - None

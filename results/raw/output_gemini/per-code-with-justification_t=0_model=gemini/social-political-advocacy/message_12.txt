@@ -1,0 +1,5 @@
+User: Americans are not so inherently virtuous that they can safely disregard the moral discipline that international oversight provides. Wells-Barnett, Du Bois and Robeson understood that from brutal, firsthand experience. Now that Mr. Biden and other white Democrats are tasting disenfranchisement themselves, they need to learn that lesson, too.
+Assistant: **Justification:** The passage explicitly mentions W.E.B. Du Bois alongside other figures (Wells-Barnett and Robeson) who "understood" the need for "moral discipline that international oversight provides" in the context of "brutal, firsthand experience." This directly links Du Bois to a form of critical understanding of social and political systems and their impact, aligning with the code's definition of engaging with systemic circumstances and social problems.
+
+**Codes Applied:**
+- Social/Political Advocacy

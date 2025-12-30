@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage mentions Mr. Lewis, who is likely a leader or activist given his connection to Du Bois and his reflections on Du Bois's legacy. However, the passage does not explicitly state that Mr. Lewis is a leader, activist, or politician, nor does it indicate that he is speaking in a capacity that connects his agenda to Du Bois. Therefore, the code "Out of the Mouth of Activists" is not applicable.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: The "talented tenth," a concept celebrated by W. E. B. Du Bois, have prospered as a result of affirmative action. Colin Powell, Jesse Jackson, Gov. Douglas Wilder and most of those testifying at the Senate hearings before the appointment of Associate Justice Clarence Thomas all demonstrate the effectiveness of affirmative action programs for superior African-Americans.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other notable African-American figures such as Colin Powell, Jesse Jackson, and Gov. Douglas Wilder, using them to represent the success of affirmative action programs for superior African-Americans. This grouping of individuals is used to illustrate a broader concept, which aligns with the definition of Collective Synecdoche. By mentioning Du Bois in this context, the passage is using him to represent a facet of African-American excellence and the impact of affirmative action.
-
-**Codes Applied:**
-- Collective Synecdoche

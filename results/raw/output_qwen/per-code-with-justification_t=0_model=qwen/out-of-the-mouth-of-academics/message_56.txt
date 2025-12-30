@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** The passage does not involve a specific member of an academic organization engaging with Du Bois's work. It is a fictional scenario where a child is calling to discuss Du Bois, but there is no indication that the child or any other character is a member of an academic organization.
+
+**Codes Applied:**
+    - None

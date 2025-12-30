@@ -1,0 +1,5 @@
+User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of being a known figure and part of dinner table conversations, but it does not describe him as a scholar or intellectual, nor does it invoke his ideas on social theory. The mention of Du Bois is more of a cultural reference, indicating that he was a familiar name in the household, rather than a discussion of his scholarly work or intellectual contributions.
+
+**Codes Applied:**
+- None

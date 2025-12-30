@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage references a work by W. E. B. Du Bois but does not mention any enduring cultural object named after him, such as a prize, award, building, or organization.
+
+**Codes Applied:**
+    - None

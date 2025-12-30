@@ -1,0 +1,5 @@
+User: Mr. Lewis was born in Little Rock, Ark., into an intellectual atmosphere (his father was a Yale graduate, his mother a teacher) and grew up in Wilberforce and Atlanta, where he attended high school and graduated after only one year. He enrolled at Fisk University in Nashville, Mr. Du Bois' alma mater.
+Assistant: **Justification:** The passage mentions that Mr. Du Bois is an alumnus of Fisk University, but it does not describe an academic member engaging with his work or Du Bois as a concept. Therefore, the "Out of the Mouth of Academics" code is not applicable.
+
+**Codes Applied:**
+    - None

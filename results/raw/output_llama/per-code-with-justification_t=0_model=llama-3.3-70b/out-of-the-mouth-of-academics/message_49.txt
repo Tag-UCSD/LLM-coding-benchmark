@@ -1,5 +1,0 @@
-User: In 1955 Mrs. Durr and her husband helped a black civil rights leader, E. D. Nixon, bail Mrs. Parks, a black seamstress active in the N.A.A.C.P., out of jail in Montgomery, Ala., said Dr. Patricia Sullivan, a historian and fellow at the W. E. B. Du Bois Institute of Afro-American Research at Harvard University.
-Assistant: **Justification:** The passage mentions Dr. Patricia Sullivan, a historian and fellow at the W. E. B. Du Bois Institute of Afro-American Research, which indicates that a specific member of an academic organization is engaging with Du Bois's work or legacy. The fact that the institute is named after Du Bois and Dr. Sullivan is a fellow there suggests a direct connection to Du Bois's concepts or work. This meets the criteria for applying the "Out of the Mouth of Academics" code.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

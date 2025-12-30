@@ -1,0 +1,5 @@
+User: 'We could not have made an acquaintance through literature with human giants such as George Washington, Abraham Lincoln and Thomas Jefferson and not been moved to act,'' Mr. Mandela said. ''We could not have heard of and admired John Brown, Sojourner Truth, Frederick Douglass, W. E. B. Du Bois, Marcus Garvey, Martin Luther King Jr. and others . . . and not be moved to act as they were moved to act.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as part of a list of historical figures who inspired Mr. Mandela. It does not involve a specific member of an academic organization engaging with Du Bois's work or discussing him in an academic context. Therefore, the code "Out of the Mouth of Academics" is not applicable.
+
+**Codes Applied:**
+    - None

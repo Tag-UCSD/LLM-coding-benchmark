@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** The passage quotes Du Bois directly, but the quote is presented as part of a critique of Booker T. Washington and not as an excerpt from one of Du Bois's scholarly works. The context suggests this is a statement made in a public debate rather than a scholarly publication.
+
+**Codes Applied:**
+- None

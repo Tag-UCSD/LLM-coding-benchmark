@@ -1,0 +1,5 @@
+User: Joe Biden is not W.E.B. Du Bois, let alone Malcolm X. But the party he leads now faces chronic racist disenfranchisement. The more the Democratic Party becomes a vehicle for Black political empowerment, the less its votes count.
+Assistant: **Justification:** The passage implicitly references the advocacy and political empowerment of Black people, drawing a parallel between the current political situation and the historical context of figures like W.E.B. Du Bois. It discusses systemic issues of disenfranchisement and the role of political parties in addressing or exacerbating these issues, which aligns with the definition of social/political advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

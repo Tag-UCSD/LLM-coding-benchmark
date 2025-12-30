@@ -1,0 +1,5 @@
+User: David Turnley, The Detroit Free Press, photographic correspondent based in Paris; will also take classes at the W. E. B. Du Bois Institute for Afro-American Research and the Kennedy School of Government; Russian, film making and drama.
+Assistant: **Justification:** The passage mentions the "W. E. B. Du Bois Institute for Afro-American Research", which implies a connection to Du Bois' scholarship, but it does not describe Du Bois himself as a scholar or intellectual. The focus is on the institute and its connection to research, rather than Du Bois' ideas or work. Therefore, the code "Scholar" is not applied.
+
+**Codes Applied:**
+- None

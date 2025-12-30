@@ -1,0 +1,5 @@
+User: Still, Chester Davis, associate chairman of the W. E. B. Du Bois Department of Afro American Studies at the University of Massachusetts, said black studies should not be considered a discipline in the traditional sense.
+Assistant: **Justification:** The passage mentions the W. E. B. Du Bois Department of Afro American Studies, which is an enduring cultural object named after Du Bois. This fits the definition of Monumental Memorialization.
+
+**Codes Applied:**
+- Monumental Memorialization

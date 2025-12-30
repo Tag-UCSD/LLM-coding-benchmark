@@ -1,5 +1,0 @@
-User: Fortunately, many of the es says are free of racism and Communist dogmatism. There are five brief, but excellent es says by Zora Neale Hurston on black speech, religion and mu sic, an analysis of the still neglected black poet Sterling Brown (one of the editors of “The Negro Caravan”) by Alain Locke, W. E. B. Du Bois on “Black America” and George Padmore on Africa.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of an essay he wrote, not as the namesake of a cultural object. Therefore, the "Monumental Memorialization" code is not applicable.
-
-**Codes Applied:**
-    - None

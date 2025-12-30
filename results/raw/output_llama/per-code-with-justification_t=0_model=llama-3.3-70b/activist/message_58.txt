@@ -1,5 +1,0 @@
-User: "C.C.N.Y. ought to have one of the best black studies departments in the country, something like Harvard's W. E. B Du Bois Center for example," said one faculty member who asked not to be identified. "That's the shame of it." Distorted Image
-Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or "leader", nor does it mention his political or social activism. It only mentions the "W. E. B Du Bois Center" at Harvard, which implies a connection to Du Bois but does not provide any context about his activism. The focus of the passage is on the black studies department, not on Du Bois' activities or legacy as an activist.
-
-**Codes Applied:**
-- None

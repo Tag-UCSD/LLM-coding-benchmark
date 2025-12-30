@@ -1,5 +1,0 @@
-User: After that, I was acutely aware of what W. E. B. Du Bois, in “The Souls of Black Folk,” called the “double consciousness”:
-Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or mention his political or social activism. It only references his concept of "double consciousness" from his work "The Souls of Black Folk."
-
-**Codes Applied:**
-    - None

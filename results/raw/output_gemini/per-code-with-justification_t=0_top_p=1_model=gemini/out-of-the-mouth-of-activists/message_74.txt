@@ -1,5 +1,0 @@
-User: Outside the church, attempts to organize national self-help groups had checkered histories. Booker T. Washington's National Negro Business League, formed to aid small black businesses, met resistance from both whites and black leaders like W. E. B. Du Bois, who objected to Washington's acceptance of racial segregation.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his disagreement with Booker T. Washington's approach to racial issues. However, it does not describe Du Bois as an activist or leader in this specific instance, nor does it show him referencing his own work or legacy. The focus is on his historical opposition to Washington's policies, not on his active engagement as a contemporary activist or politician drawing on his own legacy.
-
-**Codes Applied:**
-    - None

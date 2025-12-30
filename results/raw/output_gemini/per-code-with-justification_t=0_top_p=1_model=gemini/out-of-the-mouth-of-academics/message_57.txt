@@ -1,5 +1,0 @@
-User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
-Assistant: **Justification:** The passage mentions Justice Sotomayor citing W.E.B. Du Bois. Justice Sotomayor is a member of the judicial branch, not an academic organization. Therefore, the "Out of the Mouth of Academics" code is not applicable.
-
-**Codes Applied:**
-    - None

@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage describes how Mr. Lewis sought to present Du Bois, but it does not indicate that Du Bois himself was establishing his reputation through organizational or institutional sponsorship. The focus is on Lewis's interpretation of Du Bois, not Du Bois's actions in building coalitions.
+
+**Codes Applied:**
+    - None

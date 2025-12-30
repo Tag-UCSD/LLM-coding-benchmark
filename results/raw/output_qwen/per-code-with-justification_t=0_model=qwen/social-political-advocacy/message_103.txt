@@ -1,0 +1,5 @@
+User: During a career of scholarship, teaching and advocacy that spanned more than 70 years, Dr. Franklin was deeply involved in the painful debates that helped reshape America’s racial identity, working with the Rev. Dr. Martin Luther King Jr., W. E. B. Du Bois, Thurgood Marshall and other major civil rights figures of the 20th century.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his involvement in civil rights and racial identity debates, which are forms of social and political advocacy. The text explicitly frames Du Bois as part of a group of major civil rights figures, indicating his role in social and political activism.
+
+**Codes Applied:**
+- Social/Political Advocacy

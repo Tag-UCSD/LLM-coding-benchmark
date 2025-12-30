@@ -1,5 +1,0 @@
-User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
-Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because Justice Sotomayor, although citing Du Bois, is not a member of an academic organization in this context, but rather a justice of the court. The passage does not indicate that Sotomayor is engaging with Du Bois's work as an academic, but rather using his work to support a legal argument. There is no indication of an academic organization or subdivision being involved.
-
-**Codes Applied:**
-- None

@@ -1,0 +1,5 @@
+User: Writing in Black Commentator, an online journal, Professor Kilson called the use of the epithet an insult to black people and to former Harvard teachers like Du Bois, Ralph J. Bunche and John Hope Franklin.
+Assistant: **Justification:** The passage mentions Du Bois in the context of him being a former Harvard teacher, which implies his scholarly role. However, it does not explicitly describe him as a scholar or intellectual, nor does it focus on his ideas or contributions to social theory. Therefore, the "Scholar" code is not applied.
+
+**Codes Applied:**
+    - None

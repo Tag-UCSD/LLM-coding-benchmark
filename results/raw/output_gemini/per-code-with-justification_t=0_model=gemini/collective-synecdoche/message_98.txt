@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** Du Bois is mentioned in relation to Booker T. Washington, another prominent Black civic leader. This comparison highlights a specific intellectual and political debate within the Black community during the early 20th century, thus representing a facet of that era's discourse.
+
+**Codes Applied:**
+- Collective Synecdoche

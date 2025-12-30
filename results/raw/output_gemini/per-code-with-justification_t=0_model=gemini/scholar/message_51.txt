@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage directly references W.E.B. Du Bois's seminal work, "The Souls of Black Folk," and his description of a phenomenon. This implies an engagement with his intellectual contributions and social theory, fitting the definition of "Scholar."
+
+**Codes Applied:**
+- Scholar

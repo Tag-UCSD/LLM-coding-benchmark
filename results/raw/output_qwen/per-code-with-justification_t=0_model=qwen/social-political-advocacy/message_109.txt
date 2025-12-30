@@ -1,0 +1,5 @@
+User: In Lynchburg, Ota Benga had his teeth capped and became known as Otto Bingo. He spent a lot of time in the woods, hunting with bow and arrow, and gathering plants and herbs. He did odd jobs and worked in a tobacco factory. He became friendly with the poet Anne Spencer, who lived in Lynchburg, and through her met both W. E. B. Du Bois and Booker T. Washington. 
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois in the context of Ota Benga's social connections but does not engage with any form of social or political advocacy, critique, or discourse. It is a factual recounting of historical events without any explicit mention of Du Bois's advocacy or the broader social and political implications of his work.
+
+**Codes Applied:**
+    - None

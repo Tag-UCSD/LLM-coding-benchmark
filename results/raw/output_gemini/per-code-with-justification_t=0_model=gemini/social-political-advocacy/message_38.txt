@@ -1,0 +1,5 @@
+User: 'I believe one of the main civil rights challenges of this new millennium is the challenge of ensuring equal access to technology,'' he said. ''W. E. B. Du Bois said, 'The problem of the 20th century is the problem of the color line.' At the dawn of this century, our challenge is preventing the color line from determining who is online.''
+Assistant: **Justification:** The passage directly quotes W.E.B. Du Bois and then applies his historical framing of the "color line" to a contemporary issue of technology access. This invokes Du Bois's legacy in a discussion that critically engages with systemic circumstances of Black people and advocates for equal access, aligning with the definition of Social/Political Advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

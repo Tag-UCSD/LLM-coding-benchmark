@@ -1,0 +1,5 @@
+User: Dr. Lewis began the Du Bois project in 1985. He traveled thousands of miles - sometimes with Ms. Stewart -- across America, the former Soviet Union, West Africa and Mexico and interviewed 200 people.
+Assistant: **Justification:** The passage does not mention Dr. Lewis or Ms. Stewart as leaders, activists, or politicians, nor does it indicate that they are members of a specific political or activist organization. The focus is on their research and travel for the Du Bois project, which does not align with the criteria for the "Out of the Mouth of Activists" code.
+
+**Codes Applied:**
+    - None

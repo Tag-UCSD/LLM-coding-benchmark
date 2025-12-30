@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage directly quotes Du Bois expressing his astonishment at the idea of historical "forgetting, distorted, skimmed over." This directly relates to his critical engagement with historical narratives and implies a stance against the distortion of history, which is a form of social and political critique.
+
+**Codes Applied:**
+- Social/Political Advocacy

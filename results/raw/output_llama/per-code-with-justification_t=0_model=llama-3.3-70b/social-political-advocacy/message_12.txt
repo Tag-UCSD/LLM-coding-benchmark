@@ -1,5 +1,0 @@
-User: Earlier this year the Justice Department overruled State De partment approval of Mrs. Du Bois's request for a visa. Born in New York 71 years ago, she is now a Ghanaian citizen and lives in Cairo.
-Assistant: **Justification:** This passage does not mention or imply any form of social or political activism, advocacy, critique, or discourse related to W.E.B. Du Bois's work, persona, or ideas. It appears to be a factual report about a visa request denial for Mrs. Du Bois, without any discussion of social problems or critical engagement with Black identity. The passage lacks explicit mention of advocacy or social critique.
-
-**Codes Applied:**
-- None

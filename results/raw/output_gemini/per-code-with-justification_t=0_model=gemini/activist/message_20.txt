@@ -1,0 +1,5 @@
+User: An award of $375,000 went to David Levering Lewis, the Rutgers professor who won a Pulitzer Prize in 1994 for the first volume of a biography, ''W. E. B. Du Bois: Biography of a Race.''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a biography and an award, but it does not describe his actions or roles as an activist. There is no mention of his leadership, political involvement, or any other form of activism.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: Later, I tried to discuss his two different positions with my friend, and he just shrugged, and drank his beer. We sat for a long time in silence, and I recalled to my self the words of W. E. B. Du Bois written in “The Souls of Black Folk” in 1903:
-Assistant: **Justification:** The passage does not involve a specific member of an academic organization engaging with Du Bois's work or representing Du Bois as a concept. It is a personal recollection and reference to Du Bois's work, which does not meet the criteria for the "Out of the Mouth of Academics" code.
-
-**Codes Applied:**
-    - None

@@ -1,0 +1,5 @@
+User: Sowell considers West Indians and educated blacks whose genealogy can be traced to freedmen as a group “atypical of the black population” and that they have dissimilar interest from that of poor blacks. As an example he selects the radical W.E.B. Du Bois as the “free person of color,” but his contemporary, the conservatively‐oriented ex‐slave Booker T. Washington, who wielded far more power than Du Bois, is conveniently ignored since he does not fit the Sowell thesis.
+Assistant: **Justification:** Sowell is referencing W.E.B. Du Bois's work and legacy by using him as an example in his argument. While Sowell is not explicitly identified as an activist or leader, his role as a prominent intellectual and commentator on social issues allows for the application of this code. The passage discusses Du Bois in the context of his ideas and influence, fitting the definition of referencing his work or legacy.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

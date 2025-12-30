@@ -1,5 +1,0 @@
-User: “The Love Songs of W.E.B. Du Bois” by Honorée Fanonne Jeffers
-Assistant: **Justification:** The passage mentions a book title that includes "W.E.B. Du Bois." The definition of the "Monumental Memorialization" code explicitly states not to apply it when Du Bois is mentioned in the title of a book or theater production.
-
-**Codes Applied:**
-    - None

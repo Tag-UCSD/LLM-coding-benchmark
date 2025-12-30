@@ -1,0 +1,5 @@
+User:  During every service, I watched as my father, in high Baptist style, "picture painted" the stories of Moses and Job, Ruth and Esther. I listened as he moaned and hummed and sang the tales of W. E. B. Du Bois and Frederick Douglass, the Scottsboro Boys and Emmett Till. I clapped for joy as he brought the worshipers to their feet with promises of survival now and salvation later. In that place, at that time, we knew what glory was. 
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other historical figures and events associated with the struggle for civil rights and social justice (Frederick Douglass, the Scottsboro Boys, Emmett Till). The act of "singing the tales" of these figures, especially in the context of a religious service that evokes "promises of survival now and salvation later," implies a connection to the advocacy and critique associated with Du Bois's work and the broader Black liberation movement.
+
+**Codes Applied:**
+- Social/Political Advocacy

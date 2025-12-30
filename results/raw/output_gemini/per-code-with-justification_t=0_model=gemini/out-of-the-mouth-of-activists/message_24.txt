@@ -1,0 +1,5 @@
+User: Orlando Patterson (Op-Ed, Nov. 2) asserts that for many African-Americans and some scholars ''Jefferson's contradictions were . . . more reason for a separatist interpretation'' of America's racist legacy. Yet any serious reading of the work of mainstream black intellectuals whose lives were devoted to inclusion rather than separatism, like Frederick Douglass, W. E. B. Du Bois and the Rev. Dr. Martin Luther King Jr., would not support that assertion.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of "mainstream black intellectuals whose lives were devoted to inclusion rather than separatism." While Du Bois is a significant figure, the passage does not describe him as an activist or leader, nor does it indicate that an activist organization is referencing his work to connect their agenda to Du Bois. The mention is in service of a scholarly argument about different interpretations of America's racist legacy.
+
+**Codes Applied:**
+    - None

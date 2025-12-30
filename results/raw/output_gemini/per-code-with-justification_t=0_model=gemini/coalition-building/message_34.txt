@@ -1,0 +1,5 @@
+User: This claim is itself open to argument, which is why I included it in the article. But it does no service to the cause of multicultural literature to stretch it beyond recognition as Mr. Gates has mistakenly done. I cannot imagine in a world filled with the works of W. E. B. Du Bois, James Baldwin, Richard Wright, Toni Morrison and even Henry Louis Gates that Mr. Adler would not consider the statement attributed to him to be preposterous. ERIC ALTERMAN Washington, May 26, 1991
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of other prominent authors and does not describe him as building his reputation through organizational or institutional sponsorship. The focus is on his literary contributions and inclusion within a canon of significant writers.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: Vernon Jordan, a former adviser to President Clinton, suggested in a telephone interview that Mr. West — perhaps beginning with the classical education imparted by his parents — seemed destined to join the one in 10 black men whom W. E. B. Du Bois predicted at the dawn of the 20th century would become African-American leaders. “He went to school and to law school inspired to serve the best interests of the community because he was one who understood Du Bois’s mandate to the ‘Talented Tenth,’ ” Mr. Jordan said. “Du Bois would be pleased with his legacy.”
+Assistant: **Justification:** The passage explicitly mentions W.E.B. Du Bois in the context of his "Talented Tenth" mandate, which refers to the idea that a select group of educated African Americans should lead the community. Jordan's statement that Du Bois would be pleased with West's legacy, as West was inspired to serve the community, directly links Du Bois to the concept of leadership and activism.
+
+**Codes Applied:**
+- Activist

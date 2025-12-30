@@ -1,0 +1,5 @@
+User: Similarly, said John Whiteclay Chambers 2nd of Rutgers University, W. E. B. Du Bois and Frederick Douglass urged African-Americans to serve, even though they would be fighting for a segregated society. ''It was an effort to gain full citizenship rights,'' the professor said, noting that military service also offers ''social mobility to people without much money.''
+Assistant: **Justification:** The passage explicitly mentions John Whiteclay Chambers II of Rutgers University discussing W.E.B. Du Bois's work and urging African-Americans to serve. This directly aligns with the definition of the "Out of the Mouth of Academics" code, as an academic is engaging with Du Bois's ideas.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

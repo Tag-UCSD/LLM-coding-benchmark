@@ -1,5 +1,0 @@
-User: Less popular were his politics. He joined anti-Fascist groups and gave support to fledgling trade unions, which were backed by admitted members of the Communist Party, Mr. Brown said. His friends were intellectuals, theater people and members of the political left. He founded the Council on African Affairs with W. E. B. Du Bois, an organization devoted to the liberation of African countries.
-Assistant: **Justification:** The passage mentions that the subject founded the Council on African Affairs with W. E. B. Du Bois, which is an activist organization named after or co-founded by Du Bois, indicating a form of enduring cultural object. This aligns with the definition of Monumental Memorialization, as it involves the creation of an organization that is connected to Du Bois' legacy. 
-
-**Codes Applied:**
-- Monumental Memorialization

@@ -1,5 +1,0 @@
-User: ''The question of race is critical,'' said Stephen K. Hindy, co-founder of the new Brooklyn Brewery, who lives on Eighth Street and works on Second Street. ''From what I've read, Dinkins is more sensitive to that and more capable of dealing with that than the other candidates. I think it was W. E. B. Du Bois who said that the color line is the critical problem of the 20th century. I agree with that. It's explosive. ''When Koch insults Jesse Jackson or says something flip about a potential racial incident, that's very dangerous. And it alienates a huge number of people.''
-Assistant: **Justification:** The code "Out of the Mouth of Academics" is not applied because the individual discussing Du Bois, Stephen K. Hindy, is not described as a member of an academic organization, but rather as the co-founder of the Brooklyn Brewery. There is no indication that Hindy is engaging with Du Bois's work in an academic capacity, but rather referencing Du Bois's idea in a general discussion about race.
-
-**Codes Applied:**
-- None

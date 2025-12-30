@@ -1,5 +1,0 @@
-User: Written by Du Bois, who was born three years after the end of the Civil War, the verse reads: I heard the Song of Children, crying ''Free!'' I saw the face of Freedom . . . And I died.
-Assistant: **Justification:** The passage includes a verse written by Du Bois that speaks to themes of freedom and the struggle for liberation, which are central to social and political advocacy. The mention of "the Song of Children, crying 'Free!'" and "the face of Freedom" implies a critique of the systemic conditions that prevent freedom, aligning with the definition of social/political advocacy.
-
-**Codes Applied:**
-- Social/Political Advocacy

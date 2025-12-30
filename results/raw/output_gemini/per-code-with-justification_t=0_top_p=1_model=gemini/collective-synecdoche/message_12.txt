@@ -1,5 +1,0 @@
-User: Earlier this year the Justice Department overruled State De partment approval of Mrs. Du Bois's request for a visa. Born in New York 71 years ago, she is now a Ghanaian citizen and lives in Cairo.
-Assistant: **Justification:** W.E.B. Du Bois is mentioned in relation to his wife, Mrs. Du Bois, and her visa request. However, he is not mentioned alongside other intellectuals, activists, or public figures to represent a broader concept or group. The focus is on his wife's personal situation.
-
-**Codes Applied:**
-    - None

@@ -1,5 +1,0 @@
-User: Mrs. Du Bois, who now makeS. her home in Cairo, told ;how the “death masks, paintings,; and sculptures” of the. time of'. Cleopatra had “the features of brothers.”
-Assistant: **Justification:** The passage does not mention W.E.B. Du Bois, but rather appears to reference his wife, Mrs. Du Bois. There is no description of Du Bois as an agent establishing his reputation through organizational and institutional sponsorship, which is the definition of the Coalition Building code. The passage seems to be discussing ancient Egyptian art and does not relate to Du Bois' reputation or activities.
-
-**Codes Applied:**
-- None

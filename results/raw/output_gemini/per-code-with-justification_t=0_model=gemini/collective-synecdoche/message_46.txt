@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** Du Bois is mentioned as the subject of a biography, not in conjunction with other figures to represent a broader concept. The title of the biography itself focuses on his individual contributions and struggles.
+
+**Codes Applied:**
+- None

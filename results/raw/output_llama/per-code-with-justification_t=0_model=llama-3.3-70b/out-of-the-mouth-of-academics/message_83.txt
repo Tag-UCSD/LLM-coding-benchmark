@@ -1,5 +1,0 @@
-User: It had been a full, though not unusual, day for Cornel West. That morning, he had lectured twice at Princeton: first on W. E. B. Du Bois, Toni Morrison and James Baldwin in a course on Afro-American culture; then on Virginia Woolf, T. S. Eliot, Frantz Fanon and the Zionist philosopher Ahad Ha'am to a class entitled "Religion and Cultural Criticism."
-Assistant: **Justification:** The passage mentions Cornel West, a member of an academic organization (Princeton), lecturing on W. E. B. Du Bois, which indicates that West is engaging with Du Bois's work as an academic. This meets the criteria for the "Out of the Mouth of Academics" code, as West is discussing Du Bois in an academic setting.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

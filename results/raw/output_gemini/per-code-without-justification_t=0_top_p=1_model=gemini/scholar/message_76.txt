@@ -1,3 +1,0 @@
-User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
-Assistant: **Codes Applied:**
-- Scholar

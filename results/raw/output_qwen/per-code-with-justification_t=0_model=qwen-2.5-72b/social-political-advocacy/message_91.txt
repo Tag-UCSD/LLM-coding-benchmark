@@ -1,5 +1,0 @@
-User: "I came mostly for the trade union people," Rogovin told me not long ago. "I was a product of the Great Depression and what I saw and experienced myself made me politically active." When I asked him if he thought of his photography as explicitly political, Rogovin said, "I like to photograph people with problems." He purchased a used camera in 1942 but did not become serious about photography until 1958, when he began taking photographs in storefront churches on the East Side of Buffalo. A collection of those photographs was published in Aperture in 1962, with an introduction by W. E. B. Du Bois.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of introducing a collection of photographs, but it does not explicitly discuss any form of social or political activism, advocacy, critique, or discourse. The focus is on Rogovin's photography and his personal background, rather than on Du Bois's advocacy or the broader social and political context.
-
-**Codes Applied:**
-    - None

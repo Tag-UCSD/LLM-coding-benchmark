@@ -1,5 +1,0 @@
-User: In that era, many slaves conceived of death as a kind of emancipation — one that might bring the soul home to Africa. W. E. B. Du Bois described this feeling in “The Souls of Black Folk,” writing, “Of death the Negro showed little fear, but talked of it familiarly and even fondly as simply crossing the waters, perhaps — who knows? — back to his ancient forests again.”
-Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not feature a specific member of an academic organization engaging with Du Bois's work or discussing Du Bois as representing a concept. Instead, it appears to be a general reference to Du Bois's writing in "The Souls of Black Folk" without any indication of an academic organization or individual discussing his work.
-
-**Codes Applied:**
-- None

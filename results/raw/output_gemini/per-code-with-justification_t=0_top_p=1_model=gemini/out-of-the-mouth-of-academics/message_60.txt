@@ -1,5 +1,0 @@
-User: Mrs. Du Bois, who now makeS. her home in Cairo, told ;how the “death masks, paintings,; and sculptures” of the. time of'. Cleopatra had “the features of brothers.”
-Assistant: **Justification:** The passage discusses Mrs. Du Bois and her observations about ancient Egyptian art. While Mrs. Du Bois is associated with W.E.B. Du Bois, the passage does not indicate that she is an academic engaging with his work or that an activist organization has named itself after him. Therefore, the "Out of the Mouth of Academics" code is not applicable.
-
-**Codes Applied:**
-    - None

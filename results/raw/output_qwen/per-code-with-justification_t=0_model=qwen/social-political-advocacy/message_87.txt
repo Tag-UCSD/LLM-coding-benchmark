@@ -1,0 +1,5 @@
+User: David Levering Lewis, the Pulitzer Prize-winning biographer of W. E. B. Du Bois and an eminent black historian who considers President Bush's policies on Iraq ''a menace,'' was flabbergasted when he received an invitation from Laura Bush's office to be the keynote speaker at a White House symposium on the writers of the Harlem Renaissance.
+Assistant: **Justification:** The passage mentions David Levering Lewis, a biographer of W.E.B. Du Bois, and his reaction to an invitation from the White House. While it touches on political views (criticism of President Bush's policies), it does not explicitly discuss Du Bois's social or political advocacy or use his work to critically engage with Black identity or systemic issues.
+
+**Codes Applied:**
+    - None

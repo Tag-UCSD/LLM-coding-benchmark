@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage references Du Bois's work "The Souls of Black Folk" and cites his description of a phenomenon, which aligns with his role as a scholar and intellectual. However, it does not explicitly describe him as a scholar or intellectual, nor does it delve into his ideas on social theory in a way that would clearly classify him as a scholar. Therefore, the code "Scholar" is not applied.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: Middle-class enclaves, like Jamaica and St. Albans in Queens, are feeding this exodus. Black luminaries — like James Brown, W. E. B. Du Bois and Ella Fitzgerald — once lived in St. Albans, a neighborhood that is now being hit by high unemployment and foreclosures. 
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois as a Black luminary who once lived in St. Albans, but it does not reference or draw upon his work or legacy, nor does it connect him to any activist or political organization. The mention of Du Bois is solely to highlight the neighborhood's historical significance and notable former residents. 
-
-**Codes Applied:**
-- None

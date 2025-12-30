@@ -1,0 +1,5 @@
+User: Similarly, said John Whiteclay Chambers 2nd of Rutgers University, W. E. B. Du Bois and Frederick Douglass urged African-Americans to serve, even though they would be fighting for a segregated society. ''It was an effort to gain full citizenship rights,'' the professor said, noting that military service also offers ''social mobility to people without much money.''
+Assistant: **Justification:** The passage does not mention any specific scholarly works or major theoretical concepts by W.E.B. Du Bois. It only refers to his general advocacy for African-Americans to serve in the military, which is a broader historical context rather than a specific scholarly contribution.
+
+**Codes Applied:**
+    - None

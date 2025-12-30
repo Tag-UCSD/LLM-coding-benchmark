@@ -1,5 +1,0 @@
-User: In a similar vein Mrs. Shirley Graham Du Bois, windw of W. E. B. Du Bois, told the participants that “wherever people are strug gling, there are no men ‘ask ing women to walk three steps behind them.” Talking about black Africa, Communist China and North Vietnam Mrs. ‘Du Bois saigl, “Honey, they don't need your sympathy, they are more lib erated than you are.”
-Assistant: **Justification:** The passage describes Shirley Graham Du Bois speaking about W.E.B. Du Bois's wife and her views on liberation in various global contexts. It does not mention W.E.B. Du Bois himself being described as an agent establishing his reputation through organizational or institutional sponsorship.
-
-**Codes Applied:**
-    - None

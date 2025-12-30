@@ -1,0 +1,5 @@
+User: 'I believe one of the main civil rights challenges of this new millennium is the challenge of ensuring equal access to technology,'' he said. ''W. E. B. Du Bois said, 'The problem of the 20th century is the problem of the color line.' At the dawn of this century, our challenge is preventing the color line from determining who is online.''
+Assistant: **Justification:** The passage quotes W.E.B. Du Bois and discusses a contemporary civil rights challenge in relation to his work. However, it does not mention any enduring cultural objects being named after Du Bois.
+
+**Codes Applied:**
+    - None

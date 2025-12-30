@@ -1,5 +1,0 @@
-User: What effect, many of us have worried, would this unprecedented rise in prosperity have on the New Millennials? Would they heed Du Bois’s call, as students like John Lewis and Julian Bond, Charlayne Hunter and Diane Nash did under the leadership of the “Negro Gandhi” presciently predicted by Du Bois back in 1948?
-Assistant: **Justification:** The passage mentions students like John Lewis and Julian Bond, who are known activists and figures associated with academic institutions (e.g., John Lewis's professorship at Emory University, Julian Bond's role at the NAACP and his academic affiliations). While the passage doesn't explicitly state they are currently members of an academic organization *in this context*, their historical association with Du Bois's work and their prominent roles in civil rights activism, often intertwined with academic discourse, suggest an engagement with Du Bois's ideas from a perspective that aligns with the spirit of this code. The mention of "students" also implies an academic setting.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

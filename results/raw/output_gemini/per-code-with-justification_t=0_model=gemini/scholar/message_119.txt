@@ -1,0 +1,5 @@
+User: But she invoked her role model, W. E. B. Du Bois. ''Like him, I went to Harvard because it was a great opportunity for me as a black female scholar, and I accepted the reality of racial and sex discrimination,'' she wrote. ''In its role as nurturer of scholars, Harvard never let me down!''
+Assistant: **Justification:** The passage explicitly describes Du Bois as a "black female scholar" and connects him to his role as a "nurturer of scholars." This directly aligns with the definition of the "Scholar" code, which is applied when Du Bois is described as a scholar or intellectual, particularly in relation to racial identity and social theory.
+
+**Codes Applied:**
+- Scholar

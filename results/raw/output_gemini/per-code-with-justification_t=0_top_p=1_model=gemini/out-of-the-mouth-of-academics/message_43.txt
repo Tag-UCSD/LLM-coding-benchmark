@@ -1,5 +1,0 @@
-User: On the other hand, if Hollywood were making a movie about W. E. B. Du Bois, a light-skinned man who struggled with complexion issues much of his life, to cast a dark-skinned actor in the role would be to repaint history. LISE FUNDERBURG New York, April 7, 1991
-Assistant: **Justification:** The passage discusses W.E.B. Du Bois in the context of a hypothetical Hollywood movie and complexion issues. While Lise Funderburg is likely an individual, there is no indication that she is a member of an academic organization, nor is there any mention of an activist organization naming itself after Du Bois. Therefore, the "Out of the Mouth of Academics" code is not applicable.
-
-**Codes Applied:**
-    - None

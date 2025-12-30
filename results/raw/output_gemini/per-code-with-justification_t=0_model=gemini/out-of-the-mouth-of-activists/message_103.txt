@@ -1,0 +1,5 @@
+User: During a career of scholarship, teaching and advocacy that spanned more than 70 years, Dr. Franklin was deeply involved in the painful debates that helped reshape America’s racial identity, working with the Rev. Dr. Martin Luther King Jr., W. E. B. Du Bois, Thurgood Marshall and other major civil rights figures of the 20th century.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his work with other major civil rights figures like Dr. Martin Luther King Jr. and Thurgood Marshall. However, it does not indicate that any of these individuals, or any activist organizations, are referencing or drawing upon Du Bois's work or legacy to connect their agenda. The mention is historical, not an active invocation of his ideas by a contemporary activist or organization.
+
+**Codes Applied:**
+    - None

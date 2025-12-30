@@ -1,0 +1,5 @@
+User: Dr. Lewis began the Du Bois project in 1985. He traveled thousands of miles - sometimes with Ms. Stewart -- across America, the former Soviet Union, West Africa and Mexico and interviewed 200 people.
+Assistant: **Justification:** The passage does not describe Du Bois as a scholar or intellectual, nor does it reference his ideas on social theory or his role in Black politics and racial identity. It focuses on Dr. Lewis's project and his travels to interview people about Du Bois, but it does not directly engage with Du Bois's scholarly work or intellectual contributions.
+
+**Codes Applied:**
+    - None

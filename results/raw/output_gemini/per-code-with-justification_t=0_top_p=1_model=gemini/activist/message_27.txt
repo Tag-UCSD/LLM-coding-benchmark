@@ -1,5 +1,0 @@
-User: “The Love Songs of W.E.B. Du Bois” by Honorée Fanonne Jeffers
-Assistant: **Justification:** The passage only mentions the title of a book by Honorée Fanonne Jeffers. There is no information within this title to suggest that W.E.B. Du Bois is being referred to as an activist or in the context of his activism.
-
-**Codes Applied:**
-    - None

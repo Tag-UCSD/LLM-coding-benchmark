@@ -1,0 +1,5 @@
+User: Writing in Black Commentator, an online journal, Professor Kilson called the use of the epithet an insult to black people and to former Harvard teachers like Du Bois, Ralph J. Bunche and John Hope Franklin.
+Assistant: **Justification:** The passage mentions Du Bois alongside Ralph J. Bunche and John Hope Franklin, who are also described as former Harvard teachers. This grouping serves to represent a lineage of prominent Black intellectuals and academics, fitting the definition of Collective Synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

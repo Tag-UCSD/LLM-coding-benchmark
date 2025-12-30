@@ -1,0 +1,5 @@
+User: During a career of scholarship, teaching and advocacy that spanned more than 70 years, Dr. Franklin was deeply involved in the painful debates that helped reshape America’s racial identity, working with the Rev. Dr. Martin Luther King Jr., W. E. B. Du Bois, Thurgood Marshall and other major civil rights figures of the 20th century.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other prominent civil rights figures, such as Dr. Martin Luther King Jr., Thurgood Marshall, and Dr. Franklin. This grouping serves to represent the collective effort and impact of these individuals on the civil rights movement and the reshaping of America’s racial identity, fitting the definition of Collective Synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

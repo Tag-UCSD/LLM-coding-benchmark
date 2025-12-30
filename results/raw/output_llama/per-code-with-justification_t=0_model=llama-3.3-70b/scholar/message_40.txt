@@ -1,5 +1,0 @@
-User: It was on Mr. Nkrumah's invitation that Du Bois moved here in 1960. He had been unable to travel from 1952 to 1958 because the United States Government had taken away his passport. Embittered by the experience, Du Bois toured Eastern bloc capitals as soon as his passport was returned. In Moscow, on May Day 1959, he received the Lenin Peace Prize.
-Assistant: **Justification:** The passage does not describe Du Bois as a scholar or intellectual, nor does it invoke his ideas on social theory. Instead, it focuses on his travels and personal experiences, such as being invited by Mr. Nkrumah and receiving the Lenin Peace Prize. The passage provides historical context about Du Bois' life, but it does not highlight his scholarly work or intellectual contributions.
-
-**Codes Applied:**
-- None

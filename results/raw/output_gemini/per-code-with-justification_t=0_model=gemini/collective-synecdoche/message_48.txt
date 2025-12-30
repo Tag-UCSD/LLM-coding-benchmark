@@ -1,0 +1,5 @@
+User: Professor Stuckey once said in an interview that while growing up he was most inspired by two books, Du Bois’s “The Souls of Black Folk" (1903) and “Folk Songs of North America” (1960), by the ethnomusicologist Alan Lomax.
+Assistant: **Justification:** Du Bois is mentioned alongside Alan Lomax as an influential figure whose work inspired Professor Stuckey. This positions Du Bois as a representative of a particular type of scholarship or intellectual influence, fitting the definition of Collective Synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

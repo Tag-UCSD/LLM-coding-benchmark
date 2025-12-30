@@ -1,0 +1,5 @@
+User: Americans are not so inherently virtuous that they can safely disregard the moral discipline that international oversight provides. Wells-Barnett, Du Bois and Robeson understood that from brutal, firsthand experience. Now that Mr. Biden and other white Democrats are tasting disenfranchisement themselves, they need to learn that lesson, too.
+Assistant: **Justification:** The passage mentions Du Bois alongside other figures who "understood" a lesson about the need for moral discipline and international oversight. This implies Du Bois was part of a group that recognized and perhaps advocated for such structures, aligning with the idea of him being an agent involved in establishing a form of "coalition" or shared understanding around these principles.
+
+**Codes Applied:**
+- Coalition Building

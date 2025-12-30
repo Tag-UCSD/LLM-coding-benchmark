@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage discusses Du Bois's views on historical memory but does not mention any enduring cultural objects being named after him. Therefore, the "Monumental Memorialization" code is not applicable.
+
+**Codes Applied:**
+    - None

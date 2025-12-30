@@ -1,0 +1,5 @@
+User: Orlando Patterson (Op-Ed, Nov. 2) asserts that for many African-Americans and some scholars ''Jefferson's contradictions were . . . more reason for a separatist interpretation'' of America's racist legacy. Yet any serious reading of the work of mainstream black intellectuals whose lives were devoted to inclusion rather than separatism, like Frederick Douglass, W. E. B. Du Bois and the Rev. Dr. Martin Luther King Jr., would not support that assertion.
+Assistant: **Justification:** The passage explicitly mentions W.E.B. Du Bois in the context of being discussed by Orlando Patterson, who is presented as a scholar. This aligns with the definition of the "Out of the Mouth of Academics" code, which is applied when an academic engages with Du Bois's work or represents him as a concept.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

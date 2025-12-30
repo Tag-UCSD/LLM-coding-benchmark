@@ -1,0 +1,5 @@
+User: To the Editor: Concerning "Once a Hub of Strife, Boston Woos Black Tourists"(Dec. 8), an African-American heritage trail can be found closer to New York. The newly designated Upper Housatonic Valley National Heritage Area recently published a guidebook, "African American Heritage in the Upper Housatonic Valley," which describes the rich heritage in northwestern Connecticut and the Berkshires of Massachusetts. Among the sites are the W. E. B. Du Bois River Garden in Great Barrington, Mass., Du Bois's hometown, and the Col. John Ashley House in Sheffield, Mass., where in the early 1780s Elizabeth Freeman, also known as Mumbet, began the fight that helped end slavery in Massachusetts. For more information, see www.africanamericantrail.org.
+Assistant: **Justification:** Du Bois is mentioned as a historical figure associated with a specific location (his hometown) and a broader heritage trail. While he is a significant intellectual, he is not being used here to represent a larger group of intellectuals, activists, or a specific ideology, but rather as an individual historical figure tied to a place.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: The 1917 marchers, organized by W. E. B. Du Bois and the N.A.A.C.P., walked in their Sunday finest behind signs reading “Thou Shalt Not Kill?” and “Your Hands Are Full of Blood.”
-Assistant: **Justification:** This passage does not apply the code "Out of the Mouth of Academics" because it does not mention a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept. Instead, it mentions Du Bois as an organizer of a march, which does not meet the criteria for this code. The passage is primarily historical and descriptive, focusing on the 1917 march rather than academic discussion or representation.
-
-**Codes Applied:**
-- None

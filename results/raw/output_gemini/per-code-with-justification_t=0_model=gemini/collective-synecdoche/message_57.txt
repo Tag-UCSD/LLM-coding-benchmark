@@ -1,0 +1,7 @@
+User: Mr. Hutchins said his initial donation was always meant as “hello money,” the start of what he called an intellectual partnership as well as a friendship. Mr. Hutchins and Professor Gates have collaborated
+                                        on making the Harvard program “the unmatched juggernaut of African-American studies,” Mr. Hutchins said. Mr. Hutchins helped form an advisory board for the Du Bois Institute and introduced an array
+                                        of potential donors to Professor Gates.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of the "Du Bois Institute," which is named after him. However, he is not mentioned alongside other intellectuals or figures to represent a broader concept or group.
+
+**Codes Applied:**
+    - None

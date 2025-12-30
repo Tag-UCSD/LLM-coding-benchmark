@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage discusses a personal recollection of W.E.B. Du Bois and an interviewer's interpretation of his character. It does not mention any enduring cultural objects being named after Du Bois.
+
+**Codes Applied:**
+    - None

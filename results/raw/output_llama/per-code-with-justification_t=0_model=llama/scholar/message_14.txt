@@ -1,0 +1,5 @@
+User: The same year Mr. Wilkins succeeded W. E. B. Du Bois as editor of The Crisis, the official N.A.A.C.P. magazine, while continuing as a writer, lecturer and organizer for the association. In 1949 his mentor, Mr. White, took a year's leave and Mr. Wilkins became acting executive secretary. On Mr. White's return, Mr. Wilkins became administrator of internal affairs, a post he held until Mr. White died in 1955. At that time the N.A.A.C.P. board voted unanimously to make Mr. Wilkins executive secretary, a title later changed to executive director. p.u. 1st add WILKINS OBIT
+Assistant: **Justification:** The passage does not describe W.E.B. Du Bois as a scholar or intellectual, but rather mentions him as the previous editor of The Crisis magazine, without referencing his ideas on social theory or his work as a scholar. The focus of the passage is on Mr. Wilkins' career and his roles within the N.A.A.C.P., with Du Bois being mentioned only in the context of his position as editor.
+
+**Codes Applied:**
+- None

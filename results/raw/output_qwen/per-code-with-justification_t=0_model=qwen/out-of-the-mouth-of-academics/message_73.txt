@@ -1,0 +1,5 @@
+User:  During every service, I watched as my father, in high Baptist style, "picture painted" the stories of Moses and Job, Ruth and Esther. I listened as he moaned and hummed and sang the tales of W. E. B. Du Bois and Frederick Douglass, the Scottsboro Boys and Emmett Till. I clapped for joy as he brought the worshipers to their feet with promises of survival now and salvation later. In that place, at that time, we knew what glory was. 
+Assistant: **Justification:** The passage describes a personal experience in a religious setting where the speaker's father references W.E.B. Du Bois among other historical figures. There is no indication that a member of an academic organization is engaging with Du Bois's work or that an academic institution is involved in any way.
+
+**Codes Applied:**
+    - None

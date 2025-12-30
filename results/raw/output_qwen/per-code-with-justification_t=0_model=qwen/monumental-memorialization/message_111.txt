@@ -1,0 +1,5 @@
+User: Joe Biden is not W.E.B. Du Bois, let alone Malcolm X. But the party he leads now faces chronic racist disenfranchisement. The more the Democratic Party becomes a vehicle for Black political empowerment, the less its votes count.
+Assistant: **Justification:** The passage does not mention any enduring cultural object named after W.E.B. Du Bois. It only references him in a comparative context to Joe Biden and Malcolm X.
+
+**Codes Applied:**
+    - None

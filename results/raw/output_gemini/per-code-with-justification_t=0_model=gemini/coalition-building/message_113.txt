@@ -1,0 +1,5 @@
+User: Henry Louis Gates, Jr., chairman of Harvard's Department of Afro-American Studies and director of the W. E. B. Du Bois Institute for Afro-American Research, described Professor West as "one of America's most important public intellectuals, and a formidable scholar by any measure."
+Assistant: **Justification:** The passage describes Henry Louis Gates, Jr. as the chairman of an academic department and director of an institute named after Du Bois. This indicates Du Bois's legacy is associated with institutional sponsorship and the establishment of academic entities, aligning with the definition of Coalition Building.
+
+**Codes Applied:**
+- Coalition Building

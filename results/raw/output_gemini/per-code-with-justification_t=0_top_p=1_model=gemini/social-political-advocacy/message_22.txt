@@ -1,5 +1,0 @@
-User: He was the author or co-author of 10 books, among them ''Children of Bondage,'' ''Deep South,'' ''Father of the Man'' and ''Social-Class Influences Upon Learning.'' His latest work, ''Leadership, Love & Aggression,'' published last September by Harcourt Brace Jovanovich, is a psychological study of four black leaders: Frederick Douglass, W. E. B. Du Bois, Richard Wright and the Rev. Dr. Martin Luther King Jr.
-Assistant: **Justification:** The passage lists books authored by Du Bois and mentions his latest work, which is a psychological study of Black leaders. While the study itself might touch upon social or political themes, the passage itself does not explicitly mention or imply any form of social or political activism, advocacy, critique, or discourse related to Du Bois or the leaders he studied.
-
-**Codes Applied:**
-    - None

@@ -1,0 +1,5 @@
+User: David Turnley, The Detroit Free Press, photographic correspondent based in Paris; will also take classes at the W. E. B. Du Bois Institute for Afro-American Research and the Kennedy School of Government; Russian, film making and drama.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of an institute named after him, but it does not mention him alongside other famous intellectuals, activists, or public figures to represent a broader cultural, ideological, or historical context.
+
+**Codes Applied:**
+    - None

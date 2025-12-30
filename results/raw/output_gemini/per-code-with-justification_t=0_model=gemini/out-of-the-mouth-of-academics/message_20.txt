@@ -1,0 +1,5 @@
+User: An award of $375,000 went to David Levering Lewis, the Rutgers professor who won a Pulitzer Prize in 1994 for the first volume of a biography, ''W. E. B. Du Bois: Biography of a Race.''
+Assistant: **Justification:** The passage describes David Levering Lewis, a Rutgers professor, receiving an award for his biography of W.E.B. Du Bois. This directly aligns with the definition of the "Out of the Mouth of Academics" code, as an academic is engaging with Du Bois's work.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage directly quotes W.E.B. Du Bois. While the quote itself doesn't explicitly name a scholarly work, the phrasing "by his own account" suggests it originates from his personal reflections or writings, which often delve into historical analysis. The quote's content about "the evil of history" aligns with themes explored in his scholarly works.
+
+**Codes Applied:**
+- Mention of Scholarly Work

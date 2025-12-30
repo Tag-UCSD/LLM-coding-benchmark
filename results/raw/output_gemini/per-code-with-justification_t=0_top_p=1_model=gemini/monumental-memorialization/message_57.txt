@@ -1,5 +1,0 @@
-User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of being cited by Justice Sotomayor in a dissent. This does not involve an enduring cultural object being named after Du Bois, such as an award, building, or institute. Therefore, the "Monumental Memorialization" code is not applicable.
-
-**Codes Applied:**
-    - None

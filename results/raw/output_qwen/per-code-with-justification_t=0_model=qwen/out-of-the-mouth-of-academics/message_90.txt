@@ -1,0 +1,5 @@
+User: Still, Chester Davis, associate chairman of the W. E. B. Du Bois Department of Afro American Studies at the University of Massachusetts, said black studies should not be considered a discipline in the traditional sense.
+Assistant: **Justification:** The passage features Chester Davis, who is a member of an academic organization (the W. E. B. Du Bois Department of Afro American Studies at the University of Massachusetts), and he is engaging with the concept of black studies, which is related to Du Bois's work. Therefore, the code "Out of the Mouth of Academics" is applicable.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

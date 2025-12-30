@@ -1,0 +1,5 @@
+User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
+Assistant: **Justification:** The passage describes Mr. Bond, who is implied to be an academic or public figure, discussing his personal experience with W.E.B. Du Bois's influence. This aligns with the definition of the "Out of the Mouth of Academics" code, which is applied when a specific member of an academic organization engages with Du Bois's work or represents him as a concept.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

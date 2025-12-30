@@ -1,5 +1,0 @@
-User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
-Assistant: **Justification:** W.E.B. Du Bois is mentioned as an example of a figure that esteemed scholars might be interested in, alongside other potential users like Black teenagers. This positions him as a representative of intellectual discourse and Black scholarship, fitting the definition of Collective Synecdoche.
-
-**Codes Applied:**
-- Collective Synecdoche

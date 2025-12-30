@@ -1,5 +1,0 @@
-User: Earlier this year the Justice Department overruled State De partment approval of Mrs. Du Bois's request for a visa. Born in New York 71 years ago, she is now a Ghanaian citizen and lives in Cairo.
-Assistant: **Justification:** The passage does not mention any of W.E.B. Du Bois's scholarly works or key academic ideas. It only provides biographical information about his wife, Shirley Graham Du Bois, and her visa request. Therefore, the code "Mention of Scholarly Work" does not apply.
-
-**Codes Applied:**
-    - None

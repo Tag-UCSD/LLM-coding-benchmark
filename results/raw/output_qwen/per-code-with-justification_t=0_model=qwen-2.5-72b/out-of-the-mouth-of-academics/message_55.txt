@@ -1,5 +1,0 @@
-User: ''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''
-Assistant: **Justification:** The speaker is discussing Du Bois's model for Black studies, which aligns with the definition of the code "Out of the Mouth of Academics" as it involves a member of an academic organization engaging with Du Bois's work or representing a concept derived from his ideas.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

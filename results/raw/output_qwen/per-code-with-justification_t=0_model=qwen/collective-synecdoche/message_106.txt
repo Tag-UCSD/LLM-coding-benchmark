@@ -1,0 +1,5 @@
+User: Similarly, said John Whiteclay Chambers 2nd of Rutgers University, W. E. B. Du Bois and Frederick Douglass urged African-Americans to serve, even though they would be fighting for a segregated society. ''It was an effort to gain full citizenship rights,'' the professor said, noting that military service also offers ''social mobility to people without much money.''
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois alongside Frederick Douglass to represent a broader historical context of African-American activism and the struggle for civil rights. This pairing is used to illustrate a specific era and ideology, fitting the definition of Collective Synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

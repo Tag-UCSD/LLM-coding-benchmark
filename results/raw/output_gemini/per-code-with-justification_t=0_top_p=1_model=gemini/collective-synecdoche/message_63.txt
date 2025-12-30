@@ -1,5 +1,0 @@
-User: The 1917 marchers, organized by W. E. B. Du Bois and the N.A.A.C.P., walked in their Sunday finest behind signs reading “Thou Shalt Not Kill?” and “Your Hands Are Full of Blood.”
-Assistant: **Justification:** Du Bois is mentioned in the context of organizing a historical event (the 1917 march) alongside the NAACP. This places him as a key figure in a specific historical moment related to civil rights activism, representing that facet of history.
-
-**Codes Applied:**
-- Collective Synecdoche

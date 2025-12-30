@@ -1,0 +1,5 @@
+User: During the Civil War, slaves freed themselves by walking to Union lines. What was a trickle in 1861 became a flood by 1864, as thousands of self-emancipated slaves followed Union soldiers. What the pioneering civil rights activist W.E.B. Du Bois called the “general strike” of slaves changed the outcome of the war, forcing a reluctant Lincoln administration to move toward the Emancipation Proclamation and then the 13th Amendment, all while slowing the Confederate war effort by undermining the labor force and thus the economy. Slaves could not have won the war by themselves, but their actions were crucial in deciding the war and creating its moral impact. 
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois and his concept of the "general strike" of slaves, but it does not reference any enduring cultural object named after Du Bois, such as a prize, award, building, or institute. Therefore, the code "Monumental Memorialization" does not apply.
+
+**Codes Applied:**
+    - None

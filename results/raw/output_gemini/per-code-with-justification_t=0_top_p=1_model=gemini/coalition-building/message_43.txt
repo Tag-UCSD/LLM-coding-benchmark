@@ -1,5 +1,0 @@
-User: On the other hand, if Hollywood were making a movie about W. E. B. Du Bois, a light-skinned man who struggled with complexion issues much of his life, to cast a dark-skinned actor in the role would be to repaint history. LISE FUNDERBURG New York, April 7, 1991
-Assistant: **Justification:** The passage discusses W.E.B. Du Bois's personal struggles with complexion and how that might be represented in a hypothetical film. It does not mention him as an agent building his reputation through organizational or institutional sponsorship.
-
-**Codes Applied:**
-    - None

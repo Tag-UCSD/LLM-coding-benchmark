@@ -1,0 +1,5 @@
+User: Victory would anoint New York a world capital, but the fruits were ephemeral and, for some, illusory. In 1919, W. E. B. Du Bois hailed returning blacks from the 369th Infantry Regiment as “soldiers of democracy” who should “return fighting” for that ideal at home. It would be a long time coming.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his words and actions, but it does not reference any enduring cultural object named after him. Therefore, the code "Monumental Memorialization" does not apply.
+
+**Codes Applied:**
+    - None

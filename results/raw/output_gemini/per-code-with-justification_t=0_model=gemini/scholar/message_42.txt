@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** The passage quotes Du Bois directly to illustrate the NAACP's mission. While this implies his intellectual contribution to the organization's founding principles, it does not explicitly describe him as a scholar or intellectual in connection to his social theory or broader academic work. The focus is on his role in defining the organization's purpose.
+
+**Codes Applied:**
+    - None

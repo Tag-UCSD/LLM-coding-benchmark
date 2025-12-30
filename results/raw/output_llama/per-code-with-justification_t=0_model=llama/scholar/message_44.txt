@@ -1,0 +1,5 @@
+User: ''But she's got relatives and friends broke as the 10 Commandments,'' he said. ''Just focusing on Oprah won't show us how the race problem can be solved. It's more complex than that. Du Bois said begin with art, because art tries to take us outside of ourselves. It's a matter of trying to create an atmosphere and a context so conversation can flow back and forth, and we can be influenced by each other.''
+Assistant: **Justification:** The passage applies the code "Scholar" because Du Bois is invoked through his ideas on social theory, specifically his thoughts on the role of art in addressing the race problem. The mention of Du Bois' idea to "begin with art" suggests a reference to his intellectual contributions, rather than his activism or personal life. This reference to his idea is a clear example of his scholarly work being used to inform a discussion on social theory.
+
+**Codes Applied:**
+- Scholar

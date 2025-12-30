@@ -1,0 +1,5 @@
+User: “The Love Songs of W.E.B. Du Bois” by Honorée Fanonne Jeffers
+Assistant: **Justification:** The title of the work references W.E.B. Du Bois, but the passage does not indicate that an activist, leader, or politician is referencing or drawing upon his work or legacy. It is simply the title of a book.
+
+**Codes Applied:**
+    - None

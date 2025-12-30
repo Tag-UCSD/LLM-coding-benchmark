@@ -1,0 +1,5 @@
+User: While in New York he met Langston Hughes, whose poetry he admired, and got to know the principals of the Harlem Renaissance. At one point, he thought he might write his thesis on W. E. B. Du Bois. But according to Mr. Woodward, Mr. Du Bois heard his Southern accent and backed off.
+Assistant: **Justification:** The passage mentions that the author considered writing a thesis on W.E.B. Du Bois. This implies Du Bois is a subject of academic study, but it does not describe him as a scholar or intellectual in his own right, nor does it connect him to his specific ideas on social theory.
+
+**Codes Applied:**
+    - None

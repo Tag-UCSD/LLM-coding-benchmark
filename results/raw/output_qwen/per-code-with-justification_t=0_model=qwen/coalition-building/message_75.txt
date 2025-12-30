@@ -1,0 +1,5 @@
+User: The Defender, a tabloid, helped nurture the careers of writers like Langston Hughes and W. E. B. Du Bois, a founder of the National Association for the Advancement of Colored People. And long before white politicians began to oppose the South's Jim Crow laws, The Defender published editorials decrying the treatment of black sharecroppers and promising a better life in Chicago's factories.
+Assistant: **Justification:** The passage mentions Du Bois as a founder of the NAACP, which indicates his role in establishing and building organizations. However, it does not explicitly describe him as building his reputation through organizational and institutional sponsorship. The focus is more on his role as a founder rather than on the process of building his reputation through such means.
+
+**Codes Applied:**
+    - None

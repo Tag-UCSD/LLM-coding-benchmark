@@ -1,0 +1,5 @@
+User: Mr. Lewis was born in Little Rock, Ark., into an intellectual atmosphere (his father was a Yale graduate, his mother a teacher) and grew up in Wilberforce and Atlanta, where he attended high school and graduated after only one year. He enrolled at Fisk University in Nashville, Mr. Du Bois' alma mater.
+Assistant: **Justification:** The passage mentions that Fisk University is W.E.B. Du Bois' alma mater. While Fisk University is an enduring cultural object, the passage does not state that it is *named after* Du Bois. Therefore, the "Monumental Memorialization" code does not apply.
+
+**Codes Applied:**
+    - None

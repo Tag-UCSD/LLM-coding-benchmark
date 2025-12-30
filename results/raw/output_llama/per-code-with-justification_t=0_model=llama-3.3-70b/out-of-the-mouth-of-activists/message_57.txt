@@ -1,5 +1,0 @@
-User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
-Assistant: **Justification:** This passage applies to the code "Out of the Mouth of Activists" because Justice Sotomayor, a leader and member of a prominent institution (the court), is referencing W.E.B. Du Bois's work or legacy in her dissent. Although Justice Sotomayor is not typically considered an activist, her role as a justice implies a position of leadership and influence, and her citation of Du Bois connects her agenda to his legacy. This meets the criteria for the code.
-
-**Codes Applied:**
-- Out of the Mouth of Activists

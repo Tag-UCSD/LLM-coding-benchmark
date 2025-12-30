@@ -1,0 +1,5 @@
+User: ''But she's got relatives and friends broke as the 10 Commandments,'' he said. ''Just focusing on Oprah won't show us how the race problem can be solved. It's more complex than that. Du Bois said begin with art, because art tries to take us outside of ourselves. It's a matter of trying to create an atmosphere and a context so conversation can flow back and forth, and we can be influenced by each other.''
+Assistant: **Justification:** The passage does not indicate that the speaker is a member of an academic organization or that they are discussing Du Bois in an academic context. The reference to Du Bois is more general and does not meet the criteria for the "Out of the Mouth of Academics" code.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: The only way to learn spelling is to read so much that you automatically recognize what thousands and thousands of English words look like. And how much Aristotle, Plato, St. Thomas, Du Bois and Carrie Chapman Catt can a college student read before overtaken by stupor?
-Assistant: **Justification:** The passage mentions Du Bois in a list of influential thinkers, but it does not reference any enduring cultural object being named after him. The mention of Du Bois is simply as a person, alongside other historical figures, and does not meet the criteria for the Monumental Memorialization code.
-
-**Codes Applied:**
-- None

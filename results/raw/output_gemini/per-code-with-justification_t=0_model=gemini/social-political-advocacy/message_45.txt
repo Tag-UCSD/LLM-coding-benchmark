@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage discusses W.E.B. Du Bois's personal struggles and the complexities of his ideals and actions. While it touches on his attempts to achieve his ideals, it does not explicitly mention or imply any form of social or political activism, advocacy, critique, or discourse related to social problems or the framing/challenging of social norms.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: The late C. Wright Mills—isolated and harassed because of his radicalism —once remarked that all social science for the past century and a halt is a dialogue with Marx. I think he was right. One will find upon examining the writings of American scholars such as Charles A. Beard, John R. Commons, Albion W. Small, Thorstein Veblen, W. E. B. Du Bois and E. R. A. Seligman that though most did not find Marxism fully persuasive, they all treated Marxism as one of the most illuminating forms of thought in existence
-Assistant: **Justification:** Du Bois is mentioned alongside other prominent scholars like Charles A. Beard, John R. Commons, Albion W. Small, Thorstein Veblen, and E. R. A. Seligman. This grouping serves to represent a particular intellectual tradition within American scholarship, specifically in relation to their engagement with Marxist thought.
-
-**Codes Applied:**
-- Collective Synecdoche

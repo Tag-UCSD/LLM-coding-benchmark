@@ -1,5 +1,0 @@
-User: “We are living through an era of the ascendance of biology, and we have to be very careful,” said Henry Louis Gates Jr., director of the W. E. B. Du Bois Institute for African and African American Research at Harvard University. “We will all be walking a fine line between using biology and allowing it to be abused.” 
-Assistant: **Justification:** The passage does not explicitly mention or imply any form of social or political activism, advocacy, critique, or discourse. It focuses on a cautionary note about the use and potential abuse of biology, without directly engaging with Du Bois's work, persona, or ideas in the context of social or political advocacy.
-
-**Codes Applied:**
-    - None

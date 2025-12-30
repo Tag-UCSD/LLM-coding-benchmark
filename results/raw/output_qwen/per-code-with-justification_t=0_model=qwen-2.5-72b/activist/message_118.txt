@@ -1,5 +1,0 @@
-User: Mr. Meade said Mr. Paynter's study would reveal ''the line of strength leading not just to Du Bois but to many families still in the area who were around just as long and who are just as important in their own ways.''
-Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or mention his political or social activism. It only references his historical significance in the context of a study about long-standing families in the area.
-
-**Codes Applied:**
-    - None

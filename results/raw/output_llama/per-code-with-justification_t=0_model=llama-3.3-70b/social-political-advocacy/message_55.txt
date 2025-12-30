@@ -1,5 +1,0 @@
-User: ''Black studies is about a commitment to academic excellence, but it also has to be socially responsible -- that's really the model Du Bois had in mind,'' he said. ''It only has vibrancy and meaning if it illuminates problems in the daily life of black people and its historical roots. There's a profound crisis out there, and I don't think as a whole we've done a very good job of addressing it.''
-Assistant: **Justification:** This passage applies the Social/Political Advocacy code because it mentions Du Bois's model for Black studies, which emphasizes social responsibility and addressing problems in the daily life of Black people. The passage also critiques the current state of addressing the crisis faced by Black people, implying a need for social or political activism. By invoking Du Bois's ideas, the passage explicitly engages with Black identity and broader systemic circumstances of Black people.
-
-**Codes Applied:**
-- Social/Political Advocacy

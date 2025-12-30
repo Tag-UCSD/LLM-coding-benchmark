@@ -1,0 +1,5 @@
+User: While in New York he met Langston Hughes, whose poetry he admired, and got to know the principals of the Harlem Renaissance. At one point, he thought he might write his thesis on W. E. B. Du Bois. But according to Mr. Woodward, Mr. Du Bois heard his Southern accent and backed off.
+Assistant: **Justification:** The passage mentions that the subject of the article considered writing a thesis on W.E.B. Du Bois. However, it does not indicate that Du Bois himself, or any activist, leader, or politician, referenced or drew upon Du Bois's work or legacy. The interaction described is a personal anecdote and does not align with the definition of the "Out of the Mouth of Activists" code.
+
+**Codes Applied:**
+    - None

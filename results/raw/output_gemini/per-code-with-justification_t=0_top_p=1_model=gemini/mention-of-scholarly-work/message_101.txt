@@ -1,5 +1,0 @@
-User: What effect, many of us have worried, would this unprecedented rise in prosperity have on the New Millennials? Would they heed Du Bois’s call, as students like John Lewis and Julian Bond, Charlayne Hunter and Diane Nash did under the leadership of the “Negro Gandhi” presciently predicted by Du Bois back in 1948?
-Assistant: **Justification:** The passage mentions Du Bois's "call" and a prediction he made in 1948, but it does not explicitly name or quote any of his scholarly works or theoretical concepts. The reference to his prediction is framed as a general foresight rather than a specific academic idea.
-
-**Codes Applied:**
-    - None

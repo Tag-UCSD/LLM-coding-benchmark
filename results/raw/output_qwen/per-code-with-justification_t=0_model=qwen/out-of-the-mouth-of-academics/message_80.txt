@@ -1,0 +1,7 @@
+User: Yet in a diverse society like ours we must have space for all people who share this land with us. This requires knowledge and generosity. Thales must be paired with Imhotep and the pyramids must be seen as the monumental
+                                        icons of the ancient world long before the creation of the “Iliad” and the “Odyssey.” You cannot have a canon, however, in the United States world that avoids the profound works of David
+                                        Walker, Marcus Garvey, W. E. B. Du Bois, James Baldwin, James Weldon Johnson, Toni Morrison, Zora Neale Hurston, Langston Hughes and E. Franklin Frazier, for example.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as part of a list of important figures whose works should be included in the canon of American literature. However, it does not specifically reference a member of an academic organization engaging with Du Bois's work or a named academic institution. Therefore, the "Out of the Mouth of Academics" code is not applicable.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: “The Love Songs of W.E.B. Du Bois” by Honorée Fanonne Jeffers
+Assistant: **Justification:** The passage only mentions the title of a book by Honorée Fanonne Jeffers. It does not provide any information about W.E.B. Du Bois himself or his actions, so the "Activist" code cannot be applied.
+
+**Codes Applied:**
+    - None

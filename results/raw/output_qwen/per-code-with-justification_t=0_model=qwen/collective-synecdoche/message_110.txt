@@ -1,0 +1,5 @@
+User: Martin Kilson, a leftist scholar, fierce debater and follower of W. E. B. Du Bois who became the first tenured African-American professor at Harvard, died on April 24 in hospice care in Lincoln, Mass. He was 88.
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois in the context of Martin Kilson's intellectual and academic legacy, but it does not use Du Bois to represent a broader cultural, ideological, or historical facet. Instead, it focuses on Kilson's personal connection to Du Bois.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: The historians include three Pulitzer Prize winners: Taylor Branch, author of "Parting the Waters," a biography of the Rev. Dr. Martin Luther King Jr.; David Garrow, author of "Bearing the Cross," another biography of Dr. King, and David L. Lewis, author of a recent biography of W. E. B. Du Bois.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as the subject of a biography, but it does not describe him as a scholar or intellectual, nor does it invoke his ideas on social theory. The context is focused on the historians and their works, rather than Du Bois' own scholarship or intellectual contributions. Therefore, the code "Scholar" is not applicable in this case.
+
+**Codes Applied:**
+- None

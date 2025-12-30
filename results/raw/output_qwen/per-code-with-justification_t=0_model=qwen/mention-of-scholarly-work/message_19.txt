@@ -1,0 +1,5 @@
+User: Consider them, instead, the grandchildren of Du Bois’s “talented 10th,” taking their cues, wittingly or unwittingly, from the challenge that he and the civil rights activists of the ’60s issued to black leadership. Many of today’s black activists are the children of middle- and upper-middle-class parents — the affirmative action generation — and may be realizing, as Charlayne Hunter-Gault put it to me, “that privilege doesn’t always translate as they thought it would.”
+Assistant: **Justification:** The passage mentions Du Bois's concept of the "talented tenth," which is a key idea from his scholarly work. However, it does not directly quote from a scholarly work or provide a detailed discussion of his academic theories. The reference is more contextual and used to frame a broader discussion about contemporary black leadership and activism. Therefore, the code "Mention of Scholarly Work" is not applied.
+
+**Codes Applied:**
+    - None

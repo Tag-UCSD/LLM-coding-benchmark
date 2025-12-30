@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage does not provide any context or discussion about social or political activism, advocacy, or critique. It merely references a work by Du Bois without engaging in any critical discourse or advocacy related to Black identity or systemic issues.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage mentions a biography titled "W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963," but it does not indicate that an enduring cultural object has been named after Du Bois. The title of a book does not qualify as monumental memorialization.
+
+**Codes Applied:**
+    - None

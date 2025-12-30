@@ -1,5 +1,0 @@
-User: Black leaders such as Charles V. Hamilton, professor of political science at Columbia University, have been expres sing concern about placing Ne gro children in “educationally racist” white classrooms, an ap prehension expressed by W. E. B. Du Bois in the 1930's.
-Assistant: **Justification:** The passage explicitly mentions W.E.B. Du Bois's apprehension about placing Black children in "educationally racist" white classrooms, which directly relates to his critique of systemic issues and advocacy for Black educational experiences. This aligns with the definition of Social/Political Advocacy as it involves challenging social norms and discussing systemic circumstances of Black people.
-
-**Codes Applied:**
-- Social/Political Advocacy

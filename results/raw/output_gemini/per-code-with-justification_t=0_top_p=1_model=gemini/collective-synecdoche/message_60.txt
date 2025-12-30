@@ -1,5 +1,0 @@
-User: Mrs. Du Bois, who now makeS. her home in Cairo, told ;how the “death masks, paintings,; and sculptures” of the. time of'. Cleopatra had “the features of brothers.”
-Assistant: **Justification:** The passage mentions Mrs. Du Bois, but W.E.B. Du Bois himself is not mentioned. Therefore, the code "Collective Synecdoche" cannot be applied as it requires the mention of W.E.B. Du Bois in relation to other figures.
-
-**Codes Applied:**
-    - None

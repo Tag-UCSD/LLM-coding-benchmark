@@ -1,0 +1,5 @@
+User: 'I believe one of the main civil rights challenges of this new millennium is the challenge of ensuring equal access to technology,'' he said. ''W. E. B. Du Bois said, 'The problem of the 20th century is the problem of the color line.' At the dawn of this century, our challenge is preventing the color line from determining who is online.''
+Assistant: **Justification:** The passage directly quotes W.E.B. Du Bois and connects his historical observation about the "color line" to a contemporary issue of technological access. This demonstrates Du Bois's ideas being used to frame a social and political challenge, aligning with the definition of "Scholar" as someone whose ideas on social theory are invoked.
+
+**Codes Applied:**
+- Scholar

@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** The passage directly quotes W.E.B. Du Bois describing the NAACP's mission as "the discovering and redress of cases of injustice." This clearly falls under the definition of social/political advocacy as it discusses the organization's work in addressing social problems and advocating for the less powerful.
+
+**Codes Applied:**
+- Social/Political Advocacy

@@ -1,0 +1,5 @@
+User: 'We could not have made an acquaintance through literature with human giants such as George Washington, Abraham Lincoln and Thomas Jefferson and not been moved to act,'' Mr. Mandela said. ''We could not have heard of and admired John Brown, Sojourner Truth, Frederick Douglass, W. E. B. Du Bois, Marcus Garvey, Martin Luther King Jr. and others . . . and not be moved to act as they were moved to act.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other prominent historical figures like John Brown, Sojourner Truth, Frederick Douglass, Marcus Garvey, and Martin Luther King Jr. This grouping serves to represent a lineage of activists and intellectuals who have inspired action, fitting the definition of collective synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

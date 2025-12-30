@@ -1,0 +1,5 @@
+User: This claim is itself open to argument, which is why I included it in the article. But it does no service to the cause of multicultural literature to stretch it beyond recognition as Mr. Gates has mistakenly done. I cannot imagine in a world filled with the works of W. E. B. Du Bois, James Baldwin, Richard Wright, Toni Morrison and even Henry Louis Gates that Mr. Adler would not consider the statement attributed to him to be preposterous. ERIC ALTERMAN Washington, May 26, 1991
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as part of a list of prominent Black authors and intellectuals, but it does not describe him specifically as a scholar or intellectual, nor does it invoke his ideas on social theory. The reference is more contextual and does not focus on his scholarly contributions.
+
+**Codes Applied:**
+    - None

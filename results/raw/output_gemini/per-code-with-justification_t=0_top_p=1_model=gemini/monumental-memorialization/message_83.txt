@@ -1,5 +1,0 @@
-User: It had been a full, though not unusual, day for Cornel West. That morning, he had lectured twice at Princeton: first on W. E. B. Du Bois, Toni Morrison and James Baldwin in a course on Afro-American culture; then on Virginia Woolf, T. S. Eliot, Frantz Fanon and the Zionist philosopher Ahad Ha'am to a class entitled "Religion and Cultural Criticism."
-Assistant: **Justification:** The passage discusses a lecture given by Cornel West on W.E.B. Du Bois. However, it does not mention any enduring cultural objects being named after Du Bois, such as awards, buildings, or institutes. Therefore, the "Monumental Memorialization" code is not applicable.
-
-**Codes Applied:**
-    - None

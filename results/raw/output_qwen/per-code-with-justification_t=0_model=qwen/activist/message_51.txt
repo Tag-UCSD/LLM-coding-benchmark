@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or mention his political or social activism. It only references his work, "The Souls of Black Folk," without any context of his activist activities.
+
+**Codes Applied:**
+    - None

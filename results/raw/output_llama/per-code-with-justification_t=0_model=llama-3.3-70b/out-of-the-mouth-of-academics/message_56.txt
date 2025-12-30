@@ -1,5 +1,0 @@
-User: But he stayed at Duke only a year before accepting an offer from Harvard that made him simultaneously chairman of the Afro-American studies department, the W. E. B. Du Bois professor of the humanities and the director of the W. E. B. Du Bois Institute, a research institute. Fear of Closing
-Assistant: **Justification:** The passage mentions that the individual became the director of the W. E. B. Du Bois Institute, which is a subdivision of Harvard named after Du Bois, and also held the W. E. B. Du Bois professorship, indicating a clear engagement with Du Bois's work or legacy by an academic organization. However, it does not explicitly state that a member of an academic organization is discussing Du Bois's work. The passage primarily focuses on the individual's career moves and the naming of academic positions and institutes after Du Bois, which aligns with the criteria for applying the code when an academic organization has named itself or a subdivision after Du Bois.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

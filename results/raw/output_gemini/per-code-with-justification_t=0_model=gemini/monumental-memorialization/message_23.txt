@@ -1,0 +1,5 @@
+User: Dr. Lewis began the Du Bois project in 1985. He traveled thousands of miles - sometimes with Ms. Stewart -- across America, the former Soviet Union, West Africa and Mexico and interviewed 200 people.
+Assistant: **Justification:** The passage mentions a "Du Bois project" but does not specify that this project is an enduring cultural object named after Du Bois. It refers to a research initiative rather than a memorialization like a building or award.
+
+**Codes Applied:**
+    - None

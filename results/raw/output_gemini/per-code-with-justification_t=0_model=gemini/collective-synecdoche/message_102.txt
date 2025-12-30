@@ -1,0 +1,5 @@
+User: The historians include three Pulitzer Prize winners: Taylor Branch, author of "Parting the Waters," a biography of the Rev. Dr. Martin Luther King Jr.; David Garrow, author of "Bearing the Cross," another biography of Dr. King, and David L. Lewis, author of a recent biography of W. E. B. Du Bois.
+Assistant: **Justification:** Du Bois is mentioned alongside other prominent historians and biographers, specifically those who have written about Martin Luther King Jr. This places him within a group of significant figures in American history and scholarship, representing the field of biography and historical scholarship.
+
+**Codes Applied:**
+- Collective Synecdoche

@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The passage does not mention any enduring cultural object named after W. E. B. Du Bois. It only references him in a discussion about racial identity and the census. Therefore, the code "Monumental Memorialization" does not apply.
+
+**Codes Applied:**
+    - None

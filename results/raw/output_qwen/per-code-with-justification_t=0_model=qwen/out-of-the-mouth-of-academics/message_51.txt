@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage does not indicate that a specific member of an academic organization is engaging with Du Bois's work. It merely quotes Du Bois from his work "The Souls of Black Folk." Therefore, the code "Out of the Mouth of Academics" is not applicable.
+
+**Codes Applied:**
+    - None

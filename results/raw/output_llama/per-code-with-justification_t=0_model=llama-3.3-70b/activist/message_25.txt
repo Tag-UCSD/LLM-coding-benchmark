@@ -1,5 +1,0 @@
-User: But Guralnick is out to destroy gods and undo celebrity, or, as he puts it, to "rescue" Elvis from "both his detractors and admirers." Sometimes, the pages, the research, the interviews and especially the objectivity are necessary to make a subject human again. This can be true because the subject is an icon like Elvis or because the life truly was monumental -- here I'm thinking of David Levering Lewis on W. E. B. Du Bois (two volumes and 1,360 pages).
-Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or "leader", nor does it mention his political or social activism. It only mentions David Levering Lewis' work on Du Bois, comparing the scope of the work to Guralnick's on Elvis, without providing any context about Du Bois' activities or role.
-
-**Codes Applied:**
-- None

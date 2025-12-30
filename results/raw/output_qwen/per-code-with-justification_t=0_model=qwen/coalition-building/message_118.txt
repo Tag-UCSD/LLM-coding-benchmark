@@ -1,0 +1,5 @@
+User: Sara Lee, Dr. Lee's wife, remembers discussing with Du Bois on Aug. 27, 1963, plans for a march to be held here to coincide with the Aug. 28 march on Washington led by the Rev. Martin Luther King Jr. That evening, Du Bois died, and in Washington, many people learned of his death as they marched.
+Assistant: **Justification:** The passage mentions Du Bois in the context of discussing plans for a march, which suggests his involvement in organizing and coordinating with other activists. However, it does not explicitly describe him as establishing his reputation through organizational and institutional sponsorship. Therefore, the code "Coalition Building" is not fully applicable.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: Early in this century, the black historian and sociologist W. E. B. Du Bois complained, that “sociologists gleefully count . . . bastards,” reminding them that “to be a poor man is hard, but to be a poor race in a land of dollars is the very bottom of hardships.” That is still true.
+Assistant: **Justification:** The passage does not mention any enduring cultural object named after Du Bois, such as a prize, award, building, or institution. It primarily references Du Bois's historical complaint about sociological studies and racial inequality.
+
+**Codes Applied:**
+    - None

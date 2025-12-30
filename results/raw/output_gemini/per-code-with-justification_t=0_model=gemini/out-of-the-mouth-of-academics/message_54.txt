@@ -1,0 +1,5 @@
+User: Fortunately, many of the es says are free of racism and Communist dogmatism. There are five brief, but excellent es says by Zora Neale Hurston on black speech, religion and mu sic, an analysis of the still neglected black poet Sterling Brown (one of the editors of “The Negro Caravan”) by Alain Locke, W. E. B. Du Bois on “Black America” and George Padmore on Africa.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his essay "Black America." While the passage itself is not directly from an academic, it references an academic's work. However, the definition of the code "Out of the Mouth of Academics" specifies that it should be applied when a *specific member of an academic organization is engaging with Du Bois's work*. This passage does not explicitly state that the author of the passage is an academic, nor does it describe an academic engaging with Du Bois's work. It merely lists Du Bois as an author of an essay.
+
+**Codes Applied:**
+    - None

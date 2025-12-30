@@ -1,0 +1,5 @@
+User: In 1903, Dr. W. E. B. Du Bois wrote that the problem of the 20th century is the problem of the color line. Unfortunately, it looks as though that will be true for the next century, at least. The color line will not disappear without the unremitting efforts of all true democrats, and there is no comprehensive guidebook for the travel ahead. Intelligence is the ability to solve new problems.
+Assistant: **Justification:** The passage does not mention Du Bois in conjunction with other famous intellectuals, activists, or public figures. It focuses on his specific statement about the color line and its ongoing relevance, without using him to represent a broader cultural, ideological, or historical context through collective reference.
+
+**Codes Applied:**
+    - None

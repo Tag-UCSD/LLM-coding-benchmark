@@ -1,0 +1,5 @@
+User: 'We could not have made an acquaintance through literature with human giants such as George Washington, Abraham Lincoln and Thomas Jefferson and not been moved to act,'' Mr. Mandela said. ''We could not have heard of and admired John Brown, Sojourner Truth, Frederick Douglass, W. E. B. Du Bois, Marcus Garvey, Martin Luther King Jr. and others . . . and not be moved to act as they were moved to act.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other historical figures who are presented as inspirations for action. While Du Bois was a scholar, the context here emphasizes his role as an admired figure whose actions and example move others to act, rather than specifically highlighting his scholarly contributions or intellectual ideas.
+
+**Codes Applied:**
+    - None

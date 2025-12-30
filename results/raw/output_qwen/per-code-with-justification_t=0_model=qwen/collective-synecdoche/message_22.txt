@@ -1,0 +1,10 @@
+User: The luridness of street lit has made it a flashpoint, inciting controversy reminiscent of the hip-hop culture wars of the 1980s and ’90s. But the street-lit debate touches deeper historical roots, reviving decades-old
+                                arguments in black literary circles about the mandate to uplift the race and present wholesome images of African-Americans. In 1928, W. E. B. Du Bois slammed the “licentiousness” of “
+                                Home to Harlem,” Claude McKay’s rollicking novel of Harlem nightlife. McKay’s book, Du Bois wrote, “for the most part nauseates
+                                me, and after the dirtier parts of its filth I feel distinctly like taking a bath.” Similar sentiments have greeted 21st-century street lit. In a 2006 New York Times Op-Ed essay, the journalist and author Nick Chiles
+                                decried “the sexualization and degradation of black fiction.” African-American bookstores, Chiles complained, are “overrun with novels that . . . appeal exclusively to our most prurient
+                                natures — as if these nasty books were pairing off back in the stockrooms like little paperback rabbits and churning out even more graphic offspring that make Ralph Ellison books cringe into a dusty corner.”
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a historical debate about the representation of African-Americans in literature. However, Du Bois is not mentioned alongside other famous intellectuals, activists, or public figures to represent a broader cultural, ideological, or historical facet. Instead, he is specifically referenced for his critique of a particular literary work and its themes.
+
+**Codes Applied:**
+    - None

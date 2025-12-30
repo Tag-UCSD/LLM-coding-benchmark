@@ -1,5 +1,0 @@
-User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a historical period named after him, but it does not mention him alongside other famous intellectuals, activists, or public figures to represent a broader cultural, ideological, or era-related facet. Therefore, the code "Collective Synecdoche" does not apply.
-
-**Codes Applied:**
-    - None

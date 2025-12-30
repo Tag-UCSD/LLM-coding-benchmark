@@ -1,5 +1,0 @@
-User: It was on Mr. Nkrumah's invitation that Du Bois moved here in 1960. He had been unable to travel from 1952 to 1958 because the United States Government had taken away his passport. Embittered by the experience, Du Bois toured Eastern bloc capitals as soon as his passport was returned. In Moscow, on May Day 1959, he received the Lenin Peace Prize.
-Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or "leader", nor does it clearly imply his political or social activism through context, aside from touring Eastern bloc capitals and receiving the Lenin Peace Prize, which could be seen as a form of activism, but it is not explicitly stated as such. The passage primarily focuses on Du Bois' personal experiences and travels rather than his activism. However, receiving the Lenin Peace Prize and touring Eastern bloc capitals could be seen as a form of activism, but it is not enough to apply the code.
-
-**Codes Applied:**
-- None

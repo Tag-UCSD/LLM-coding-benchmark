@@ -1,5 +1,0 @@
-User: Professor Stuckey’s black nationalist ideology jelled as a student at Northwestern University. He met Paul Robeson and W. E. B. Du Bois, picketed a Woolworth’s store in Chicago to protest segregation in the South, and supported a voter registration project in Tennessee sponsored by the interracial Congress of Racial Equality.
-Assistant: **Justification:** The passage explicitly mentions Professor Stuckey's involvement in picketing a Woolworth's store to protest segregation and his support for a voter registration project. These actions are clear examples of social and political activism and advocacy, directly aligning with the definition of the "Social/Political Advocacy" code.
-
-**Codes Applied:**
-- Social/Political Advocacy

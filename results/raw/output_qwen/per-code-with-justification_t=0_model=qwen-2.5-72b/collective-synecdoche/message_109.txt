@@ -1,5 +1,0 @@
-User: A few independent black American scholars have pur sued these lines, but no one can do it alone even in an entire lifetime. No one can hope to discover all the sources or to command so much knowl edge. Scholars such as W. E. B. Du Bois, Benjamin Brawley, Rayford Logan, Franklin Fra zier, John Hope Franklin and Benjamin Quarles have, com mendably and thoroughly, each examined his own length of line.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other prominent scholars, representing a collective effort in the field of African American studies and historical scholarship. This aligns with the definition of Collective Synecdoche, as these figures are used to represent the broader intellectual and academic contributions to the understanding of Black history and culture.
-
-**Codes Applied:**
-- Collective Synecdoche

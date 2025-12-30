@@ -1,0 +1,5 @@
+User: But she invoked her role model, W. E. B. Du Bois. ''Like him, I went to Harvard because it was a great opportunity for me as a black female scholar, and I accepted the reality of racial and sex discrimination,'' she wrote. ''In its role as nurturer of scholars, Harvard never let me down!''
+Assistant: **Justification:** The passage quotes Du Bois directly, and the context suggests this quote is from a scholarly work, likely an academic reflection or statement, given the mention of his role as a scholar and his experience at Harvard. This aligns with the definition of the "Mention of Scholarly Work" code.
+
+**Codes Applied:**
+- Mention of Scholarly Work

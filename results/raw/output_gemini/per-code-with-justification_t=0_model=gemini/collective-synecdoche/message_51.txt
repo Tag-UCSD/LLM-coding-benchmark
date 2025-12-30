@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** Du Bois is mentioned as the author of a specific work, "The Souls of Black Folk," which is being used to describe a phenomenon. He is not mentioned alongside other figures to represent a broader category or concept.
+
+**Codes Applied:**
+    - None

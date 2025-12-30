@@ -1,5 +1,0 @@
-User: Mrs. Du Bois, who now makeS. her home in Cairo, told ;how the “death masks, paintings,; and sculptures” of the. time of'. Cleopatra had “the features of brothers.”
-Assistant: **Justification:** The passage does not mention W.E.B. Du Bois in the context of other famous intellectuals, activists, or public figures. It focuses on Mrs. Du Bois and her observations about historical artifacts, without placing W.E.B. Du Bois in a collective context that represents a culture, era, or ideology.
-
-**Codes Applied:**
-    - None

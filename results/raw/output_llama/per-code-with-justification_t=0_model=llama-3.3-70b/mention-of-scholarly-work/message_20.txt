@@ -1,5 +1,0 @@
-User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of an institute named after him, but it does not reference any of his scholarly works or major theoretical concepts. The mention of Du Bois is related to the naming of an institute, which is more of a general reference to his influence rather than a discussion of his academic ideas. Therefore, the code for Mention of Scholarly Work is not applicable in this case.
-
-**Codes Applied:**
-- None

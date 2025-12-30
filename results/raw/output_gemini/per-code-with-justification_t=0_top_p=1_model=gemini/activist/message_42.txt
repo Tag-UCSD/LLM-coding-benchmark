@@ -1,5 +1,0 @@
-User: Works by black artists are also among the more than 200 varied items to be displayed from the collection of Randolph Linsly Simpson, a white Connecticut businessman whose ancestors espoused the abolition of slavery. Early objects include slave shackles, chains and tags, slave sales bulletins and an antislavery pamphlet written by Jonathan Edwards in 1833. Calling cards and photographs of such famous blacks as Frederick Douglass, W. E. B. Du Bois, Ethel Waters, George Washington Carver and Paul Robeson are mingled with photographs of anonymous black soldiers in the Civil War, shoeshine boys and chimney sweeps.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other famous black figures like Frederick Douglass, Ethel Waters, George Washington Carver, and Paul Robeson, listing him as someone whose calling card and photograph are displayed. However, it does not provide any information about his activism, leadership, or political involvement.
-
-**Codes Applied:**
-    - None

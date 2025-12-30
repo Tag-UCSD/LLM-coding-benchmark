@@ -1,0 +1,5 @@
+User: This — the extent to which democracy in the South threatened to undermine the imperatives of capital — was simply too much for Northern industry to bear. And so it turned against abolition-democracy, already faltering as it was in the face of Southern reaction. “Brute force was allowed to use its unchecked power,” Du Bois writes, “to destroy the possibility of democracy in the South, and thereby make the transition from democracy to plutocracy all the easier and more inevitable.”
+Assistant: **Justification:** Du Bois is quoted directly in this passage, but he is not mentioned alongside other intellectuals or figures to represent a broader concept. The passage focuses on his specific analysis of the post-Reconstruction South rather than using him as a synecdoche for a group or idea.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
-Assistant: **Justification:** The passage discusses W.E.B. Du Bois as a figure known within a household and as part of a movement, but it does not mention any enduring cultural objects being named after him. Therefore, the "Monumental Memorialization" code is not applicable.
-
-**Codes Applied:**
-    - None

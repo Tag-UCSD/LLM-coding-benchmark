@@ -1,0 +1,7 @@
+User: Yet in a diverse society like ours we must have space for all people who share this land with us. This requires knowledge and generosity. Thales must be paired with Imhotep and the pyramids must be seen as the monumental
+                                        icons of the ancient world long before the creation of the “Iliad” and the “Odyssey.” You cannot have a canon, however, in the United States world that avoids the profound works of David
+                                        Walker, Marcus Garvey, W. E. B. Du Bois, James Baldwin, James Weldon Johnson, Toni Morrison, Zora Neale Hurston, Langston Hughes and E. Franklin Frazier, for example.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as an author whose works should be included in a canon of profound works. However, it does not describe any enduring cultural objects being named after him.
+
+**Codes Applied:**
+    - None

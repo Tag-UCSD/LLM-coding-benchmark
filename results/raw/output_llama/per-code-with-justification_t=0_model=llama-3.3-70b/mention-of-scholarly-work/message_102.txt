@@ -1,5 +1,0 @@
-User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
-Assistant: **Justification:** The passage mentions "W. E. B. Du Bois's categorical imperative", which is a concept that originates from Immanuel Kant, not W.E.B. Du Bois. Although Du Bois is mentioned, the concept discussed is not his scholarly work, but rather a term associated with another philosopher. Therefore, the code for Mention of Scholarly Work is not applied.
-
-**Codes Applied:**
-- None

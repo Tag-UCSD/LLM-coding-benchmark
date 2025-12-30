@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois and his work "The Souls of Black Folk," but it does not provide any information about his activism or leadership roles. Therefore, the "Activist" code cannot be applied.
+
+**Codes Applied:**
+    - None

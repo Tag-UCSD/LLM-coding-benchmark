@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage does not mention any enduring cultural object named after Du Bois, such as a prize, award, building, or institution. It only discusses Mr. Lewis's perspective on Du Bois's character and ideals.
+
+**Codes Applied:**
+    - None

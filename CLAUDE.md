@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is an LLM benchmarking project for deductive qualitative coding, replicating and extending "Scalable Qualitative Coding with LLMs" (Dunivin, 2025). The project evaluates multiple LLMs (GPT-4, GPT-3.5, Gemini 2.5 Flash-Lite, Llama 3.3 70B) on closed coding tasks using W.E.B. Du Bois New York Times passages with 9 predefined codes.
+This is an LLM benchmarking project for deductive qualitative coding, replicating and extending "Scalable Qualitative Coding with LLMs" (Dunivin, 2025). The project evaluates multiple LLMs (GPT-4, GPT-3.5, Gemini 2.5 Flash-Lite, Llama 3.3 70B, Qwen 2.5 72B) on closed coding tasks using W.E.B. Du Bois New York Times passages with 9 predefined codes.
+
+**IMPORTANT:** A critical data alignment bug was discovered and fixed in December 2025. All alternative models (Gemini, Llama, Qwen) now use corrected passage loading from `gold_standard_coding.csv` instead of pandas index positions, resulting in positive Kappa values (κ ≈ 0.48) instead of negative values.
 
 **Key Domain Concepts:**
 - **Deductive/Closed Coding:** Applying a fixed, predefined codebook to text passages
@@ -48,18 +50,48 @@ python src/analysis/analyze_llama_results.py
 Rscript src/visualization/create_threeway_visualizations.R
 ```
 
-**Multi-model comparison:**
+**Process and analyze Qwen results:**
 ```bash
-Rscript src/visualization/create_threeway_visualizations.R
+python src/processing/process_qwen_results.py
+python src/analysis/analyze_qwen_results.py
 ```
 
-### Data Collection (requires API keys)
+**Generate Qwen vs Gemini visualizations:**
 ```bash
-python src/collection/resume_gemini.py YOUR_GEMINI_API_KEY
-python src/collection/resume_llama.py YOUR_GROQ_API_KEY
+Rscript src/visualization/create_qwen_gemini_visualizations.R
 ```
 
-**Note:** Collection scripts automatically skip already-coded passages and resume from where they left off.
+**Monitor collection progress:**
+```bash
+python check_progress.py          # Detailed colored output with breakdowns
+./quick_status.sh                 # Quick one-liner status
+```
+
+### Data Collection (requires API key)
+
+**CURRENT METHOD (Recommended):** Unified OpenRouter API for all models
+```bash
+# Collect data for specific model
+python src/collection/run_all_openrouter.py YOUR_OPENROUTER_API_KEY qwen
+python src/collection/run_all_openrouter.py YOUR_OPENROUTER_API_KEY gemini
+python src/collection/run_all_openrouter.py YOUR_OPENROUTER_API_KEY llama
+
+# Monitor progress
+python check_progress.py
+```
+
+**Features:**
+- Automatic rate limit handling with exponential backoff
+- Progress saving and resumption (skips already-coded passages)
+- Correct passage alignment using gold standard IDs
+- Single unified API key for all models
+- Detailed logging to `{model}_collection.log`
+
+**LEGACY METHOD:** Direct API calls (has data alignment bug)
+```bash
+python src/collection/resume_gemini.py YOUR_GEMINI_API_KEY  # ⚠️ BUG - DO NOT USE
+python src/collection/resume_llama.py YOUR_GROQ_API_KEY     # ⚠️ BUG - DO NOT USE
+```
 
 ## Code Architecture
 

@@ -1,5 +1,0 @@
-User: Mr. Page notes that the debate among black Americans over the best road to equality and success did not begin just the other day. Booker T. Washington's post-Civil War vision of gradual economic achievement through education was later written off as appeasement by W. E. B. Du Bois, who demanded full equality at once.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois's critique of Booker T. Washington's vision, specifically referencing Du Bois's demand for "full equality at once." This directly alludes to Du Bois's theoretical stance and his opposition to Washington's approach, which is a core concept within his scholarly work on racial uplift and civil rights.
-
-**Codes Applied:**
-- Mention of Scholarly Work

@@ -1,0 +1,5 @@
+User: Americans are not so inherently virtuous that they can safely disregard the moral discipline that international oversight provides. Wells-Barnett, Du Bois and Robeson understood that from brutal, firsthand experience. Now that Mr. Biden and other white Democrats are tasting disenfranchisement themselves, they need to learn that lesson, too.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside Ida B. Wells-Barnett and Paul Robeson, representing them as key figures who understood the importance of international oversight and the moral discipline it provides. This grouping of prominent intellectuals and activists is used to illustrate a broader point about the experiences and lessons of civil rights and political activism.
+
+**Codes Applied:**
+- Collective Synecdoche

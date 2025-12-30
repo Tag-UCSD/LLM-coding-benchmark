@@ -1,0 +1,5 @@
+User: Sara Lee, Dr. Lee's wife, remembers discussing with Du Bois on Aug. 27, 1963, plans for a march to be held here to coincide with the Aug. 28 march on Washington led by the Rev. Martin Luther King Jr. That evening, Du Bois died, and in Washington, many people learned of his death as they marched.
+Assistant: **Justification:** The passage describes Du Bois's wife discussing plans for a march with him. This focuses on his involvement in organizing and political activity, not his role as a scholar or intellectual. Therefore, the "Scholar" code is not applicable.
+
+**Codes Applied:**
+    - None

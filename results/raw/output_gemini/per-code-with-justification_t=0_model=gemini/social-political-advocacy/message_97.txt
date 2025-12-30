@@ -1,0 +1,5 @@
+User: Outside the church, attempts to organize national self-help groups had checkered histories. Booker T. Washington's National Negro Business League, formed to aid small black businesses, met resistance from both whites and black leaders like W. E. B. Du Bois, who objected to Washington's acceptance of racial segregation.
+Assistant: **Justification:** The passage explicitly mentions W.E.B. Du Bois's objection to Booker T. Washington's acceptance of racial segregation, which constitutes a critique of social norms and a form of advocacy against segregation. This directly aligns with the definition of Social/Political Advocacy as it involves challenging social norms and engaging with systemic circumstances of Black people.
+
+**Codes Applied:**
+- Social/Political Advocacy

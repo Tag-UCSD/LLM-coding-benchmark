@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** The passage explicitly mentions the N.A.A.C.P.'s mission to discover and redress cases of injustice, which is a clear form of social and political advocacy. Du Bois's description of the organization's mission is directly tied to the advocacy for social justice and the protection of marginalized groups.
+
+**Codes Applied:**
+- Social/Political Advocacy

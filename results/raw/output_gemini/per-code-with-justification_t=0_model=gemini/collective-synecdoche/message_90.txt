@@ -1,0 +1,5 @@
+User: Still, Chester Davis, associate chairman of the W. E. B. Du Bois Department of Afro American Studies at the University of Massachusetts, said black studies should not be considered a discipline in the traditional sense.
+Assistant: **Justification:** W.E.B. Du Bois is mentioned here as the namesake of an academic department. This does not fit the definition of Collective Synecdoche, as he is not being used to represent a broader group of intellectuals, activists, or public figures.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: Americans are not so inherently virtuous that they can safely disregard the moral discipline that international oversight provides. Wells-Barnett, Du Bois and Robeson understood that from brutal, firsthand experience. Now that Mr. Biden and other white Democrats are tasting disenfranchisement themselves, they need to learn that lesson, too.
+Assistant: **Justification:** The passage mentions Du Bois alongside other figures who "understood" the need for moral discipline and international oversight due to "brutal, firsthand experience." This implies Du Bois possessed a deep understanding of social and political issues, aligning with the definition of a scholar who analyzes societal structures and experiences.
+
+**Codes Applied:**
+- Scholar

@@ -1,0 +1,5 @@
+User: Now, among other efforts, 30 notable scholars, including Stanley Fish, chairman of the English department at Duke University, and Henry Louis Gates Jr., a professor of English at Harvard University and director of the W. E. B. Du Bois Institute for African-American Research, are organizing a group called Teachers for a Democratic Culture to lead the counteroffensive. They condemn the storm over political correctness, or P.C. -- a grab-bag term used to indict multiculturalism, militant feminism, radical literary theory and everything academic conservatives love to hate -- as an attempt to derail affirmative action and legitimate efforts to revise curriculum.
+Assistant: **Justification:** W.E.B. Du Bois is mentioned as the namesake of an institute directed by Henry Louis Gates Jr. This positions Du Bois as a representative figure within the broader context of African-American scholarship and research, aligning with the definition of Collective Synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

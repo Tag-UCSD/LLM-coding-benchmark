@@ -1,5 +1,0 @@
-User: ''The awards are coming late,'' Mr. Brown said yesterday, noting that it had been ''30 or 40 years,'' since he wrote his last poem. An 80-year-old retired professor of English at Howard University, Mr. Brown said he had been keeping busy preparing a collection of essays for publication and writing his memoirs, including anecdotes about W. E. B. Du Bois and other notable figures he had known and befriended.
-Assistant: **Justification:** The passage mentions that Mr. Brown knew and befriended W.E.B. Du Bois, and is writing memoirs including anecdotes about him. However, it does not describe Du Bois as an agent establishing his reputation through organizational or institutional sponsorship. The focus is on Du Bois as a figure known to the author, not on his active role in building coalitions or his institutional connections.
-
-**Codes Applied:**
-    - None

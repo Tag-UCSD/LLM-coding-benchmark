@@ -1,5 +1,0 @@
-User: It had been a full, though not unusual, day for Cornel West. That morning, he had lectured twice at Princeton: first on W. E. B. Du Bois, Toni Morrison and James Baldwin in a course on Afro-American culture; then on Virginia Woolf, T. S. Eliot, Frantz Fanon and the Zionist philosopher Ahad Ha'am to a class entitled "Religion and Cultural Criticism."
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other prominent intellectuals and cultural figures (Toni Morrison, James Baldwin, Virginia Woolf, T.S. Eliot, Frantz Fanon, and Ahad Ha'am) in the context of a lecture series. This grouping serves to represent a broader cultural and intellectual tradition, fitting the definition of Collective Synecdoche.
-
-**Codes Applied:**
-- Collective Synecdoche

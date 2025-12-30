@@ -1,0 +1,5 @@
+User: When reading Plato about justice, for example, an automobile mechanic may just awaken to a profound and unexpected sense of the good. A Blue Cross customer representative may find W. E. B. Du Bois no less inspiring than Mr. Levine found John Keats.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of a customer representative finding him inspiring. However, the customer representative's role is not described as a leader, activist, or politician, nor is there any indication that their organization is connecting its agenda to Du Bois. Therefore, the criteria for the "Out of the Mouth of Activists" code are not met.
+
+**Codes Applied:**
+    - None

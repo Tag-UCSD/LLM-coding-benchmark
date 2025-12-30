@@ -1,0 +1,5 @@
+User: An award of $375,000 went to David Levering Lewis, the Rutgers professor who won a Pulitzer Prize in 1994 for the first volume of a biography, ''W. E. B. Du Bois: Biography of a Race.''
+Assistant: **Justification:** The passage mentions a Pulitzer Prize, which is an award. However, the award is for a biography *about* Du Bois, not an award *named after* Du Bois. Therefore, the criteria for "Monumental Memorialization" are not met.
+
+**Codes Applied:**
+    - None

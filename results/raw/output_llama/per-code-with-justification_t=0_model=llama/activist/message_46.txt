@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage provided is a biography title and does not explicitly mention Du Bois as an "activist" or "leader", nor does it imply his political or social activism through context. The title suggests a focus on Du Bois' life and fight for equality, but without more information, it does not clearly imply activism. 
+
+**Codes Applied:**
+- None

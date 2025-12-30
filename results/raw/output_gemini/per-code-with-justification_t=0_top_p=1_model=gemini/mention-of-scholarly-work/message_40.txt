@@ -1,5 +1,0 @@
-User: It was on Mr. Nkrumah's invitation that Du Bois moved here in 1960. He had been unable to travel from 1952 to 1958 because the United States Government had taken away his passport. Embittered by the experience, Du Bois toured Eastern bloc capitals as soon as his passport was returned. In Moscow, on May Day 1959, he received the Lenin Peace Prize.
-Assistant: **Justification:** The passage discusses W.E.B. Du Bois's personal life and political activities, specifically his move to Ghana, the revocation and return of his passport, and his receipt of the Lenin Peace Prize. There is no mention or quotation of his scholarly works or theoretical concepts.
-
-**Codes Applied:**
-    - None

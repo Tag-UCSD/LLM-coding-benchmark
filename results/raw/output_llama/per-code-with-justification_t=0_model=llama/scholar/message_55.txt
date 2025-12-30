@@ -1,0 +1,5 @@
+User: This — the extent to which democracy in the South threatened to undermine the imperatives of capital — was simply too much for Northern industry to bear. And so it turned against abolition-democracy, already faltering as it was in the face of Southern reaction. “Brute force was allowed to use its unchecked power,” Du Bois writes, “to destroy the possibility of democracy in the South, and thereby make the transition from democracy to plutocracy all the easier and more inevitable.”
+Assistant: **Justification:** The passage quotes Du Bois' writing on social theory, specifically his ideas about the relationship between democracy, capital, and power, which demonstrates his intellectual work as a scholar. The context is focused on his written ideas, rather than any activist or organizing efforts. By invoking Du Bois through his written work, the passage presents him as a scholar of social theory.
+
+**Codes Applied:**
+- Scholar

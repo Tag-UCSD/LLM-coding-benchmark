@@ -1,0 +1,5 @@
+User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in a hypothetical conversation where a child wants to discuss his "categorical imperative." While Du Bois was a prominent figure in social and political advocacy, this specific mention does not engage with his work in relation to social problems, activism, or the critique of social norms. The context is a humorous, domestic scenario focused on a philosophical concept rather than Du Bois's advocacy.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: A central theme is race, which brought the group to the Lynchburg home of Ann Spencer, the dominant poet of the Harlem renaissance of the 1920's. Against a glowing violet sunset, by the pond where Mrs. Spencer once counseled George Washington Carver, Booker T. Washington and W. E. B. Du Bois, the group discussed the early days of the civil rights movement. 
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois in the context of a historical location where he once visited, but it does not involve a specific member of an academic organization discussing Du Bois or his work. Therefore, the code "Out of the Mouth of Academics" is not applicable.
+
+**Codes Applied:**
+    - None

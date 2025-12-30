@@ -1,5 +1,0 @@
-User: Earlier this year the Justice Department overruled State De partment approval of Mrs. Du Bois's request for a visa. Born in New York 71 years ago, she is now a Ghanaian citizen and lives in Cairo.
-Assistant: **Justification:** The passage discusses Mrs. Du Bois's visa request and her current citizenship and residence. There is no mention of W.E.B. Du Bois himself, nor any reference to his activism or leadership.
-
-**Codes Applied:**
-    - None

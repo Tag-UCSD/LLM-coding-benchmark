@@ -1,0 +1,5 @@
+User:  The Pulitzer Prizes, administered by Columbia University, also focused on the issue of race in one of the arts awards. David Levering Lewis was awarded his second prize in biography for "W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963," the second volume in a series published by Henry Holt & Company. Mr. Lewis had won a Pulitzer Prize for biography in 1994 for the first volume, which covered Du Bois's life from 1868 to 1919. 
+Assistant: **Justification:** The passage mentions the Pulitzer Prizes, which are a form of award. While the award itself is not named after Du Bois, it is a significant cultural object that is being discussed in relation to him. The Pulitzer Prize is a prestigious award that recognizes excellence in journalism and the arts, and its connection to Du Bois through the biography written about him signifies a form of memorialization.
+
+**Codes Applied:**
+- Monumental Memorialization

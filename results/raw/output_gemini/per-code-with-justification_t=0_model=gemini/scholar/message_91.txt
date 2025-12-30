@@ -1,0 +1,5 @@
+User: Attired in a blue suit, one hand clutching a piece of chalk, the other a well-worn copy of W. E. B. Du Bois's ''The Souls of Black Folk,'' he paced back and forth, arms out, leaning forward, bending back, voice rising and falling, one foot in the academy, the other in the pulpit. ''Will we be able to talk about race in such a way we can get beyond the finger-pointing and name calling and actually be self-critical and critical of each other so we can be empowered and enabled instead of paralyzed and debilitated?'' he said. ''It's so easy to talk about race in America, Du Bois would say, in a way in which we're paralyzed, and debilitated or just completely depressed.''
+Assistant: **Justification:** The passage describes Du Bois as someone whose ideas are invoked to discuss race and empowerment, specifically referencing his work "The Souls of Black Folk." The speaker uses Du Bois's perspective to frame a discussion about self-criticism and overcoming paralysis in conversations about race, aligning with the definition of Du Bois being described through his social theory.
+
+**Codes Applied:**
+- Scholar

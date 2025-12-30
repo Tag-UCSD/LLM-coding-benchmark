@@ -1,0 +1,5 @@
+User: The historians include three Pulitzer Prize winners: Taylor Branch, author of "Parting the Waters," a biography of the Rev. Dr. Martin Luther King Jr.; David Garrow, author of "Bearing the Cross," another biography of Dr. King, and David L. Lewis, author of a recent biography of W. E. B. Du Bois.
+Assistant: **Justification:** The passage mentions David L. Lewis's biography of W. E. B. Du Bois but does not discuss any social or political advocacy related to Du Bois or his work. The focus is on the authors and their biographical works, not on the content of Du Bois's advocacy.
+
+**Codes Applied:**
+    - None

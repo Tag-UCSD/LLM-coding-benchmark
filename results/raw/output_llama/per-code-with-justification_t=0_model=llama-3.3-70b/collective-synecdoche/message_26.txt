@@ -1,5 +1,0 @@
-User: Middle-class enclaves, like Jamaica and St. Albans in Queens, are feeding this exodus. Black luminaries — like James Brown, W. E. B. Du Bois and Ella Fitzgerald — once lived in St. Albans, a neighborhood that is now being hit by high unemployment and foreclosures. 
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other famous Black figures, James Brown and Ella Fitzgerald, to represent the neighborhood of St. Albans' historical connection to Black excellence and cultural significance. This grouping of notable individuals serves to symbolize the area's past reputation and intellectual heritage. By mentioning Du Bois in this context, the author is using him as part of a collective representation of Black cultural and intellectual achievement.
-
-**Codes Applied:**
-- Collective Synecdoche

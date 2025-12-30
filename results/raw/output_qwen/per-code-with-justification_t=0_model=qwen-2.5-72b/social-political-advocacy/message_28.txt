@@ -1,5 +1,0 @@
-User: That’s why Du Bois’s appeal to the world remains so relevant. By impeding Black voters, the United States still violates the democratic principles it has helped enshrine into international law. After observing America’s 2018 midterm elections, a team from the Organization for Security and Cooperation in Europe cataloged a long list of undemocratic practices, from the disenfranchisement of former prisoners to the District of Columbia’s lack of congressional representation to discriminatory voter identification laws, and concluded that, in critical ways, American elections “contravene O.S.C.E. commitments and international standards with regard to universal and equal suffrage.”
-Assistant: **Justification:** The passage explicitly mentions the ongoing issues of voter disenfranchisement and undemocratic practices in the United States, which are forms of social and political advocacy. It also references Du Bois's relevance in the context of these issues, indicating that his work and ideas are invoked to critique and challenge current systemic problems affecting Black voters.
-
-**Codes Applied:**
-- Social/Political Advocacy

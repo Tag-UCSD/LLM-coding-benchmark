@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** The passage mentions Du Bois in the context of a scholarly debate with Booker T. Washington, but it does not explicitly call him an "activist" or describe his political or social activism. While the debate itself could be seen as a form of activism, the passage does not provide enough context to clearly imply his role as an activist.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
+Assistant: **Justification:** The passage mentions Justice Sotomayor citing W. E. B. Du Bois, but Justice Sotomayor is not a member of an academic organization. The context is a legal dissent, not an academic discussion.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: The late C. Wright Mills—isolated and harassed because of his radicalism —once remarked that all social science for the past century and a halt is a dialogue with Marx. I think he was right. One will find upon examining the writings of American scholars such as Charles A. Beard, John R. Commons, Albion W. Small, Thorstein Veblen, W. E. B. Du Bois and E. R. A. Seligman that though most did not find Marxism fully persuasive, they all treated Marxism as one of the most illuminating forms of thought in existence
+Assistant: **Justification:** The passage explicitly states that Du Bois, along with other American scholars, engaged with Marxism as an illuminating form of thought. This directly aligns with the definition of "Scholar" as it describes Du Bois's intellectual engagement with social theory.
+
+**Codes Applied:**
+- Scholar

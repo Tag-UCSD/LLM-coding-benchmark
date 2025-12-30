@@ -1,0 +1,5 @@
+User: David Levering Lewis, the Pulitzer Prize-winning biographer of W. E. B. Du Bois and an eminent black historian who considers President Bush's policies on Iraq ''a menace,'' was flabbergasted when he received an invitation from Laura Bush's office to be the keynote speaker at a White House symposium on the writers of the Harlem Renaissance.
+Assistant: **Justification:** The passage mentions W. E. B. Du Bois in the context of David Levering Lewis being a biographer of Du Bois, but it does not reference any enduring cultural object named after Du Bois. Therefore, the code "Monumental Memorialization" does not apply.
+
+**Codes Applied:**
+    - None

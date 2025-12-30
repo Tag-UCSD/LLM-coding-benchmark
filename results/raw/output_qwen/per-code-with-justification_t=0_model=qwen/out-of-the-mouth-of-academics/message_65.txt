@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The passage does not indicate that Mr. Gelobter is a member of an academic organization or that he is engaging with Du Bois's work in an academic context. The reference to Du Bois is made in a general discussion and does not meet the criteria for the "Out of the Mouth of Academics" code.
+
+**Codes Applied:**
+    - None

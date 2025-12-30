@@ -1,5 +1,0 @@
-User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
-Assistant: **Justification:** The passage mentions Mrs. Dukes referencing W.E.B. Du Bois, implying she is a leader or figure of authority, likely due to her confidence in speaking about the survival of an organization or community over 85 years. This suggests she may be an activist or leader, and her reference to Du Bois connects his legacy to the community's survival. Therefore, the code "Out of the Mouth of Activists" is applied.
-
-**Codes Applied:**
-- Out of the Mouth of Activists

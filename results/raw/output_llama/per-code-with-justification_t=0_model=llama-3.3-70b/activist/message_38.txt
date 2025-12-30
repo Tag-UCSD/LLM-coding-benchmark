@@ -1,5 +1,0 @@
-User: The earlier estimates had been based on supposition, as it turned out. Mr. Curtin’s figure, based on scrutiny of shipping contracts and port data, was substantially less than the widely repeated figure of 20 million, which, he showed, was an extrapolation from now-lost records pertaining to Jamaica, and the figure of 15 million used by W. E. B. Du Bois, who repeated a figure arrived at by Edward Dunbar, a 19th-century abolitionist. 
-Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or "leader", nor does it clearly imply his political or social activism through context. It mentions Du Bois in relation to a figure he used, which was arrived at by an abolitionist, but this does not necessarily imply activism. The focus of the passage is on the estimates and figures, rather than Du Bois' actions or role as an activist.
-
-**Codes Applied:**
-- None

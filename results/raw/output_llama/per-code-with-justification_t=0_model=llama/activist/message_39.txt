@@ -1,0 +1,5 @@
+User: Writing in Black Commentator, an online journal, Professor Kilson called the use of the epithet an insult to black people and to former Harvard teachers like Du Bois, Ralph J. Bunche and John Hope Franklin.
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or "leader", nor does it mention his political or social activism. It only mentions him as a former Harvard teacher, alongside other notable figures, in the context of an insult being directed towards black people. There is no clear implication of his activism or leadership in this passage.
+
+**Codes Applied:**
+- None

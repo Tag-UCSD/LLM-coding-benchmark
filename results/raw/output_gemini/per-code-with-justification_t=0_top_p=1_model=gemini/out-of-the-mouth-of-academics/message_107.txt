@@ -1,5 +1,0 @@
-User: Prof. Thomas Sowell's article on the “atypical” background of black leaders is faulty on several counts and disturbing in its implications. He first asserts, without documentation, that those black leaders who are descendants of those who were free before the Civil War have different priorities from the black populace in general. He further elucidates by referring to them as “light‐skinned.” He adds insult to injury by naming W. E. B. Du Bois and Thurgood Marshall as examples. Even a cursory reading of Afro‐American history will show, without question, that both these men placed the liberation of black people as their highest priority.
-Assistant: **Justification:** The passage discusses Professor Thomas Sowell's article, which references W.E.B. Du Bois. Sowell, an academic, is engaging with Du Bois's work and legacy by using him as an example in his argument. This fits the definition of the "Out of the Mouth of Academics" code.
-
-**Codes Applied:**
-- Out of the Mouth of Academics

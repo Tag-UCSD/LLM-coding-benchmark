@@ -1,5 +1,0 @@
-User: The New York Times, The Wall Street Journal, The Chicago Tribune and The Oregonian in Portland each received two awards. The author David Levering Lewis was among the winners in the arts for ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963.'' B8
-Assistant: **Justification:** The passage mentions an award won by an author for a book titled "W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963", but it does not mention an enduring cultural object being named after Du Bois. The book title is not considered a monumental memorialization according to the definition provided, as it is a book title, not a prize, award, building, or other type of cultural object being named after Du Bois.
-
-**Codes Applied:**
-- None

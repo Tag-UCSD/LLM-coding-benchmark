@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage indicates that Du Bois is critical of the idea that historical evils should be forgotten or distorted, which implies a form of social and political advocacy. This aligns with the definition of the code as it involves challenging historical narratives and engaging with the systemic circumstances of Black people.
+
+**Codes Applied:**
+- Social/Political Advocacy

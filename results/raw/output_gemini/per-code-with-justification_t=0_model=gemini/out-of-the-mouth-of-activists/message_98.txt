@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** The passage describes a historical disagreement between W.E.B. Du Bois and Booker T. Washington. While both were civic leaders, the passage does not indicate that either is referencing or drawing upon Du Bois's work or legacy in the context of their leadership or activism. It simply describes a past intellectual debate.
+
+**Codes Applied:**
+    - None

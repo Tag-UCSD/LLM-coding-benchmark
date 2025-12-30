@@ -1,5 +1,0 @@
-User: As they gazed up the hill from ''the valley,'' as central Harlem was sometimes called, Harlemites saw a shimmering bluff that would, from 1929 until midcentury, become a hub of elite black society. The names of those who lived there read like a Who's Who of black history: Ralph Ellison, Thurgood Marshall, Joe Louis, W. E. B. Du Bois, James Baldwin, Adam Clayton Powell Sr., Zora Neale Hurston, Duke Ellington and Paul Robeson, to name a few.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other prominent figures in black history, representing a collective of influential intellectuals, activists, and artists. This grouping serves to symbolize the cultural and intellectual significance of the area during a specific era.
-
-**Codes Applied:**
-- Collective Synecdoche

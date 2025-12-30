@@ -1,0 +1,5 @@
+User: This claim is itself open to argument, which is why I included it in the article. But it does no service to the cause of multicultural literature to stretch it beyond recognition as Mr. Gates has mistakenly done. I cannot imagine in a world filled with the works of W. E. B. Du Bois, James Baldwin, Richard Wright, Toni Morrison and even Henry Louis Gates that Mr. Adler would not consider the statement attributed to him to be preposterous. ERIC ALTERMAN Washington, May 26, 1991
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other prominent African American writers and intellectuals (James Baldwin, Richard Wright, Toni Morrison, and Henry Louis Gates) to represent a collective body of significant Black literature and thought. This usage fits the definition of Collective Synecdoche, as these figures are invoked to symbolize the richness and importance of multicultural literature.
+
+**Codes Applied:**
+- Collective Synecdoche

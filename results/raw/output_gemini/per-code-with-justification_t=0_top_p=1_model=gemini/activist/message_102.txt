@@ -1,5 +1,0 @@
-User: Not to discuss Aristotle, W. E. B. Du Bois and Carrie Chapman Catt, surely. Imagine a phone ringing at dinner time. Mother answers the call, listens, says, ''Father, it is our dear child phoning all the way from Stanford to talk to you.'' Father: Wants another cash infusion, I suppose. Mother: No, dear, it wants to discuss W. E. B. Du Bois's categorical imperative with you.
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois in a hypothetical conversation about his "categorical imperative." While this references his intellectual contributions, it does not provide any information about his activism, leadership, or involvement in political or social movements. Therefore, the "Activist" code cannot be applied.
-
-**Codes Applied:**
-    - None

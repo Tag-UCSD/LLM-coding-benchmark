@@ -1,6 +1,0 @@
-User: Jack Kerouac’s former Ozone Park home will be part of a historic spring trolley tour through
-                                        Queens that also includes the wedding site of W. E. B. Du Bois, Jackie Robinson’s home and Malcolm X’s home. [Daily News]
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other famous figures, specifically Jackie Robinson and Malcolm X, who are all prominent African American historical figures. This grouping represents a facet of African American culture and history. By including Du Bois in this list, the passage uses him as a symbol of significant African American achievement and intellectual leadership.
-
-**Codes Applied:**
-- Collective Synecdoche

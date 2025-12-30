@@ -1,5 +1,0 @@
-User: Vernon Jordan, a former adviser to President Clinton, suggested in a telephone interview that Mr. West — perhaps beginning with the classical education imparted by his parents — seemed destined to join the one in 10 black men whom W. E. B. Du Bois predicted at the dawn of the 20th century would become African-American leaders. “He went to school and to law school inspired to serve the best interests of the community because he was one who understood Du Bois’s mandate to the ‘Talented Tenth,’ ” Mr. Jordan said. “Du Bois would be pleased with his legacy.”
-Assistant: **Justification:** The passage explicitly states that Du Bois predicted a certain group of Black men would become African-American leaders, and that Cornel West was inspired by Du Bois's "Talented Tenth" mandate to serve the community. This directly connects Du Bois to his intellectual contributions and social theory regarding leadership within the Black community.
-
-**Codes Applied:**
-- Scholar

@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage does not mention any specific scholarly work or theoretical concepts by W.E.B. Du Bois. It focuses on Mr. Lewis's perspective on Du Bois as a conflicted figure, which is a general reference to his character and actions rather than his academic contributions.
+
+**Codes Applied:**
+    - None

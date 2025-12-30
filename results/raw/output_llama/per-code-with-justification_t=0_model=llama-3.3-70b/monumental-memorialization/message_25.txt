@@ -1,5 +1,0 @@
-User: But Guralnick is out to destroy gods and undo celebrity, or, as he puts it, to "rescue" Elvis from "both his detractors and admirers." Sometimes, the pages, the research, the interviews and especially the objectivity are necessary to make a subject human again. This can be true because the subject is an icon like Elvis or because the life truly was monumental -- here I'm thinking of David Levering Lewis on W. E. B. Du Bois (two volumes and 1,360 pages).
-Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it references a biography written by David Levering Lewis about Du Bois, which does not fit the definition of the Monumental Memorialization code. The mention of Du Bois is in the context of comparing biographical subjects, not in relation to a named object or entity.
-
-**Codes Applied:**
-- None

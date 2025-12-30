@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage focuses on Du Bois's personal reaction to the idea of historical distortion and does not describe him as building coalitions or establishing his reputation through organizational sponsorship. Therefore, the "Coalition Building" code is not applicable.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** The passage describes W.E.B. Du Bois as a "scholar" and references his intellectual critique of Booker T. Washington's views, which relates to social theory and racial identity. This explicit description and context meet the criteria for the "Scholar" code. The passage highlights Du Bois' intellectual engagement with issues of racial identity and social theory, rather than solely focusing on his activism or historical study.
+
+**Codes Applied:**
+- Scholar

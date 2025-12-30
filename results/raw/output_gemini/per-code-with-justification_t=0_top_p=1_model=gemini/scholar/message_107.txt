@@ -1,5 +1,0 @@
-User: Prof. Thomas Sowell's article on the “atypical” background of black leaders is faulty on several counts and disturbing in its implications. He first asserts, without documentation, that those black leaders who are descendants of those who were free before the Civil War have different priorities from the black populace in general. He further elucidates by referring to them as “light‐skinned.” He adds insult to injury by naming W. E. B. Du Bois and Thurgood Marshall as examples. Even a cursory reading of Afro‐American history will show, without question, that both these men placed the liberation of black people as their highest priority.
-Assistant: **Justification:** The passage describes Du Bois as someone who placed "the liberation of black people as their highest priority." This directly aligns with the definition of "Scholar" when Du Bois is invoked through his ideas on social theory related to Black politics and racial identity, even if it also touches on his activism. The context emphasizes his intellectual contribution to the cause of Black liberation.
-
-**Codes Applied:**
-- Scholar

@@ -1,5 +1,0 @@
-User: I am not siding with the revolution here. Though not required in college to read the works of W. E. B. Du Bois and Carrie Chapman Catt, I am confident I could have found them just as conducive to deep coma as Aristotle was.
-Assistant: **Justification:** The passage does not apply the code because the author is not described as a leader, activist, or politician, and does not reference or draw upon W.E.B. Du Bois's work or legacy in a way that connects their agenda to his. The author is simply mentioning Du Bois as an example of an author they might have found boring to read, without any implication of activism or leadership.
-
-**Codes Applied:**
-- None

@@ -1,5 +1,0 @@
-User: Mr. Page notes that the debate among black Americans over the best road to equality and success did not begin just the other day. Booker T. Washington's post-Civil War vision of gradual economic achievement through education was later written off as appeasement by W. E. B. Du Bois, who demanded full equality at once.
-Assistant: **Justification:** The passage does not describe Du Bois as establishing his reputation through organizational and institutional sponsorship, but rather presents his views in opposition to Booker T. Washington's. There is no mention of Du Bois working with or being sponsored by any organizations or institutions to build his reputation. The focus is on his demands for full equality, rather than his relationships with other groups or institutions.
-
-**Codes Applied:**
-- None

@@ -1,0 +1,5 @@
+User: Mr. Morgan said Dr. Jeffries called The Crimson a "Jewish newspaper" and made derogatory comments about Henry Louis Gates Jr., director of Harvard's W. E. B. Du Bois Institute for African-American Research.
+Assistant: **Justification:** The passage mentions the "W. E. B. Du Bois Institute for African-American Research," which is an institute named after Du Bois. This fits the definition of "Monumental Memorialization" as it refers to an enduring cultural object named in his honor.
+
+**Codes Applied:**
+- Monumental Memorialization

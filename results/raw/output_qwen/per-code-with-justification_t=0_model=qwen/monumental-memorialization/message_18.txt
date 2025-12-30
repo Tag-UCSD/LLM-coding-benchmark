@@ -1,0 +1,5 @@
+User: Du Bois, by his own account, is “astonished” by the idea that the evil of history must be “forgotten, distorted, skimmed over.”
+Assistant: **Justification:** The passage does not mention any enduring cultural object named after Du Bois, such as a prize, award, building, or organization. It focuses on Du Bois's own thoughts and reactions to historical memory.
+
+**Codes Applied:**
+    - None

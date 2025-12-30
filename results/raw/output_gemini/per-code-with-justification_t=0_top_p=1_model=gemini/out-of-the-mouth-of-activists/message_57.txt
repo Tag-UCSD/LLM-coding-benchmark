@@ -1,5 +1,0 @@
-User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
-Assistant: **Justification:** Justice Sotomayor is a political figure (a Supreme Court Justice) and she is referencing W.E.B. Du Bois's work in a dissent. This aligns with the definition of the "Out of the Mouth of Activists" code, which includes political figures referencing Du Bois's work.
-
-**Codes Applied:**
-- Out of the Mouth of Activists

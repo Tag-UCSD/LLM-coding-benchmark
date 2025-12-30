@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage describes John Lewis, a prominent figure in the Civil Rights Movement, referencing W.E.B. Du Bois's work and legacy. Lewis's role as an activist is implied by his childhood meeting with Du Bois and his subsequent interpretation of Du Bois's ideals and contradictions.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

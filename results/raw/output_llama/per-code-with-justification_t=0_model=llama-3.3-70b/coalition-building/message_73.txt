@@ -1,5 +1,0 @@
-User: Some Ghanaians and Americans here say that the recent tributes paid Du Bois are part of an attempt by Ghana's Government to rehabilitate Kwame Nkrumah, Ghana's first President. Mr. Nkrumah, a Socialist, was overthrown in a 1966 army coup and died in exile. Ghana's current Government is reviewing designs for Accra's first large memorial to Mr. Nkrumah.
-Assistant: **Justification:** The passage does not mention Du Bois as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it discusses the potential motivations behind tributes paid to Du Bois in the context of Ghana's government and its relationship with Kwame Nkrumah. There is no indication of Du Bois building coalitions or establishing his reputation through organizational sponsorship.
-
-**Codes Applied:**
-- None

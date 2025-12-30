@@ -1,5 +1,0 @@
-User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
-Assistant: **Justification:** The passage mentions a book titled "Black Reconstruction in America, 1860-1880" written by W. E. B. Du Bois, which does not fit the definition of Monumental Memorialization as it is a book title, not an enduring cultural object such as a prize, building, or institute named after Du Bois. The code is not applied because the definition specifically excludes book titles. The passage is referencing Du Bois as the author of the book, not as the namesake of a cultural object.
-
-**Codes Applied:**
-- None

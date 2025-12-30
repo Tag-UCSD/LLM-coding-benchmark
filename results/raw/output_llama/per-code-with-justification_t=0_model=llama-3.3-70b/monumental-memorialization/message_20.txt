@@ -1,5 +1,0 @@
-User: Dr. Leonard was assistant dean of Howard University School of Law when he left for Harvard. At Harvard he was chairman of the committee that created the university’s W. E. B. Du Bois Institute for Afro-American Research.
-Assistant: **Justification:** The passage mentions the creation of the W. E. B. Du Bois Institute for Afro-American Research, which is an enduring cultural object named after Du Bois. This directly aligns with the definition of Monumental Memorialization, as it involves the naming of an institute after Du Bois. The institute is a type of cultural object that is specifically mentioned in the definition as an example of something that would qualify for this code.
-
-**Codes Applied:**
-- Monumental Memorialization

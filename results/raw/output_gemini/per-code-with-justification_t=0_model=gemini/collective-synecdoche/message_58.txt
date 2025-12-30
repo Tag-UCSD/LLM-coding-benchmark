@@ -1,0 +1,5 @@
+User: Victory would anoint New York a world capital, but the fruits were ephemeral and, for some, illusory. In 1919, W. E. B. Du Bois hailed returning blacks from the 369th Infantry Regiment as “soldiers of democracy” who should “return fighting” for that ideal at home. It would be a long time coming.
+Assistant: **Justification:** Du Bois is mentioned in the context of his role as an intellectual and activist, specifically in relation to his commentary on the "soldiers of democracy" and the fight for civil rights. This positions him as a representative figure for a particular facet of Black intellectual and activist history.
+
+**Codes Applied:**
+- Collective Synecdoche

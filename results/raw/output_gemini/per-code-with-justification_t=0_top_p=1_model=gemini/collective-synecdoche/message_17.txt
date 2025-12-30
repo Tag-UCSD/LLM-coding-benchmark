@@ -1,5 +1,0 @@
-User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
-Assistant: **Justification:** W.E.B. Du Bois is mentioned as a representative of a specific historical period ("the W. E. B. Du Bois period"), alongside other named eras like "Black Power" and "Negro era." This positions him as a symbol for a particular phase in history, fitting the definition of collective synecdoche.
-
-**Codes Applied:**
-- Collective Synecdoche

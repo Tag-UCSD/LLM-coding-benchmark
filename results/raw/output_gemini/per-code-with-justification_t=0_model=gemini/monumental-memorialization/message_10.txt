@@ -1,0 +1,5 @@
+User: When reading Plato about justice, for example, an automobile mechanic may just awaken to a profound and unexpected sense of the good. A Blue Cross customer representative may find W. E. B. Du Bois no less inspiring than Mr. Levine found John Keats.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as an inspiring figure, but it does not describe any enduring cultural objects being named after him. Therefore, the "Monumental Memorialization" code does not apply.
+
+**Codes Applied:**
+    - None

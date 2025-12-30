@@ -1,5 +1,0 @@
-User: Vernon Jordan, a former adviser to President Clinton, suggested in a telephone interview that Mr. West — perhaps beginning with the classical education imparted by his parents — seemed destined to join the one in 10 black men whom W. E. B. Du Bois predicted at the dawn of the 20th century would become African-American leaders. “He went to school and to law school inspired to serve the best interests of the community because he was one who understood Du Bois’s mandate to the ‘Talented Tenth,’ ” Mr. Jordan said. “Du Bois would be pleased with his legacy.”
-Assistant: **Justification:** Vernon Jordan, a former adviser to President Clinton, is described as a leader and is referencing W.E.B. Du Bois's work and legacy in the context of discussing Cornel West's education and leadership. This aligns with the definition of the "Out of the Mouth of Activists" code.
-
-**Codes Applied:**
-- Out of the Mouth of Activists

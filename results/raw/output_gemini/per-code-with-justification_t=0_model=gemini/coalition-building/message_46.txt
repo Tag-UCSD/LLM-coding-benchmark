@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage is a book title and does not describe Du Bois as an agent establishing his reputation through organizational or institutional sponsorship. It merely identifies a biography about him.
+
+**Codes Applied:**
+    - None

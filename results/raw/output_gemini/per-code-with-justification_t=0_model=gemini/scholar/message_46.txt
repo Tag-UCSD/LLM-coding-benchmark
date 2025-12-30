@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage only mentions a biography about Du Bois and does not describe him as a scholar or intellectual. The context is purely about the existence of a book, not an analysis of Du Bois's role or contributions.
+
+**Codes Applied:**
+    - None

@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** This passage references a specific work by Du Bois, "The Souls of Black Folk", which is a foundational text in social theory and racial identity, implying that Du Bois is being invoked as a scholar. The passage does not merely mention Du Bois as a historical figure, but rather engages with his ideas, suggesting that he is being considered as a thinker and intellectual. This meets the criteria for the "Scholar" code.
+
+**Codes Applied:**
+- Scholar

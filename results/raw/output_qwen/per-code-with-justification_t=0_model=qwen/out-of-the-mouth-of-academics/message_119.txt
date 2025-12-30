@@ -1,0 +1,5 @@
+User: But she invoked her role model, W. E. B. Du Bois. ''Like him, I went to Harvard because it was a great opportunity for me as a black female scholar, and I accepted the reality of racial and sex discrimination,'' she wrote. ''In its role as nurturer of scholars, Harvard never let me down!''
+Assistant: **Justification:** The passage does not indicate that a specific member of an academic organization is engaging with Du Bois's work or discussing Du Bois. The speaker is invoking Du Bois as a role model and discussing her own experience at Harvard, but this does not meet the criteria for the "Out of the Mouth of Academics" code.
+
+**Codes Applied:**
+    - None

@@ -1,5 +1,0 @@
-User: If not, try to imagine Father taking the phone, saying, ''Dear child, the categorical imperative was not W. E. B. Du Bois's; it was Immanuel Kant's. Which reminds me, I knew you hadn't been reading your Immanuel Kant, much less anything at all, when I got your postcard from Carmel-by-the-Sea saying you were 'having a wondurfull time reding ''The Criteek of Pure Reeson'' by Emanuel Can't.' ''
-Assistant: **Justification:** The passage does not mention any of W.E.B. Du Bois's scholarly works or key academic concepts. Instead, it references Immanuel Kant and his work, "The Critique of Pure Reason." The mention of Du Bois is only to clarify that the categorical imperative is not his concept, but Kant's. Therefore, the code "Mention of Scholarly Work" is not applicable.
-
-**Codes Applied:**
-    - None

@@ -1,5 +1,0 @@
-User: What effect, many of us have worried, would this unprecedented rise in prosperity have on the New Millennials? Would they heed Du Bois’s call, as students like John Lewis and Julian Bond, Charlayne Hunter and Diane Nash did under the leadership of the “Negro Gandhi” presciently predicted by Du Bois back in 1948?
-Assistant: **Justification:** The passage mentions Du Bois in the context of his call to action and the leadership of figures like John Lewis and Julian Bond, which implies his role as an activist and leader. However, it does not explicitly call Du Bois an "activist" or "leader" or directly describe his activism. The context strongly suggests his influence and leadership, but it is not explicit enough to definitively apply the "Activist" code.
-
-**Codes Applied:**
-    - None

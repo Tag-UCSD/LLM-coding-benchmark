@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** The passage describes W.E.B. Du Bois as a scholar and discusses his engagement with Booker T. Washington. However, it does not indicate that Du Bois is currently affiliated with an academic organization or that an activist organization has named itself after him. Therefore, the "Out of the Mouth of Academics" code is not applicable.
+
+**Codes Applied:**
+    - None

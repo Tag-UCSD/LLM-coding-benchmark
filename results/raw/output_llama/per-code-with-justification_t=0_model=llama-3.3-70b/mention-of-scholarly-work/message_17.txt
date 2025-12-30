@@ -1,5 +1,0 @@
-User: "We've been through the Black Power era, the Negro era and the W. E. B. Du Bois period," Mrs. Dukes said. "We've survived 85 years. I'm confident we can survive this."
-Assistant: **Justification:** The passage mentions W.E.B. Du Bois, but it does not reference any of his scholarly works or major theoretical concepts. Instead, it appears to be using his name to denote a time period, which is a general reference to his influence rather than a specific mention of his academic ideas. Therefore, the code for Mention of Scholarly Work is not applicable.
-
-**Codes Applied:**
-- None

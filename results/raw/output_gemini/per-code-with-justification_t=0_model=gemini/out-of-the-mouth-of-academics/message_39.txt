@@ -1,0 +1,5 @@
+User: Writing in Black Commentator, an online journal, Professor Kilson called the use of the epithet an insult to black people and to former Harvard teachers like Du Bois, Ralph J. Bunche and John Hope Franklin.
+Assistant: **Justification:** The passage explicitly mentions Professor Kilson, an academic, engaging with Du Bois's work by referencing him as a former Harvard teacher and an individual insulted by the use of an epithet. This aligns with the definition of the "Out of the Mouth of Academics" code, which is applied when an academic discusses Du Bois's work or represents him as a concept.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

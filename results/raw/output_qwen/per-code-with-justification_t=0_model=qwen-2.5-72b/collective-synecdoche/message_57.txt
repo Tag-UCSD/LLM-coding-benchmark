@@ -1,5 +1,0 @@
-User: In a dissent that cited W. E. B. Du Bois, James Baldwin and Ta-Nehisi Coates, Justice Sotomayor said the court had vastly expanded police power.
-Assistant: **Justification:** The passage mentions W. E. B. Du Bois alongside James Baldwin and Ta-Nehisi Coates, which represents a collective of influential Black intellectuals and civil rights activists. This grouping serves to highlight a broader cultural and intellectual tradition, fitting the definition of Collective Synecdoche.
-
-**Codes Applied:**
-- Collective Synecdoche

@@ -1,0 +1,5 @@
+User: During a career of scholarship, teaching and advocacy that spanned more than 70 years, Dr. Franklin was deeply involved in the painful debates that helped reshape America’s racial identity, working with the Rev. Dr. Martin Luther King Jr., W. E. B. Du Bois, Thurgood Marshall and other major civil rights figures of the 20th century.
+Assistant: **Justification:** The passage mentions Dr. Franklin, who is implied to be an academic through the description of his "career of scholarship, teaching and advocacy." He is described as working with W.E.B. Du Bois, indicating an engagement with Du Bois's work or representation of a concept by an academic.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

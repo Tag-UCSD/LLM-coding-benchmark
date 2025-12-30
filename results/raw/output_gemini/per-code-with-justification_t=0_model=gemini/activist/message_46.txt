@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage is a book title and does not contain information about Du Bois's actions or roles. Therefore, the "Activist" code cannot be applied.
+
+**Codes Applied:**
+    - None

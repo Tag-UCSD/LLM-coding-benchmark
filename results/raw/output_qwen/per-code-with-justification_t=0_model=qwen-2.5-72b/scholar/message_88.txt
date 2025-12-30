@@ -1,5 +1,0 @@
-User: The “suffragents” included the writer Max Eastman, in whose Greenwich Village apartment members of the Men’s League for Woman Suffrage in New York met; George Creel, the Wilson administration’s chief government propagandist in World War I; the educator John Dewey; the sociologist and historian W. E. B. Du Bois; Representative Charles A. Lindbergh Sr. (father of the aviator); the journalist Oswald Garrison Villard; Rabbi Stephen S. Wise; and eventually the Tammany boss Charles F. Murphy.
-Assistant: **Justification:** The passage mentions W. E. B. Du Bois in a list of notable individuals, but it does not describe him as a scholar or intellectual, nor does it reference his ideas on social theory or his role in Black politics and racial identity. It simply lists him as a sociologist and historian, which does not meet the criteria for the "Scholar" code.
-
-**Codes Applied:**
-    - None

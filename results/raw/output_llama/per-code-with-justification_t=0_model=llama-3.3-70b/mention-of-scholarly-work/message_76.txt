@@ -1,5 +1,0 @@
-User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
-Assistant: **Justification:** The passage explicitly mentions the title of a scholarly work by W.E.B. Du Bois, "Black Reconstruction in America, 1860-1880", which is a major academic work. This direct reference to one of his key writings clearly falls under the definition of the code. The context provided is sufficient to determine that the reference is to a scholarly work.
-
-**Codes Applied:**
-- Mention of Scholarly Work
