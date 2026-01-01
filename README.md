@@ -67,22 +67,27 @@ The current repository is organized by workflow stage:
 
 ### Model Performance (Average Cohen's Kappa) - CORRECTED
 
-**Fully Tested:**
-1. **GPT-4** (per-code with justification): **κ ≈ 0.68** ⭐ **BEST** *(from original study)*
-2. **Gemini 2.5 Flash-Lite** (per-code with justification): **κ = 0.487** (79.4% agreement)
-3. **Qwen 2.5 72B** (per-code with justification): **κ = 0.477** (87.5% agreement)
+**Four-Model Comparison (Per-Code with Justification):**
 
-**Partially Tested:**
-4. **Llama 3.3 70B** (per-code with justification): Collection incomplete (FREE tier rate limits)
+| Rank | Model | Average κ | Interpretation | Gap from GPT-4 |
+|------|-------|-----------|----------------|----------------|
+| 🥇 | **GPT-4** | **0.676** | **Substantial agreement** | - |
+| 🥈 | **Gemini 2.5 Flash-Lite** | **0.487** | Moderate agreement | -0.189 |
+| 🥉 | **Qwen 2.5 72B** | **0.477** | Moderate agreement | -0.199 |
+| 4 | **GPT-3.5** | **0.338** | Fair agreement | -0.338 |
+
+**Incomplete:**
+- **Llama 3.3 70B**: Collection incomplete (16.2%, FREE tier rate limits)
 
 ### Key Observations
 
-- **GPT-4 remains the strongest performer** on this nuanced qualitative coding task (κ ≈ 0.68).
-- **Gemini and Qwen show moderate agreement** with gold standard (κ ≈ 0.48), significantly better than random but below GPT-4.
-- **Very similar performance** between Gemini (κ = 0.487) and Qwen (κ = 0.477), with Gemini slightly ahead in Kappa but Qwen showing higher percent agreement (87.5% vs 79.4%).
-- **Both models excel** at Monumental Memorialization (κ ≈ 0.96 for both) but struggle with nuanced codes like "Out of the Mouth of Activists" (κ < 0.21).
-- **Model-specific strengths**: Qwen better at Collective Synecdoche (κ = 0.749 vs 0.272); Gemini better at Coalition Building (κ = 0.199 vs 0.000).
-- **Code difficulty varies widely**; attribution-style codes remain the hardest across all models.
+- **GPT-4 achieves best performance on ALL 9 codes** including perfect agreement (κ = 1.0) on Monumental Memorialization.
+- **Gemini and Qwen show very similar moderate agreement** (κ ≈ 0.48), performing ~70% as effectively as GPT-4.
+- **GPT-3.5 significantly underperforms** all other models (κ = 0.338), demonstrating the importance of model scale for nuanced qualitative tasks.
+- **Clear performance hierarchy**: GPT-4 >> Gemini ≈ Qwen >> GPT-3.5
+- **All models excel** at Monumental Memorialization (κ > 0.75) but struggle with "Out of the Mouth of Activists" (κ < 0.31).
+- **Open-source viability**: Both Gemini and Qwen are viable for cost-sensitive applications, with ~0.20 Kappa point gap from GPT-4.
+- **Code difficulty varies widely**: Easiest code (Monumental, avg κ = 0.918) vs hardest code (Out of Mouth Activists, avg κ = 0.185).
 - Per-code with justification (chain-of-thought) continues to be the most effective prompt strategy.
 
 See `RESULTS_SUMMARY.md` for complete analysis and `results/figures/` for visualizations.

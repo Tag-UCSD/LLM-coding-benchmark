@@ -3,3 +3,9 @@ docs/internal/
 .DS_Store
 __pycache__/
 *.pyc
+
+# Archive folder
+archive/
+
+# Old repository copy (used for reference only, not tracked)
+CSS replication final copy/
