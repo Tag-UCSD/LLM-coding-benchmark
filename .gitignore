@@ -4,8 +4,20 @@ docs/internal/
 __pycache__/
 *.pyc
 
-# Archive folder
+# Agent-related files (for Claude Code sessions)
+AGENT_HANDOFF_GUIDE.md
+CLAUDE.md
+COLLECTION_STATUS.md
+check_progress.py
+quick_status.sh
+
+# Collection logs
+*.log
+
+# Archive folders
 archive/
 
-# Old repository copy (used for reference only, not tracked)
+# Old repository copies (used for reference only, not tracked)
 CSS replication final copy/
+TA-complete copy 3/
+*copy*/
