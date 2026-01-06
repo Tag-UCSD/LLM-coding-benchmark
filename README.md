@@ -8,12 +8,13 @@ Replication of an LLM-assisted qualitative coding study, extended into a multi-m
 
 This repository began as a replication of the paper "Scalable Qualitative Coding with LLMs: Chain-of-Thought Reasoning Matches Human Performance in Some Hermeneutic Tasks" and evolved into a broader benchmark of LLM performance on closed, deductive qualitative coding. The work now includes:
 
-- Replication of the original analysis using the authors' data and code.
-- Extensions comparing GPT-4, GPT-3.5, Gemini 2.5 Flash-Lite, Llama 3.3 70B (via Groq), and Qwen 2.5 72B (via OpenRouter) on the same gold-standard coding task.
-- Additional analyses linking model performance to code-level concreteness.
-- A research agenda that continues into inductive coding on the same datasets and a parallel project on automated barrier detection in user feedback.
+- Replication of the original analysis using the authors' data and code, validating the reported best prompting structure ("per-code, with justification")
+- Extensions comparing human-LLM agreement GPT-4, GPT-3.5, Gemini 2.5 Flash-Lite, Llama 3.3 70B, and Qwen 2.5 72B (via OpenRouter) on the same gold-standard coding task.
+- Additional failure mode analyses linking model performance to code-level concreteness and other psycholinguistic measures.
 
-The primary contribution is a reproducible, end-to-end pipeline for evaluating LLMs against human expert coding in a realistic qualitative research workflow, as well as preliminary results using open and locally-run models for deductive coding compared to GPT, revealing significant performance gaps on this nuanced task.
+The primary contribution is a reproducible, end-to-end pipeline for evaluating LLMs against human expert coding in a realistic qualitative research workflow, as well as preliminary results using open and locally-run models for deductive coding compared to GPT, which has been used overwhelmingly in the prior research on deductive LLM coding. These contributions are most immediately useful to qualitative researchers seeking to scale their coding methodology to large datasets, after manually developing a codebook based on a subset.
+
+This work will be incorporated into the next iteration of the [GPT-Scientist][gpts_link] toolkit, and informs an ongoing project involving automatic detection of barriers to user engagement with a digital health app.
 
 ## Methodology
 
@@ -31,7 +32,7 @@ The primary contribution is a reproducible, end-to-end pipeline for evaluating L
 - Mistral-Small workflow is included but not yet integrated into the core results.
 
 ### Evaluation
-- Intercoder reliability: Cohen's Kappa (primary), Krippendorff's Alpha, Gwet's AC1, percent agreement.
+- Intercoder reliability: Cohen's Kappa, Krippendorff's Alpha, Gwet's AC1, percent agreement.
 - Classification metrics: F1 and accuracy (when available).
 - Prompting conditions: per-code vs full-codebook, with and without justification.
 
