@@ -1,0 +1,5 @@
+User:  During every service, I watched as my father, in high Baptist style, "picture painted" the stories of Moses and Job, Ruth and Esther. I listened as he moaned and hummed and sang the tales of W. E. B. Du Bois and Frederick Douglass, the Scottsboro Boys and Emmett Till. I clapped for joy as he brought the worshipers to their feet with promises of survival now and salvation later. In that place, at that time, we knew what glory was. 
+Assistant: **Justification:** This passage does not explicitly mention social or political activism, advocacy, critique, or discourse, but rather references W.E.B. Du Bois in a list of historical figures within a religious context. The passage focuses on the narrator's experience of their father's storytelling during services, and while it mentions Du Bois, it does not engage with his work, ideas, or social and political advocacy. The mention of Du Bois is more of a cultural reference than an invocation of his social or political ideas.
+
+**Codes Applied:**
+- None

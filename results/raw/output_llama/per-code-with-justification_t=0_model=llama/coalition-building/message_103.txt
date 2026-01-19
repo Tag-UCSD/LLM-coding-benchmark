@@ -1,0 +1,5 @@
+User: During a career of scholarship, teaching and advocacy that spanned more than 70 years, Dr. Franklin was deeply involved in the painful debates that helped reshape America’s racial identity, working with the Rev. Dr. Martin Luther King Jr., W. E. B. Du Bois, Thurgood Marshall and other major civil rights figures of the 20th century.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other major civil rights figures, indicating his involvement with prominent individuals and organizations, but it does not specifically describe Du Bois as establishing his reputation through these interactions. The focus is on Dr. Franklin's career and involvement in debates, rather than Du Bois' actions or reputation. Therefore, the code "Coalition Building" is not directly applicable to Du Bois in this context.
+
+**Codes Applied:**
+- None

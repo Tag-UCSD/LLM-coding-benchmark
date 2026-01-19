@@ -1,0 +1,5 @@
+User:  The formal portraits, like those of W. E. B. Du Bois and the sculptor Richmond Barthe, are stylized paragons rather than flesh-and-blood people; however admirable, they are remote from their audience. In contrast, the athletes, dancers, singers, actors and musicians, on duty and off, are accessible and inviting. Bill Robinson's fancy footwork, Marian Anderson's commanding stage presence and Fats Waller's cheerful vulgarity brim over with human energy that communicates across the racial divide and bridges the gap between their era and the present.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois, but it does not reference any enduring cultural object being named after him, such as a prize, building, or institute. Instead, it mentions a formal portrait of Du Bois, which does not fit the criteria for the Monumental Memorialization code. The passage is discussing the style and impact of portraits, rather than the naming of cultural objects.
+
+**Codes Applied:**
+- None

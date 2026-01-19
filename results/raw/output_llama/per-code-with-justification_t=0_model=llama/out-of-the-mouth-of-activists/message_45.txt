@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage mentions Mr. Lewis, who met Du Bois as a child, and his interpretation of Du Bois' character, but it does not indicate that Mr. Lewis is referencing or drawing upon Du Bois' work or legacy as a leader, activist, or politician. There is no clear connection to Du Bois' work or legacy in the context of activism or political organization. The passage appears to be a personal reflection or anecdote rather than an instance of an activist or leader invoking Du Bois' work.
+
+**Codes Applied:**
+- None

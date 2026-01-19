@@ -1,0 +1,5 @@
+User: ''It sets me apart, but not radically,'' Mr. Bond said of his personal background. ''I think for people of my age and generation, this was a normal experience -- not to have W. E. B. Du Bois in your home, but to have his name in your home, to know about him in your home, to have grown up in this movement. This was dinner table conversation for us.''
+Assistant: **Justification:** The passage mentions Mr. Bond, who is implied to be an activist or leader, referencing W.E.B. Du Bois and discussing how Du Bois was a part of his upbringing and conversations within his home. This suggests that Bond is drawing upon Du Bois's legacy and work, and using it to contextualize his own experiences and background. As Bond is discussing his personal connection to the movement and Du Bois, it can be inferred that he is an activist or leader.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

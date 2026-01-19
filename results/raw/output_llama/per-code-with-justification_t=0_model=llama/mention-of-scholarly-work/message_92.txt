@@ -1,0 +1,5 @@
+User: But Guralnick is out to destroy gods and undo celebrity, or, as he puts it, to "rescue" Elvis from "both his detractors and admirers." Sometimes, the pages, the research, the interviews and especially the objectivity are necessary to make a subject human again. This can be true because the subject is an icon like Elvis or because the life truly was monumental -- here I'm thinking of David Levering Lewis on W. E. B. Du Bois (two volumes and 1,360 pages).
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois, but it does so in the context of comparing the monumental life of Elvis to that of Du Bois, as written about by David Levering Lewis. The reference to Du Bois is not about his scholarly work, but rather about the magnitude of his life and the extensive biography written about him. Therefore, the code for Mention of Scholarly Work is not applied because the passage does not discuss or quote Du Bois's academic writings or concepts.
+
+**Codes Applied:**
+- None

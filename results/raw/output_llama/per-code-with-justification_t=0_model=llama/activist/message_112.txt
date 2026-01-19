@@ -1,0 +1,5 @@
+User: A central theme is race, which brought the group to the Lynchburg home of Ann Spencer, the dominant poet of the Harlem renaissance of the 1920's. Against a glowing violet sunset, by the pond where Mrs. Spencer once counseled George Washington Carver, Booker T. Washington and W. E. B. Du Bois, the group discussed the early days of the civil rights movement. 
+Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or "leader", but it does imply his involvement in the civil rights movement by mentioning him in the context of discussing the early days of the movement alongside other notable figures. However, this implication is not strong enough to clearly categorize him as an activist or leader in this specific passage, as it focuses more on the setting and the group's discussion rather than Du Bois' actions or roles.
+
+**Codes Applied:**
+- None

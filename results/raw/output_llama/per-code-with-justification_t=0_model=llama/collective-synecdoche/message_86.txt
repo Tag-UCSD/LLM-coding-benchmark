@@ -1,0 +1,5 @@
+User: Another Harlem landmark in the history of gay New York is the Salem United Methodist Church. Now 97 years old, the brick building with a magnificent arched front window still stands at Adam Clayton Powell Jr. Boulevard and 129th Street. It was there, in 1928, that the poet Countee Cullen entered into a brief marriage with Yolanda Du Bois, daughter of W. E. B. Du Bois. (Cullen then went on a honeymoon with the best man.) Cullen, like several members of the Harlem Renaissance, felt compelled to hide his sexual identity.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of his daughter's marriage, but it does not use him to represent a facet of a culture, era, or ideology. Instead, the focus is on the historical event of the marriage and its connection to the Harlem Renaissance and gay New York history. W.E.B. Du Bois is only mentioned as the father of the bride, without any reference to his intellectual or activist work.
+
+**Codes Applied:**
+- None

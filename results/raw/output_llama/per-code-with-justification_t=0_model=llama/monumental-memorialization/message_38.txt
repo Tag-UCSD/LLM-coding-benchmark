@@ -1,0 +1,5 @@
+User: 'I believe one of the main civil rights challenges of this new millennium is the challenge of ensuring equal access to technology,'' he said. ''W. E. B. Du Bois said, 'The problem of the 20th century is the problem of the color line.' At the dawn of this century, our challenge is preventing the color line from determining who is online.''
+Assistant: **Justification:** The passage does not mention an enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it quotes Du Bois and references his idea of the "color line" in the context of a modern civil rights challenge. Therefore, the code for Monumental Memorialization is not applicable in this case.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** This passage does not mention W.E.B. Du Bois alongside other famous intellectuals, activists, or public figures, which is the key criterion for the Collective Synecdoche code. Instead, it quotes Du Bois in the context of describing the N.A.A.C.P.'s mission, focusing on his role in relation to the organization rather than grouping him with others to represent a broader concept. The passage is centered on the N.A.A.C.P.'s values and mission, with Du Bois's quote serving to illustrate this mission.
+
+**Codes Applied:**
+- None

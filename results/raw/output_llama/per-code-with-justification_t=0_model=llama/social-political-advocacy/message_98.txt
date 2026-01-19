@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** This passage applies to the Social/Political Advocacy code because it mentions W.E.B. Du Bois's critique of Booker T. Washington's stance, which is a form of social and political discourse. The passage explicitly states that Du Bois challenged Washington's acceptance of "the alleged inferiority of the Negro races," indicating a critical engagement with racial identities and systemic circumstances of Black people. This exchange between two prominent Black leaders is a clear example of social and political advocacy.
+
+**Codes Applied:**
+- Social/Political Advocacy

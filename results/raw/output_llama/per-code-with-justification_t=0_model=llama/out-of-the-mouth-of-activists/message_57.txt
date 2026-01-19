@@ -1,0 +1,7 @@
+User: Mr. Hutchins said his initial donation was always meant as “hello money,” the start of what he called an intellectual partnership as well as a friendship. Mr. Hutchins and Professor Gates have collaborated
+                                        on making the Harvard program “the unmatched juggernaut of African-American studies,” Mr. Hutchins said. Mr. Hutchins helped form an advisory board for the Du Bois Institute and introduced an array
+                                        of potential donors to Professor Gates.
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Activists" because it does not mention an individual described as a leader, activist, or politician, or a member of a specific political or activist organization referencing or drawing upon W.E.B. Du Bois's work or legacy. Although the Du Bois Institute is mentioned, it is in the context of Mr. Hutchins' collaboration with Professor Gates, and there is no indication that Mr. Hutchins or Professor Gates are referencing Du Bois' work or legacy in their actions.
+
+**Codes Applied:**
+- None

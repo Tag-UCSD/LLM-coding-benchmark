@@ -1,0 +1,5 @@
+User: I am not siding with the revolution here. Though not required in college to read the works of W. E. B. Du Bois and Carrie Chapman Catt, I am confident I could have found them just as conducive to deep coma as Aristotle was.
+Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or "leader", nor does it mention his political or social activism. The context is about the author's personal opinion on reading the works of various historical figures, including Du Bois, and how they might induce sleep. There is no implication of Du Bois' activism or leadership in this passage.
+
+**Codes Applied:**
+- None

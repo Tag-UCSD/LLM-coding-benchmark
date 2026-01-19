@@ -1,0 +1,5 @@
+User:  During every service, I watched as my father, in high Baptist style, "picture painted" the stories of Moses and Job, Ruth and Esther. I listened as he moaned and hummed and sang the tales of W. E. B. Du Bois and Frederick Douglass, the Scottsboro Boys and Emmett Till. I clapped for joy as he brought the worshipers to their feet with promises of survival now and salvation later. In that place, at that time, we knew what glory was. 
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other notable figures such as Frederick Douglass, the Scottsboro Boys, and Emmett Till, who are all prominent representatives of the African American experience and the struggle for civil rights. This grouping suggests that Du Bois is being used to represent a facet of African American culture and history. The context implies that these figures collectively embody the struggles and triumphs of the community, which aligns with the definition of Collective Synecdoche.
+
+**Codes Applied:**
+- Collective Synecdoche

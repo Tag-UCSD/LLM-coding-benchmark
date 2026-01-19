@@ -1,0 +1,5 @@
+User: I am not siding with the revolution here. Though not required in college to read the works of W. E. B. Du Bois and Carrie Chapman Catt, I am confident I could have found them just as conducive to deep coma as Aristotle was.
+Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it references Du Bois as an author whose works the writer did not have to read in college. The mention of Du Bois is in the context of discussing authors and their works, rather than any form of memorialization or naming of an object after him.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage only mentions W.E.B. Du Bois in the context of a biography title, without referencing him alongside other famous intellectuals, activists, or public figures. The title appears to focus solely on Du Bois' life and work, rather than using him to represent a broader cultural, era, or ideological concept. Therefore, the code Collective Synecdoche does not apply.
+
+**Codes Applied:**
+- None

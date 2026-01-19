@@ -1,0 +1,7 @@
+User: Mr. Hutchins said his initial donation was always meant as “hello money,” the start of what he called an intellectual partnership as well as a friendship. Mr. Hutchins and Professor Gates have collaborated
+                                        on making the Harvard program “the unmatched juggernaut of African-American studies,” Mr. Hutchins said. Mr. Hutchins helped form an advisory board for the Du Bois Institute and introduced an array
+                                        of potential donors to Professor Gates.
+Assistant: **Justification:** The passage mentions the Du Bois Institute, which suggests an academic organization, and Professor Gates, who is a member of an academic organization, is engaging with the institute. Additionally, Mr. Hutchins is collaborating with Professor Gates to support the institute, indicating an intellectual partnership. This meets the criteria for the "Out of the Mouth of Academics" code, as it involves a member of an academic organization discussing or promoting Du Bois's work or legacy.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

@@ -1,0 +1,5 @@
+User: Similarly, said John Whiteclay Chambers 2nd of Rutgers University, W. E. B. Du Bois and Frederick Douglass urged African-Americans to serve, even though they would be fighting for a segregated society. ''It was an effort to gain full citizenship rights,'' the professor said, noting that military service also offers ''social mobility to people without much money.''
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of urging African-Americans to serve in the military as a means to gain full citizenship rights, which implies a form of social activism. However, it does not explicitly call him an "activist" or "leader", nor does it directly reference his political or social activism beyond this specific context. The passage focuses more on the historical event and the reasoning behind Du Bois' and Douglass' urging rather than their roles as activists.
+
+**Codes Applied:**
+- Activist

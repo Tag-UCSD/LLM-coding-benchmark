@@ -1,0 +1,5 @@
+User: This claim is itself open to argument, which is why I included it in the article. But it does no service to the cause of multicultural literature to stretch it beyond recognition as Mr. Gates has mistakenly done. I cannot imagine in a world filled with the works of W. E. B. Du Bois, James Baldwin, Richard Wright, Toni Morrison and even Henry Louis Gates that Mr. Adler would not consider the statement attributed to him to be preposterous. ERIC ALTERMAN Washington, May 26, 1991
+Assistant: **Justification:** The passage does not mention a specific member of an academic organization engaging with Du Bois's work or discussing Du Bois as representing a concept. Although Henry Louis Gates, who is an academic, is mentioned, he is not directly discussing Du Bois's work in this passage. The author is referencing Du Bois as one of many notable literary figures, but this is not sufficient to apply the "Out of the Mouth of Academics" code.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship, but rather as a complex figure with conflicting ideals. There is no mention of Du Bois building coalitions or working with organizations to establish his reputation. The focus is on his personal character and ideals, rather than his interactions with other groups or institutions.
+
+**Codes Applied:**
+- None

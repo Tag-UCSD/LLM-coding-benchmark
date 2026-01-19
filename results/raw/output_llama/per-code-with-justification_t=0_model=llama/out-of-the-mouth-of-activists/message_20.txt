@@ -1,0 +1,5 @@
+User: An award of $375,000 went to David Levering Lewis, the Rutgers professor who won a Pulitzer Prize in 1994 for the first volume of a biography, ''W. E. B. Du Bois: Biography of a Race.''
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Activists" because it does not mention an individual described as a leader, activist, or politician, or a member of a specific political or activist organization referencing or drawing upon W.E.B. Du Bois's work or legacy. Instead, it mentions a professor who wrote a biography about Du Bois, which does not meet the criteria for the code.
+
+**Codes Applied:**
+- None

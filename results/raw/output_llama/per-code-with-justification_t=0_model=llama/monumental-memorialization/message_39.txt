@@ -1,0 +1,5 @@
+User: Writing in Black Commentator, an online journal, Professor Kilson called the use of the epithet an insult to black people and to former Harvard teachers like Du Bois, Ralph J. Bunche and John Hope Franklin.
+Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it references Du Bois as a former Harvard teacher, which is a historical fact and not an example of monumental memorialization. The passage is discussing the use of an epithet as an insult to black people and notable figures like Du Bois.
+
+**Codes Applied:**
+- None

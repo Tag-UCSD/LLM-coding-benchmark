@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The passage does not mention a specific member of an academic organization engaging with Du Bois's work or discussing Du Bois as representing a concept. Mr. Gelobter's quote is not sufficient to apply the code as there is no indication that he is a member of an academic organization or that he is discussing Du Bois in an academic context. The quote appears to be a rhetorical question and does not demonstrate a meaningful engagement with Du Bois's work.
+
+**Codes Applied:**
+- None

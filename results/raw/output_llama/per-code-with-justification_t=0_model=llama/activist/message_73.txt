@@ -1,0 +1,5 @@
+User:  During every service, I watched as my father, in high Baptist style, "picture painted" the stories of Moses and Job, Ruth and Esther. I listened as he moaned and hummed and sang the tales of W. E. B. Du Bois and Frederick Douglass, the Scottsboro Boys and Emmett Till. I clapped for joy as he brought the worshipers to their feet with promises of survival now and salvation later. In that place, at that time, we knew what glory was. 
+Assistant: **Justification:** The passage does not explicitly call W.E.B. Du Bois an "activist" or "leader", nor does it mention his political or social activism. Instead, it mentions Du Bois in the context of a Baptist service, where his name is used as part of a narrative of important historical figures, suggesting a more cultural or symbolic reference rather than a specific emphasis on his activism. The focus of the passage is on the author's personal experience and the emotional impact of the service, rather than on Du Bois' actions or legacy as an activist.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The code Collective Synecdoche is not applied because W.E.B. Du Bois is mentioned in the context of a discussion about racial identity and the option of checking multiple racial boxes, rather than being mentioned alongside other famous intellectuals or public figures to represent a culture, era, or ideology. The mention of Frederick Douglass does introduce another historical figure, but the purpose is to question their racial identity in the context of checking boxes, not to represent a broader cultural or ideological concept.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage does not mention an enduring cultural object being named after Du Bois, but rather references one of his book titles, "The Souls of Black Folk". According to the definition, the code should not be applied when Du Bois is mentioned in the title of a book. 
+
+**Codes Applied:**
+- None

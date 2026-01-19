@@ -1,0 +1,5 @@
+User: The Defender, a tabloid, helped nurture the careers of writers like Langston Hughes and W. E. B. Du Bois, a founder of the National Association for the Advancement of Colored People. And long before white politicians began to oppose the South's Jim Crow laws, The Defender published editorials decrying the treatment of black sharecroppers and promising a better life in Chicago's factories.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as a founder of the National Association for the Advancement of Colored People, but it does not mention any enduring cultural object being named after him, such as a prize, building, or institute. The mention of Du Bois is in the context of his affiliation with an organization, rather than the organization being named after him. Therefore, the code for Monumental Memorialization is not applicable.
+
+**Codes Applied:**
+- None

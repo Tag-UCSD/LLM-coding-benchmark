@@ -1,0 +1,5 @@
+User: Professor Stuckey once said in an interview that while growing up he was most inspired by two books, Du Bois’s “The Souls of Black Folk" (1903) and “Folk Songs of North America” (1960), by the ethnomusicologist Alan Lomax.
+Assistant: **Justification:** The passage mentions Professor Stuckey, a member of an academic organization, discussing Du Bois's work, specifically his book "The Souls of Black Folk". This indicates that an academic is engaging with Du Bois's work, which aligns with the definition of the "Out of the Mouth of Academics" code. The fact that Professor Stuckey is sharing his personal inspiration from Du Bois's book in an interview further supports the application of this code.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

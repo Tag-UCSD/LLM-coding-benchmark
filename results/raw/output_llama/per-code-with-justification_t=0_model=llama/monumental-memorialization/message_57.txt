@@ -1,0 +1,7 @@
+User: Mr. Hutchins said his initial donation was always meant as “hello money,” the start of what he called an intellectual partnership as well as a friendship. Mr. Hutchins and Professor Gates have collaborated
+                                        on making the Harvard program “the unmatched juggernaut of African-American studies,” Mr. Hutchins said. Mr. Hutchins helped form an advisory board for the Du Bois Institute and introduced an array
+                                        of potential donors to Professor Gates.
+Assistant: **Justification:** The passage mentions the "Du Bois Institute", which is an enduring cultural object named after W.E.B. Du Bois, indicating a form of monumental memorialization. This meets the criteria for the code as it is an institute, a type of cultural object, named in his honor. The context suggests that the institute is a significant entity, further supporting the application of the code.
+
+**Codes Applied:**
+- Monumental Memorialization
