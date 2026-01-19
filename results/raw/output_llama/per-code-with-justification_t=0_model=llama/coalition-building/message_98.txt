@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** The passage does not describe Du Bois as establishing his reputation through organizational and institutional sponsorship, but rather as taking on another leader, which does not fit the definition of the Coalition Building code. The focus is on Du Bois' criticism of Booker T. Washington, rather than his involvement with organizations or institutions. There is no mention of Du Bois building coalitions or working with other groups to establish his reputation.
+
+**Codes Applied:**
+- None

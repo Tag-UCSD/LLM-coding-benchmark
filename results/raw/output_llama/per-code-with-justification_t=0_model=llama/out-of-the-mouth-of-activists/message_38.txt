@@ -1,0 +1,5 @@
+User: 'I believe one of the main civil rights challenges of this new millennium is the challenge of ensuring equal access to technology,'' he said. ''W. E. B. Du Bois said, 'The problem of the 20th century is the problem of the color line.' At the dawn of this century, our challenge is preventing the color line from determining who is online.''
+Assistant: **Justification:** The passage quotes an individual referencing W.E.B. Du Bois's work, specifically his statement about the "problem of the color line," and applies it to a contemporary issue, which is ensuring equal access to technology. The individual is described as someone who is making a statement about a civil rights challenge, implying a role as a leader or activist. This meets the criteria for the "Out of the Mouth of Activists" code, as the individual is using Du Bois's legacy to inform their perspective on a current issue.
+
+**Codes Applied:**
+- Out of the Mouth of Activists

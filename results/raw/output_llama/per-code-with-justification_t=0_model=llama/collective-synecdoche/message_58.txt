@@ -1,0 +1,5 @@
+User: Victory would anoint New York a world capital, but the fruits were ephemeral and, for some, illusory. In 1919, W. E. B. Du Bois hailed returning blacks from the 369th Infantry Regiment as “soldiers of democracy” who should “return fighting” for that ideal at home. It would be a long time coming.
+Assistant: **Justification:** The passage does not apply the code because W.E.B. Du Bois is mentioned alone in this context, discussing his views on returning black soldiers, without being grouped with other famous intellectuals, activists, or public figures to represent a culture, era, or ideology. The focus is on Du Bois' statement and its implications rather than using him as a representative figure alongside others.
+
+**Codes Applied:**
+- None

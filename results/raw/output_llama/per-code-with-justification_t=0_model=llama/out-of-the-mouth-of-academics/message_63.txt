@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage only mentions the title of a book written by W.E.B. Du Bois, but it does not indicate that a member of an academic organization is engaging with Du Bois's work or that an activist organization has named itself or a subdivision after Du Bois. The passage simply presents the title of a book, which is not sufficient to apply the "Out of the Mouth of Academics" code.
+
+**Codes Applied:**
+- None

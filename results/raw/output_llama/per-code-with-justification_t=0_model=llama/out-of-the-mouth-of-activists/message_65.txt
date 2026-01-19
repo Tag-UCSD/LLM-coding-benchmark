@@ -1,0 +1,5 @@
+User: 'Should Frederick Douglass have checked white and black?'' Mr. Gelobter said. ''Should W. E. B. Du Bois have checked white and black? He practically looked white.''
+Assistant: **Justification:** The code "Out of the Mouth of Activists" is not applied because the passage does not mention an individual described as a leader, activist, or politician referencing or drawing upon W.E.B. Du Bois's work or legacy. Instead, it appears to be a quote from someone named Mr. Gelobter making a comment about W.E.B. Du Bois's physical appearance, without connecting it to Du Bois's work or legacy.
+
+**Codes Applied:**
+- None

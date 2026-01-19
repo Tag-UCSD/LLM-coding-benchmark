@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage provided is a biography title and does not contain any information about Du Bois being described as an agent establishing his reputation through organizational and institutional sponsorship, which is the definition of the Coalition Building code. The title simply announces a biography about Du Bois without giving any details about his actions or relationships.
+
+**Codes Applied:**
+- None

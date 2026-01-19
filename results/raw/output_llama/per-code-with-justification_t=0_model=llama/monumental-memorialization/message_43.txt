@@ -1,0 +1,5 @@
+User: While in New York he met Langston Hughes, whose poetry he admired, and got to know the principals of the Harlem Renaissance. At one point, he thought he might write his thesis on W. E. B. Du Bois. But according to Mr. Woodward, Mr. Du Bois heard his Southern accent and backed off.
+Assistant: **Justification:** The passage does not mention any enduring cultural object being named after Du Bois, such as a prize, building, or institute. Instead, it discusses a personal interaction between the subject and Du Bois, as well as the subject's consideration of writing about Du Bois. There is no indication of monumental memorialization in this passage.
+
+**Codes Applied:**
+- None

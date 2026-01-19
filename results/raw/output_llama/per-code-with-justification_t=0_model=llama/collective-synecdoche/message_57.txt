@@ -1,0 +1,7 @@
+User: Mr. Hutchins said his initial donation was always meant as “hello money,” the start of what he called an intellectual partnership as well as a friendship. Mr. Hutchins and Professor Gates have collaborated
+                                        on making the Harvard program “the unmatched juggernaut of African-American studies,” Mr. Hutchins said. Mr. Hutchins helped form an advisory board for the Du Bois Institute and introduced an array
+                                        of potential donors to Professor Gates.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of the Du Bois Institute, but it does not mention him alongside other famous intellectuals, activists, or public figures to represent a culture, era, or ideology. Instead, the focus is on the collaboration between Mr. Hutchins and Professor Gates, with the Du Bois Institute being a specific entity they are involved with. Therefore, the code Collective Synecdoche is not applicable in this case.
+
+**Codes Applied:**
+- None

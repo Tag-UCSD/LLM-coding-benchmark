@@ -1,0 +1,5 @@
+User: Professor Stuckey once said in an interview that while growing up he was most inspired by two books, Du Bois’s “The Souls of Black Folk" (1903) and “Folk Songs of North America” (1960), by the ethnomusicologist Alan Lomax.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside another notable figure, Alan Lomax, in the context of inspiring books. However, this mention is not necessarily using Du Bois to represent a broader cultural, era, or ideological concept, but rather as a personal inspiration to Professor Stuckey. The focus is on the individual's influence rather than using Du Bois as a symbol of a larger idea or movement.
+
+**Codes Applied:**
+- None

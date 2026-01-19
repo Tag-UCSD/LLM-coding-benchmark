@@ -1,0 +1,5 @@
+User: Attired in a blue suit, one hand clutching a piece of chalk, the other a well-worn copy of W. E. B. Du Bois's ''The Souls of Black Folk,'' he paced back and forth, arms out, leaning forward, bending back, voice rising and falling, one foot in the academy, the other in the pulpit. ''Will we be able to talk about race in such a way we can get beyond the finger-pointing and name calling and actually be self-critical and critical of each other so we can be empowered and enabled instead of paralyzed and debilitated?'' he said. ''It's so easy to talk about race in America, Du Bois would say, in a way in which we're paralyzed, and debilitated or just completely depressed.''
+Assistant: **Justification:** The passage does not explicitly call Du Bois an "activist" or "leader", nor does it mention his political or social activism. Instead, it references his work, "The Souls of Black Folk", and quotes an interpretation of his views on discussing race in America. The context is more academic and philosophical, focusing on the discussion of race rather than Du Bois's activism.
+
+**Codes Applied:**
+- None

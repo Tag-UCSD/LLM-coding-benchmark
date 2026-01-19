@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage only mentions W.E.B. Du Bois and references one of his works, "The Souls of Black Folk," without mentioning any other famous intellectuals, activists, or public figures, so it does not meet the criteria for Collective Synecdoche.
+
+**Codes Applied:**
+- None

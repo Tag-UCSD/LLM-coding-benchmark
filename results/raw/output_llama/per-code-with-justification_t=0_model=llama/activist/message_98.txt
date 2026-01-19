@@ -1,0 +1,5 @@
+User: Shortly after the dawn of the 20th century, the scholar W.E.B. Du Bois took on a fellow black civic leader, Booker T. Washington, for what he described as submitting to white domination and accepting “the alleged inferiority of the Negro races.”
+Assistant: **Justification:** This passage implies that Du Bois was engaged in a public disagreement with another prominent figure, Booker T. Washington, which suggests a level of activism and leadership. By speaking out against Washington's views, Du Bois is demonstrating his own commitment to challenging the status quo and promoting a different vision for the African American community. This context implies that Du Bois was taking a public stance and advocating for his beliefs, which aligns with the definition of the "Activist" code.
+
+**Codes Applied:**
+- Activist

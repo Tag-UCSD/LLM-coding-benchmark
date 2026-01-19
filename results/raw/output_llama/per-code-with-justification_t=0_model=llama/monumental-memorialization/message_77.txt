@@ -1,0 +1,5 @@
+User: It was “Leave It to Beaver,” but black, to hear Mr. Walcott describe his childhood in the Addisleigh Park section of southeast Queens, a destination for ambitious émigrés from Harlem and Brooklyn that was already dotted with celebrities like John Coltrane, Ella Fitzgerald, and W. E. B. Du Bois.
+Assistant: **Justification:** The passage mentions that the Addisleigh Park section of southeast Queens was dotted with celebrities like W. E. B. Du Bois, implying that he lived or owned a home there, but it does not mention any enduring cultural object being named after Du Bois. Therefore, the code "Monumental Memorialization" is not applied.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: “The Love Songs of W.E.B. Du Bois” by Honorée Fanonne Jeffers
+Assistant: **Justification:** The passage provided is a book title, "The Love Songs of W.E.B. Du Bois" by Honorée Fanonne Jeffers, and does not contain any information about Du Bois being called an "activist" or "leader", nor is his political or social activism explicitly noted or implied through context. The title appears to be a literary work, possibly a novel, and does not provide sufficient information to apply the "Activist" code. 
+
+**Codes Applied:**
+- None

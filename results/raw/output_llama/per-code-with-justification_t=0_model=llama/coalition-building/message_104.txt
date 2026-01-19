@@ -1,0 +1,5 @@
+User: “The Love Songs of W.E.B. Du Bois” by Honorée Fanonne Jeffers
+Assistant: **Justification:** The passage provided is a book title and does not contain any information about W.E.B. Du Bois being described as an agent establishing his reputation through organizational and institutional sponsorship. The title appears to be referencing a work of literature inspired by or related to Du Bois, but it does not provide any context about his actions or reputation. Therefore, there is not enough information to apply the Coalition Building code.
+
+**Codes Applied:**
+- None

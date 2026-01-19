@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage mentions a book titled after W.E.B. Du Bois, but according to the definition of the code, it should not be applied when Du Bois is mentioned in the title of a book. The code specifically looks for enduring cultural objects such as prizes, buildings, or institutes, not book titles. Therefore, the code does not apply in this case.
+
+**Codes Applied:**
+- None

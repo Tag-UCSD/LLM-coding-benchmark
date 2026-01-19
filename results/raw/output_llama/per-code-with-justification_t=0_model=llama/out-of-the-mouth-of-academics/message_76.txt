@@ -1,0 +1,5 @@
+User: “We are living through an era of the ascendance of biology, and we have to be very careful,” said Henry Louis Gates Jr., director of the W. E. B. Du Bois Institute for African and African American Research at Harvard University. “We will all be walking a fine line between using biology and allowing it to be abused.” 
+Assistant: **Justification:** This passage applies to the code "Out of the Mouth of Academics" because Henry Louis Gates Jr., a member of an academic organization (Harvard University), is discussing the potential impact of biology and referencing the institute he directs, which is named after W.E.B. Du Bois. The fact that Gates is the director of the W.E.B. Du Bois Institute and is speaking in an academic capacity meets the criteria for this code. His statement engages with broader concepts related to Du Bois's legacy, even if indirectly.
+
+**Codes Applied:**
+- Out of the Mouth of Academics

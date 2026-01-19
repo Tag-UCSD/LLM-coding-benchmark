@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois in the context of describing the N.A.A.C.P.'s mission, but it does not reference any enduring cultural object being named after him, such as a prize, building, or institute. The mention of Du Bois is solely to quote his description of the N.A.A.C.P.'s mission. Therefore, the code for Monumental Memorialization is not applicable.
+
+**Codes Applied:**
+- None

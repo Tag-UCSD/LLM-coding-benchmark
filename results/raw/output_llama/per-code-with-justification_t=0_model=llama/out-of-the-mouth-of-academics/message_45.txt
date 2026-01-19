@@ -1,0 +1,5 @@
+User: Mr. Lewis, who met Du Bois as a child, told one interviewer that he had sought to present ''a conflicted figure whose attempt to achieve his ideals caused him to contradict many of them.''
+Assistant: **Justification:** The passage does not mention Mr. Lewis as a member of an academic organization discussing Du Bois's work or engaging with his concepts in an academic context. Instead, it appears to be a personal reflection or anecdote about Du Bois, and Mr. Lewis's encounter with him. There is no indication that Mr. Lewis is representing an academic organization or discussing Du Bois in a scholarly capacity.
+
+**Codes Applied:**
+- None

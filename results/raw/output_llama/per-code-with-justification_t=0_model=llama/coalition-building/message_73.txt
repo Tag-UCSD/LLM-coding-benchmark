@@ -1,0 +1,5 @@
+User:  During every service, I watched as my father, in high Baptist style, "picture painted" the stories of Moses and Job, Ruth and Esther. I listened as he moaned and hummed and sang the tales of W. E. B. Du Bois and Frederick Douglass, the Scottsboro Boys and Emmett Till. I clapped for joy as he brought the worshipers to their feet with promises of survival now and salvation later. In that place, at that time, we knew what glory was. 
+Assistant: **Justification:** The passage does not describe Du Bois as an agent establishing his reputation through organizational and institutional sponsorship. Instead, it mentions Du Bois alongside other historical figures, suggesting that he is being referenced as an important figure in African American history and culture, rather than as someone building coalitions or establishing his reputation through specific organizational efforts. The context is a personal and religious one, focusing on the narrator's father and his storytelling style.
+
+**Codes Applied:**
+- None

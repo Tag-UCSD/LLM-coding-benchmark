@@ -1,0 +1,5 @@
+User: '' W. E. B. Du Bois described the N.A.A.C.P.'s mission this way: ''the discovering and redress of cases of injustice.'' The N.A.A.C.P. has always championed the people, not the powerful; the weak and the weary, not the well off and the well connected.
+Assistant: **Justification:** The passage does not apply the code "Out of the Mouth of Academics" because it does not mention a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept. Instead, it quotes Du Bois describing the N.A.A.C.P.'s mission, but the N.A.A.C.P. is a civil rights organization, not an academic organization. The passage focuses on the N.A.A.C.P.'s mission and values, rather than an academic discussion or representation of Du Bois.
+
+**Codes Applied:**
+- None

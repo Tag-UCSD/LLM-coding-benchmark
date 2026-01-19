@@ -1,0 +1,5 @@
+User: In “The Souls of Black Folk,” W. E. B. Du Bois described this phenomenon thusly:
+Assistant: **Justification:** The passage does not mention an individual described as a leader, activist, or politician, or a member of a specific political or activist organization referencing or drawing upon W.E.B. Du Bois's work or legacy. Instead, it directly quotes Du Bois's work without any connection to an activist or organization. The passage is simply presenting Du Bois's own words from his book.
+
+**Codes Applied:**
+- None

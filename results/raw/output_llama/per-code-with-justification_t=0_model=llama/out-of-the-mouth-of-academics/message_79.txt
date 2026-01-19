@@ -1,0 +1,5 @@
+User: CROTON-ON-HUDSON “W. E. B. Du Bois, A Man for all Time,” drama by Alexa Kelly. Feb. 28 at 2 p.m. Free. Croton Free Library, 171 Cleveland Drive. crotonfreelibrary.org; 914-271-6612.
+Assistant: **Justification:** The passage does not mention a specific member of an academic organization engaging with Du Bois's work or Du Bois as representing a concept. It appears to be an event listing for a drama about Du Bois at a library, but there is no indication of academic involvement or discussion. The library is hosting the event, but this alone is not sufficient to apply the code.
+
+**Codes Applied:**
+- None

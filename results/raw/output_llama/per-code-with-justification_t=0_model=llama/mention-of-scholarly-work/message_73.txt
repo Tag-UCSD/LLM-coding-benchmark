@@ -1,0 +1,5 @@
+User:  During every service, I watched as my father, in high Baptist style, "picture painted" the stories of Moses and Job, Ruth and Esther. I listened as he moaned and hummed and sang the tales of W. E. B. Du Bois and Frederick Douglass, the Scottsboro Boys and Emmett Till. I clapped for joy as he brought the worshipers to their feet with promises of survival now and salvation later. In that place, at that time, we knew what glory was. 
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois, but it does not reference any of his scholarly works or major theoretical concepts. Instead, it appears to be referencing him as a historical figure, alongside other notable individuals such as Frederick Douglass and Emmett Till, in the context of a Baptist service. There is no explicit mention or quotation of his writings or academic ideas.
+
+**Codes Applied:**
+- None

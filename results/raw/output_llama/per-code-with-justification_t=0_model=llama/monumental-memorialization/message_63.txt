@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage mentions a book titled "Black Reconstruction in America, 1860-1880" by W. E. B. Du Bois, which is a reference to one of Du Bois' works, but it does not mention an enduring cultural object being named after him, such as a prize, building, or institute. The code "Monumental Memorialization" is specifically defined as applying to situations where an enduring cultural object is named after Du Bois, which is not the case here.
+
+**Codes Applied:**
+- None

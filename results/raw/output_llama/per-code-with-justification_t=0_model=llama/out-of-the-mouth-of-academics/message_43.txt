@@ -1,0 +1,5 @@
+User: While in New York he met Langston Hughes, whose poetry he admired, and got to know the principals of the Harlem Renaissance. At one point, he thought he might write his thesis on W. E. B. Du Bois. But according to Mr. Woodward, Mr. Du Bois heard his Southern accent and backed off.
+Assistant: **Justification:** The passage mentions that the subject considered writing his thesis on W.E.B. Du Bois, which implies engagement with Du Bois's work by an academic, as a thesis is an academic endeavor. However, it is the subject, not a member of an academic organization, who is considering this engagement. The passage also mentions Mr. Du Bois himself, but it is in the context of his personal interaction, not as a representative of an academic organization discussing his own work. Therefore, the code "Out of the Mouth of Academics" is not applied because the passage does not explicitly show a member of an academic organization discussing Du Bois's work.
+
+**Codes Applied:**
+- None

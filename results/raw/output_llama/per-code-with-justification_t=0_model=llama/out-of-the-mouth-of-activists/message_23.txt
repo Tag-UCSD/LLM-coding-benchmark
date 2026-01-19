@@ -1,0 +1,5 @@
+User: Dr. Lewis began the Du Bois project in 1985. He traveled thousands of miles - sometimes with Ms. Stewart -- across America, the former Soviet Union, West Africa and Mexico and interviewed 200 people.
+Assistant: **Justification:** The passage does not mention Dr. Lewis referencing or drawing upon W.E.B. Du Bois's work or legacy as a leader, activist, or politician. Instead, it mentions Dr. Lewis starting the "Du Bois project", which implies a connection to Du Bois, but does not provide enough context to determine if Dr. Lewis is using Du Bois's work to connect his own agenda to Du Bois. The passage focuses on Dr. Lewis's actions and travels, but does not explicitly state that he is referencing Du Bois's work or legacy as an activist or leader.
+
+**Codes Applied:**
+- None

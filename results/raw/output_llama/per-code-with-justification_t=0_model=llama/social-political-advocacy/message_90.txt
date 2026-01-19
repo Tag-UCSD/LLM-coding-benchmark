@@ -1,0 +1,5 @@
+User: Still, Chester Davis, associate chairman of the W. E. B. Du Bois Department of Afro American Studies at the University of Massachusetts, said black studies should not be considered a discipline in the traditional sense.
+Assistant: **Justification:** This passage does not explicitly mention social or political activism, advocacy, critique, or discourse related to W.E.B. Du Bois's work, persona, or ideas. Although it mentions the W. E. B. Du Bois Department of Afro American Studies, the focus is on the nature of black studies as a discipline, rather than engaging with social or political issues. The mention of Du Bois's name is incidental, as it is part of the department's name, and does not imply any discussion of his advocacy or ideas.
+
+**Codes Applied:**
+- None

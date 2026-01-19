@@ -1,0 +1,5 @@
+User: “Black Reconstruction in America, 1860-1880” by W. E. B. Du Bois
+Assistant: **Justification:** The passage only mentions the title of a book written by W.E.B. Du Bois, and does not provide any information about Du Bois establishing his reputation through organizational and institutional sponsorship. There is no description of Du Bois as an agent building coalitions or working with other organizations. The passage is simply a book title, which does not provide enough context to apply the Coalition Building code.
+
+**Codes Applied:**
+- None

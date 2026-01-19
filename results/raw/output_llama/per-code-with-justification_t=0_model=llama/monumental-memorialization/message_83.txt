@@ -1,0 +1,5 @@
+User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois as a figure that some black teenagers may not be familiar with, but it does not reference any enduring cultural object being named after him, such as a prize, building, or institute. The passage is discussing a collection and its potential use, but it does not meet the criteria for the Monumental Memorialization code. There is no mention of a specific object or entity being named after Du Bois.
+
+**Codes Applied:**
+- None

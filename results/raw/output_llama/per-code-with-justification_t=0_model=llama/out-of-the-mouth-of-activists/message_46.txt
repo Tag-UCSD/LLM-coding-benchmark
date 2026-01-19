@@ -1,0 +1,5 @@
+User: BIOGRAPHY: ''W. E. B. Du Bois: The Fight for Equality and the American Century, 1919-1963,'' by David Levering Lewis.
+Assistant: **Justification:** The passage does not mention an individual described as a leader, activist, or politician, or a member of a specific political or activist organization referencing or drawing upon W.E.B. Du Bois's work or legacy. Instead, it appears to be a biography title about Du Bois, written by David Levering Lewis. There is no indication of an activist or organization connecting their agenda to Du Bois.
+
+**Codes Applied:**
+- None

@@ -1,0 +1,5 @@
+User: Influenced by men like Marcus Garvey and W. E. B. Du Bois, Dr. Brisbane in turn became a counselor to a younger generation of civil rights campaigners in the South. He was well known beyond the Atlanta campus of Morehouse as the author of a textbook, ''The Black Vanguard: Origins of the Negro Social Revolution, 1900-1960'' (Judson, 1970), and a later book, ''Black Activism: Racial Revolution in the United States, 1954-1970'' (Judson, 1974).
+Assistant: **Justification:** The passage does not mention any enduring cultural object being named after W.E.B. Du Bois, such as a prize, building, or institute. Instead, it discusses Dr. Brisbane's influences and his own work as an author. Therefore, the code "Monumental Memorialization" is not applicable in this context.
+
+**Codes Applied:**
+- None

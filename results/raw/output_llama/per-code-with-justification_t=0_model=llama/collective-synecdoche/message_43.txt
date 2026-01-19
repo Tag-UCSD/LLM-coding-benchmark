@@ -1,0 +1,5 @@
+User: While in New York he met Langston Hughes, whose poetry he admired, and got to know the principals of the Harlem Renaissance. At one point, he thought he might write his thesis on W. E. B. Du Bois. But according to Mr. Woodward, Mr. Du Bois heard his Southern accent and backed off.
+Assistant: **Justification:** The passage does not apply the code because W.E.B. Du Bois is mentioned as an individual that the subject of the passage considered writing about, rather than being mentioned alongside other famous intellectuals or public figures to represent a culture, era, or ideology. The mention of Langston Hughes and the Harlem Renaissance does provide some context, but Du Bois is specifically referenced in relation to the subject's potential thesis topic, rather than being grouped with others to represent a broader concept.
+
+**Codes Applied:**
+- None

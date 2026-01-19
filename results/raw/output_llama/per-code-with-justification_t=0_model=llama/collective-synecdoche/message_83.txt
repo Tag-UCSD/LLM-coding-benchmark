@@ -1,0 +1,5 @@
+User: Mr. Clayton recalled his mother's longing -- and inability -- to find a home for her collection, where it could be used by everyone from esteemed scholars to black teenagers who have yet to hear of W. E. B. Du Bois. "Culture is the measure of a civilization," said Mr. Clayton, who left his job as an art teacher to shepherd his mother's collection. "Without evidence of a culture, there is no proof that a people exists."
+Assistant: **Justification:** The passage does not mention W.E.B. Du Bois alongside other famous intellectuals, activists, or public figures, but rather as a singular reference point for black teenagers who may not be familiar with him. The context is about a collection and its potential use, rather than representing a facet of a culture, era, or ideology through a grouping of notable figures. Therefore, the code Collective Synecdoche is not applicable in this case.
+
+**Codes Applied:**
+- None

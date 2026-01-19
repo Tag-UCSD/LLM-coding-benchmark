@@ -1,0 +1,5 @@
+User: It was “Leave It to Beaver,” but black, to hear Mr. Walcott describe his childhood in the Addisleigh Park section of southeast Queens, a destination for ambitious émigrés from Harlem and Brooklyn that was already dotted with celebrities like John Coltrane, Ella Fitzgerald, and W. E. B. Du Bois.
+Assistant: **Justification:** The passage mentions W.E.B. Du Bois alongside other famous individuals, specifically John Coltrane and Ella Fitzgerald, who are all notable figures in their respective fields, thereby representing a facet of Black excellence and cultural significance in the context of the Addisleigh Park community. This grouping of notable figures to represent a cultural or ideological aspect aligns with the definition of Collective Synecdoche. The mention of these celebrities together serves to illustrate the prestigious and culturally rich environment of the neighborhood.
+
+**Codes Applied:**
+- Collective Synecdoche
