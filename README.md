@@ -79,7 +79,7 @@ The current repository is organized by workflow stage:
 - **Code difficulty varies widely**: Easiest code for all models (Monumental, avg κ = 0.918) vs hardest code (Out of Mouth Activists, avg κ = 0.185).
 - Per-code with justification (chain-of-thought) continues to be the most effective prompt strategy.
 
-See `RESULTS_SUMMARY.md` for complete analysis and `results/figures/` for visualizations.
+See `results/figures/` for visualizations.
 
 ## Getting Started
 
